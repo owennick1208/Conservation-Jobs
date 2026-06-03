@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Field Notices — wildlife &amp; conservation jobs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4efe3; --paper-2:#ece5d4; --card:#fbf8f0;
+    --ink:#211f17; --ink-soft:#5c5746; --faint:#8a836e;
+    --moss:#3c5a36; --moss-deep:#2b4427; --rust:#a5421d; --gold:#9a7b2e;
+    --line:#cfc6ad; --line-soft:#ded6c0;
+    --shadow:0 1px 0 rgba(33,31,23,.04), 0 12px 28px -18px rgba(33,31,23,.45);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background-color:var(--paper);
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+    color:var(--ink);
+    font-family:"Hanken Grotesk",system-ui,sans-serif;
+    line-height:1.5; -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1000px;margin:0 auto;padding:0 22px}
+
+  /* Masthead */
+  .masthead{padding:54px 0 26px;border-bottom:2px solid var(--ink);position:relative}
+  .masthead::after{content:"";position:absolute;left:0;right:0;bottom:-7px;height:1px;background:var(--ink)}
+  .eyebrow{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:var(--moss-deep);font-weight:600;margin:0 0 14px}
+  .masthead h1{
+    font-family:"Fraunces",serif;font-optical-sizing:auto;
+    font-weight:600;font-size:clamp(2.6rem,7vw,4.6rem);line-height:.94;
+    letter-spacing:-.015em;margin:0;
+  }
+  .masthead h1 em{font-style:italic;color:var(--moss)}
+  .tagline{margin:16px 0 0;max-width:48ch;color:var(--ink-soft);font-size:1.02rem}
+  .runline{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:18px;font-size:.82rem;color:var(--faint)}
+  .runline b{color:var(--ink);font-weight:600}
+
+  /* Controls */
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:22px 0 6px}
+  .search{flex:1 1 280px;position:relative}
+  .search input{
+    width:100%;padding:13px 14px 13px 40px;border:1px solid var(--line);border-radius:2px;
+    background:var(--card);font:inherit;color:var(--ink);outline:none;
+  }
+  .search input:focus{border-color:var(--moss);box-shadow:0 0 0 3px rgba(60,90,54,.14)}
+  .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--faint)}
+  select{
+    padding:12px 32px 12px 12px;border:1px solid var(--line);border-radius:2px;background:var(--card);
+    font:inherit;color:var(--ink);cursor:pointer;
+    appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%235c5746' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 12px center;
+  }
+  .check{display:flex;align-items:center;gap:7px;font-size:.9rem;color:var(--ink-soft);cursor:pointer;user-select:none}
+  .check input{accent-color:var(--moss);width:16px;height:16px}
+
+  .chips{display:flex;flex-wrap:wrap;gap:8px;padding:14px 0 0}
+  .chip{
+    border:1px solid var(--line);background:transparent;border-radius:999px;
+    padding:6px 13px;font:inherit;font-size:.84rem;color:var(--ink-soft);cursor:pointer;
+    display:inline-flex;align-items:center;gap:7px;transition:.15s;
+  }
+  .chip .dot{width:8px;height:8px;border-radius:50%;background:var(--faint)}
+  .chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+  .chip[aria-pressed="true"] .n{opacity:.7}
+  .chip .n{font-variant-numeric:tabular-nums}
+
+  /* Result meta + banner */
+  .resultbar{display:flex;justify-content:space-between;align-items:baseline;
+    padding:22px 0 10px;border-bottom:1px solid var(--line-soft);margin-top:18px}
+  .resultbar .count{font-family:"Fraunces",serif;font-size:1.15rem;font-weight:600}
+  .resultbar .sortnote{font-size:.8rem;color:var(--faint)}
+  .banner{margin:16px 0 0;padding:10px 14px;border:1px dashed var(--gold);border-radius:2px;
+    background:rgba(154,123,46,.07);color:#6b5418;font-size:.86rem}
+
+  /* Listing */
+  .list{margin:0;padding:4px 0 0}
+  .entry{
+    display:grid;grid-template-columns:96px 1fr auto;gap:18px;align-items:start;
+    padding:20px 14px;border-bottom:1px solid var(--line-soft);
+    margin:0 -14px;border-radius:2px;
+    animation:rise .5s cubic-bezier(.2,.7,.2,1) both;
+  }
+  .entry:hover{background:var(--card);box-shadow:inset 3px 0 0 var(--moss)}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  .entry__side{display:flex;flex-direction:column;gap:7px;padding-top:3px}
+  .tag{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700;
+    padding:3px 7px;border-radius:2px;width:fit-content;color:#fff}
+  .tag--parc{background:var(--moss)}
+  .tag--tamu{background:var(--moss-deep)}
+  .tag--fws{background:#3a4d63}
+  .etype{font-size:.72rem;color:var(--faint);letter-spacing:.04em}
+
+  .entry__title{font-family:"Fraunces",serif;font-weight:600;font-size:1.28rem;line-height:1.2;margin:0 0 5px}
+  .entry__title a{color:var(--ink);text-decoration:none;background-image:linear-gradient(var(--moss),var(--moss));
+    background-size:0% 1.5px;background-repeat:no-repeat;background-position:0 1.05em;transition:background-size .25s}
+  .entry__title a:hover{color:var(--moss-deep);background-size:100% 1.5px}
+  .entry__meta{margin:0;color:var(--ink-soft);font-size:.94rem}
+  .entry__meta .sep{color:var(--line);margin:0 7px}
+  .taglets{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
+  .taglet{font-size:.72rem;color:var(--moss-deep);background:rgba(60,90,54,.1);
+    border-radius:2px;padding:2px 8px}
+
+  .entry__deadline{text-align:right;white-space:nowrap;padding-top:3px}
+  .pill{font-size:.78rem;font-weight:600;font-variant-numeric:tabular-nums}
+  .pill .lab{display:block;font-size:.64rem;font-weight:600;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--faint);margin-bottom:2px}
+  .pill--due{color:var(--ink)}
+  .pill--soon{color:var(--rust)}
+  .pill--soon .lab{color:var(--rust);opacity:.8}
+  .pill--closed{color:var(--faint);text-decoration:line-through}
+  .pill--rolling{color:var(--moss-deep)}
+
+  .empty{padding:60px 14px;text-align:center;color:var(--faint)}
+  .empty h3{font-family:"Fraunces",serif;color:var(--ink-soft);font-weight:600;margin:0 0 6px}
+
+  footer{margin:46px 0 60px;padding-top:22px;border-top:1px solid var(--line);
+    color:var(--faint);font-size:.84rem}
+  footer a{color:var(--moss-deep)}
+  footer p{margin:6px 0}
+
+  @media(max-width:620px){
+    .entry{grid-template-columns:1fr;gap:8px}
+    .entry__side{flex-direction:row;align-items:center}
+    .entry__deadline{text-align:left}
+    .pill .lab{display:inline;margin-right:6px}
+    .masthead{padding-top:38px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="eyebrow" id="eyebrow">Wildlife · Conservation · Fisheries · Herpetology</p>
+    <h1>Field <em>Notices</em></h1>
+    <p class="tagline">A personal index of wildlife and conservation job openings, gathered from the boards worth watching.</p>
+    <div class="runline" id="runline"></div>
+  </header>
+
+  <section class="controls">
+    <label class="search">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="7" cy="7" r="5.2" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.2 3.2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Search title, employer, place, pay…" autocomplete="off" />
+    </label>
+    <select id="etype" aria-label="Employer type"></select>
+    <select id="sort" aria-label="Sort order">
+      <option value="deadline">Deadline · soonest</option>
+      <option value="published">Recently posted</option>
+      <option value="employer">Employer · A–Z</option>
+    </select>
+    <label class="check"><input type="checkbox" id="hideClosed" /> Hide closed</label>
+  </section>
+  <div class="chips" id="sourceChips"></div>
+
+  <div class="banner" id="banner" hidden></div>
+
+  <div class="resultbar">
+    <span class="count" id="count">—</span>
+    <span class="sortnote" id="sortnote"></span>
+  </div>
+
+  <main class="list" id="list"></main>
+
+  <footer>
+    <p>Listings link straight to each employer's application page. Sources:
+      <a href="https://jobs.rwfm.tamu.edu/search/" target="_blank" rel="noopener">TAMU Natural Resources Board</a>,
+      <a href="https://parcplace.org/network/job-announcements/" target="_blank" rel="noopener">PARC</a>,
+      and <a href="https://www.usajobs.gov" target="_blank" rel="noopener">USAJobs (Fish &amp; Wildlife Service)</a>.</p>
+    <p id="footnote"></p>
+  </footer>
+
+</div>
+
+<script>
+// Fallback data so the page is never empty. The live site overwrites this
+// with docs/jobs.json, refreshed automatically each day.
+const FALLBACK = /*__SEED__*/ {"generated_at": "2026-04-02T12:00:00+00:00", "count": 18, "seed": true, "sources": {"parc": {"name": "PARC (herpetology)", "count": 8, "ok": true}, "tamu": {"name": "TAMU Natural Resources Board", "count": 10, "ok": true}, "fws": {"name": "USAJobs · Fish & Wildlife Service", "count": 0, "ok": true}}, "jobs": [{"id": "tamu-115303", "title": "IA Wildlife Management Specialist", "url": "https://www.pheasantsforever.org/jobs", "employer": "Pheasants Forever and Quail Forever", "employer_type": "Federal", "location": "Kellerton / Early, Iowa", "salary": "starting at $17 / hour", "deadline": "2026-04-12", "deadline_raw": "04/12/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115303", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115333", "title": "Senior Wildlife Biologist", "url": "https://www.governmentjobs.com/careers/wyoming/jobs/5287771/senior-wildlife-biologist-2026-00907", "employer": "Wyoming Game & Fish Division", "employer_type": "State", "location": "Grey Bull, Wyoming", "salary": "$6,171.35 – $6,857.05 / month", "deadline": "2026-04-13", "deadline_raw": "04/13/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115333", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115304", "title": "Cowlitz Falls Fish Facility Biologist", "url": "http://www.tacoma.gov/", "employer": "City of Tacoma", "employer_type": "City", "location": "Randle, Washington", "salary": "$98,280 – $138,320 / year", "deadline": "2026-04-15", "deadline_raw": "04/15/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115304", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115309", "title": "Michael Gonzales Environmental Science Internship", "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b00969b-cd4f-46ff-843c-0ca700b59ca3&ccId=19000101_000001&jobId=513855&lang=en_US", "employer": "San Antonio River Authority", "employer_type": "State", "location": "San Antonio, Texas", "salary": "$15.38 / hour", "deadline": "2026-04-17", "deadline_raw": "04/17/2026", "published": "2026-04-02", "tags": ["Undergraduate", "Internship"], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115309", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115308", "title": "Wildlife Nutrition Student Fellow", "url": "https://jobs.dayforcehcm.com/en-US/sdzwa/CANDIDATEPORTAL/jobs/24446", "employer": "San Diego Zoo Wildlife Alliance", "employer_type": "State", "location": "San Diego / Escondido, CA", "salary": "starting at $19.50 / hour", "deadline": "2026-04-24", "deadline_raw": "04/24/2026", "published": "2026-04-02", "tags": ["Fellowship"], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115308", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115307", "title": "Assistant Professor of Interpretation", "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Assistant-Professor-of-Interpretation_JR10009793", "employer": "University of Wisconsin – Stevens Point", "employer_type": "State", "location": "Stevens Point, Wisconsin", "salary": "starting at $57,000 / year", "deadline": "2026-04-30", "deadline_raw": "04/30/2026", "published": "2026-04-02", "tags": ["Faculty / Post-Doc"], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115307", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115305", "title": "Assistant Professor of Community and Regional Planning", "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Assistant-Professor-of-Community-and-Regional-Planning_JR10009774", "employer": "University of Wisconsin – Stevens Point", "employer_type": "State", "location": "Stevens Point, Wisconsin", "salary": "starting at $73,500 / year", "deadline": "2026-04-30", "deadline_raw": "04/30/2026", "published": "2026-04-02", "tags": ["Faculty / Post-Doc"], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115305", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115306", "title": "Research Data Technician – Hayspur Fish Hatchery", "url": "https://idfg.idaho.gov/job/159939", "employer": "Idaho Department of Fish and Game", "employer_type": "State", "location": "Bellevue, Idaho", "salary": "starting at $17.13 / hour", "deadline": "2026-05-01", "deadline_raw": "05/01/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115306", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "tamu-115335", "title": "Fish Culture Specialist", "url": "https://www.governmentjobs.com/careers/wyoming/jobs/5291090/fish-culture-specialist-2026-00947", "employer": "Wyoming Game & Fish Division", "employer_type": "State", "location": "Clark, Wyoming", "salary": "starting at $24.11 / hour", "deadline": "2026-05-02", "deadline_raw": "05/02/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115335", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "parc-a981cc643a", "title": "Visiting Professor or Lecturer", "url": "https://merceruniversity.wd1.myworkdayjobs.com/en-US/external/job/Visiting-Assistant-Professor---Visiting-Lecturer-of-Biology_F27-031", "employer": "Mercer University", "employer_type": null, "location": "Macon, GA", "salary": "Negotiated with Dean", "deadline": "2026-05-15", "deadline_raw": "05-15-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-de8f9ac8b1", "title": "Herpetofauna Private Lands Biologist (PSP I)", "url": "https://www.ugajobsearch.com/postings/479457", "employer": "University of Georgia", "employer_type": null, "location": "Asheville/Waynesville, NC", "salary": "$54,636", "deadline": "2026-05-30", "deadline_raw": "05-30-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-d21fce5145", "title": "Herpetofauna Private Lands Biologist (PSP I)", "url": "https://www.ugajobsearch.com/postings/477119", "employer": "University of Georgia", "employer_type": null, "location": "Knoxville, TN", "salary": "$54,636", "deadline": "2026-05-30", "deadline_raw": "05-30-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-05b7ab49c0", "title": "Herpetofauna Private Lands Biologist (PSP I)", "url": "https://www.ugajobsearch.com/postings/477118", "employer": "University of Georgia", "employer_type": null, "location": "Elkins, WV", "salary": "$54,636", "deadline": "2026-05-30", "deadline_raw": "05-30-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-1cccb4f827", "title": "Herpetofauna Field Biologist (GA)", "url": "https://arcprotects.org/biologistga/", "employer": "Amphibian and Reptile Conservancy", "employer_type": null, "location": "Fort Stewart Army Base (Hinesville, GA)", "salary": "$35,000 – $45,000 / year", "deadline": "2026-05-31", "deadline_raw": "05-31-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "tamu-115310", "title": "Animal Keeper (Full-time)", "url": "https://www.safehavenwildlife.com/", "employer": "Safe Haven Wildlife Sanctuary", "employer_type": "Private", "location": "Imlay, Nevada", "salary": "starting at $20 / hour", "deadline": "2026-06-01", "deadline_raw": "06/01/2026", "published": "2026-04-02", "tags": [], "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115310", "source": "TAMU Natural Resources Board", "source_key": "tamu"}, {"id": "parc-e0d6d9edb2", "title": "Zoology Collections Manager/Curator", "url": "https://fhsu.wd503.myworkdayjobs.com/CAREERS", "employer": "Sternberg Museum of Natural History", "employer_type": null, "location": "Hays, Kansas", "salary": "$42,000 – $52,000 / year", "deadline": "2026-06-19", "deadline_raw": "06-19-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-6d8263f99e", "title": "Amphibian Conservation Specialist", "url": "https://job-boards.greenhouse.io/nashvillezoo/jobs/5222718008", "employer": "Nashville Zoo", "employer_type": null, "location": "Nashville, TN", "salary": "$22.29 – $24.96 / hour", "deadline": "2026-07-15", "deadline_raw": "07-15-2026", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}, {"id": "parc-7f7b5d9732", "title": "Jamaican Iguana Research Opportunities 2025", "url": "https://www.iguanafoundation.org/get-involved/", "employer": "International Iguana Foundation", "employer_type": null, "location": "Southern Jamaica", "salary": "Stipend (expenses + flights)", "deadline": null, "deadline_raw": "Open until filled", "published": null, "tags": [], "detail_url": null, "source": "PARC (herpetology)", "source_key": "parc"}]};
+
+const state = { data: null, sources: new Set(), q: "", etype: "all", sort: "deadline", hideClosed: false };
+
+const $ = (id) => document.getElementById(id);
+const SRC_LABEL = { parc: "PARC", tamu: "TAMU", fws: "FWS" };
+
+function fmtDate(iso){
+  if(!iso) return null;
+  const d = new Date(iso + "T00:00:00");
+  if(isNaN(d)) return null;
+  return d.toLocaleDateString("en-US", { month:"short", day:"numeric" });
+}
+function daysUntil(iso){
+  if(!iso) return null;
+  const d = new Date(iso + "T00:00:00");
+  if(isNaN(d)) return null;
+  return Math.round((d - new Date(new Date().toDateString())) / 86400000);
+}
+
+function deadlinePill(job){
+  const dleft = daysUntil(job.deadline);
+  if(dleft === null){
+    const raw = job.deadline_raw && !/^\s*$/.test(job.deadline_raw) ? job.deadline_raw : "Rolling";
+    return `<div class="pill pill--rolling"><span class="lab">Apply by</span>${raw}</div>`;
+  }
+  if(dleft < 0)  return `<div class="pill pill--closed"><span class="lab">Closed</span>${fmtDate(job.deadline)}</div>`;
+  if(dleft <= 14) return `<div class="pill pill--soon"><span class="lab">Closing</span>${dleft===0?"today":dleft+"d left"}</div>`;
+  return `<div class="pill pill--due"><span class="lab">Apply by</span>${fmtDate(job.deadline)}</div>`;
+}
+
+function matches(job){
+  if(state.sources.size && !state.sources.has(job.source_key)) return false;
+  if(state.etype !== "all" && (job.employer_type || "—") !== state.etype) return false;
+  if(state.hideClosed){ const d = daysUntil(job.deadline); if(d !== null && d < 0) return false; }
+  if(state.q){
+    const hay = [job.title, job.employer, job.location, job.salary, job.source, (job.tags||[]).join(" ")]
+      .filter(Boolean).join(" ").toLowerCase();
+    if(!hay.includes(state.q)) return false;
+  }
+  return true;
+}
+
+function sortJobs(jobs){
+  const a = [...jobs];
+  if(state.sort === "deadline") a.sort((x,y)=>(x.deadline||"9999")>(y.deadline||"9999")?1:-1);
+  else if(state.sort === "published") a.sort((x,y)=>(y.published||"")>(x.published||"")?1:-1);
+  else a.sort((x,y)=>(x.employer||"").localeCompare(y.employer||""));
+  return a;
+}
+
+function esc(s){ return (s==null?"":String(s)).replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c])); }
+
+function render(){
+  const jobs = sortJobs(state.data.jobs.filter(matches));
+  const list = $("list");
+  $("count").textContent = jobs.length + (jobs.length === 1 ? " opening" : " openings");
+  $("sortnote").textContent = { deadline:"by deadline", published:"newest first", employer:"by employer" }[state.sort];
+
+  if(!jobs.length){
+    list.innerHTML = `<div class="empty"><h3>Nothing matches yet</h3><p>Try clearing the search or turning sources back on.</p></div>`;
+    return;
+  }
+  list.innerHTML = jobs.map((job,i)=>{
+    const meta = [job.employer, job.location, job.salary].filter(Boolean)
+      .map(esc).join('<span class="sep">·</span>');
+    const tags = (job.tags||[]).length
+      ? `<div class="taglets">${job.tags.map(t=>`<span class="taglet">${esc(t)}</span>`).join("")}</div>` : "";
+    const etype = job.employer_type ? `<span class="etype">${esc(job.employer_type)}</span>` : "";
+    return `<article class="entry" style="animation-delay:${Math.min(i*28,420)}ms">
+      <div class="entry__side">
+        <span class="tag tag--${esc(job.source_key)}">${esc(SRC_LABEL[job.source_key]||job.source_key)}</span>
+        ${etype}
+      </div>
+      <div class="entry__body">
+        <h2 class="entry__title"><a href="${esc(job.url)}" target="_blank" rel="noopener">${esc(job.title)}</a></h2>
+        <p class="entry__meta">${meta}</p>
+        ${tags}
+      </div>
+      <div class="entry__deadline">${deadlinePill(job)}</div>
+    </article>`;
+  }).join("");
+}
+
+function buildSourceChips(){
+  const counts = {};
+  state.data.jobs.forEach(j=>counts[j.source_key]=(counts[j.source_key]||0)+1);
+  const box = $("sourceChips");
+  box.innerHTML = Object.keys(counts).sort().map(k=>
+    `<button class="chip" data-src="${k}" aria-pressed="false">
+       <span class="dot" style="background:${k==='parc'?'var(--moss)':k==='tamu'?'var(--moss-deep)':'#3a4d63'}"></span>
+       ${SRC_LABEL[k]||k} <span class="n">${counts[k]}</span>
+     </button>`).join("");
+  box.querySelectorAll(".chip").forEach(btn=>{
+    btn.addEventListener("click", ()=>{
+      const k = btn.dataset.src;
+      if(state.sources.has(k)) state.sources.delete(k); else state.sources.add(k);
+      btn.setAttribute("aria-pressed", state.sources.has(k));
+      render();
+    });
+  });
+}
+
+function buildTypeSelect(){
+  const types = [...new Set(state.data.jobs.map(j=>j.employer_type).filter(Boolean))].sort();
+  $("etype").innerHTML = `<option value="all">All employers</option>` +
+    types.map(t=>`<option value="${esc(t)}">${esc(t)}</option>`).join("");
+}
+
+function buildRunline(){
+  const d = state.data;
+  const when = d.generated_at ? new Date(d.generated_at).toLocaleString("en-US",
+    {month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}) : "—";
+  const srcCount = d.sources ? Object.keys(d.sources).length : 0;
+  $("runline").innerHTML =
+    `<span><b>${d.count||d.jobs.length}</b> openings tracked</span>
+     <span>across <b>${srcCount||3}</b> boards</span>
+     <span>updated <b>${when}</b></span>`;
+  $("footnote").textContent = d.seed
+    ? "Showing sample listings — the daily scrape will replace these with live data."
+    : "Refreshed automatically once a day.";
+  if(d.seed){
+    const b = $("banner"); b.hidden = false;
+    b.textContent = "Preview data. Once you run the scraper (or your daily GitHub Action does), this fills with live openings.";
+  }
+}
+
+function init(data){
+  state.data = data;
+  if(!data.jobs) data.jobs = [];
+  buildRunline(); buildSourceChips(); buildTypeSelect(); render();
+  $("q").addEventListener("input", e=>{ state.q = e.target.value.trim().toLowerCase(); render(); });
+  $("etype").addEventListener("change", e=>{ state.etype = e.target.value; render(); });
+  $("sort").addEventListener("change", e=>{ state.sort = e.target.value; render(); });
+  $("hideClosed").addEventListener("change", e=>{ state.hideClosed = e.target.checked; render(); });
+}
+
+fetch("jobs.json", {cache:"no-store"})
+  .then(r=>{ if(!r.ok) throw new Error("no file"); return r.json(); })
+  .then(init)
+  .catch(()=>init(FALLBACK));
+</script>
+</body>
+</html>
