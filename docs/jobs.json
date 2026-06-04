@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-04T21:59:38+00:00",
-  "count": 765,
+  "generated_at": "2026-06-04T22:11:08+00:00",
+  "count": 757,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
-      "count": 8,
-      "ok": true
+      "count": 0,
+      "ok": false,
+      "error": "415 Client Error: Unsupported Media Type for url: https://parcplace.org/network/job-announcements/"
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
@@ -19,86 +20,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "parc-a981cc643a",
-      "title": "Visiting Professor or Lecturer",
-      "url": "https://merceruniversity.wd1.myworkdayjobs.com/en-US/external/job/Visiting-Assistant-Professor---Visiting-Lecturer-of-Biology_F27-031",
-      "employer": "Mercer University",
-      "employer_type": null,
-      "location": "Macon, GA",
-      "salary": "Negotiated with Dean",
-      "deadline": "2026-05-15",
-      "deadline_raw": "05-15-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
-    {
-      "id": "parc-de8f9ac8b1",
-      "title": "Herpetofauna Private Lands Biologist (Public Service Professional I)",
-      "url": "https://www.ugajobsearch.com/postings/479457",
-      "employer": "University of Georgia",
-      "employer_type": null,
-      "location": "Asheville/Waynesville, NC",
-      "salary": "$54,636",
-      "deadline": "2026-05-30",
-      "deadline_raw": "05-30-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
-    {
-      "id": "parc-d21fce5145",
-      "title": "Herpetofauna Private Lands Biologist (Public Service Professional I)",
-      "url": "https://www.ugajobsearch.com/postings/477119",
-      "employer": "University of Georgia",
-      "employer_type": null,
-      "location": "Knoxville, TN",
-      "salary": "$54,636",
-      "deadline": "2026-05-30",
-      "deadline_raw": "05-30-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
-    {
-      "id": "parc-05b7ab49c0",
-      "title": "Herpetofauna Private Lands Biologist (Public Service Professional I)",
-      "url": "https://www.ugajobsearch.com/postings/477118",
-      "employer": "University of Georgia",
-      "employer_type": null,
-      "location": "Elkins, WV",
-      "salary": "$54,636",
-      "deadline": "2026-05-30",
-      "deadline_raw": "05-30-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
-    {
-      "id": "parc-1cccb4f827",
-      "title": "Herpetofauna Field Biologist (GA)",
-      "url": "https://arcprotects.org/biologistga/",
-      "employer": "Amphibian and Reptile Conservancy",
-      "employer_type": null,
-      "location": "Fort Stewart Army Base (Hinesville, GA)",
-      "salary": "$35,000-$45,000/year",
-      "deadline": "2026-05-31",
-      "deadline_raw": "05-31-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
     {
       "id": "tamu-116732",
       "title": "Untitled posting",
@@ -4110,22 +4031,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114410",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-e0d6d9edb2",
-      "title": "Zoology Collections Manager/Curator",
-      "url": "https://fhsu.wd503.myworkdayjobs.com/CAREERS",
-      "employer": "Sternberg Museum of Natural History",
-      "employer_type": null,
-      "location": "Hays, Kansas",
-      "salary": "$42,000-$52,000/year",
-      "deadline": "2026-06-19",
-      "deadline_raw": "06-19-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "tamu-116739",
@@ -8478,22 +8383,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114427",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-6d8263f99e",
-      "title": "Amphibian Conservation Specialist",
-      "url": "https://job-boards.greenhouse.io/nashvillezoo/jobs/5222718008",
-      "employer": "Nashville Zoo",
-      "employer_type": null,
-      "location": "Nashville, TN",
-      "salary": "$22.29 – $24.96/Hour",
-      "deadline": "2026-07-15",
-      "deadline_raw": "07-15-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "tamu-116708",
@@ -12999,22 +12888,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114197",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-7f7b5d9732",
-      "title": "Jamaican Iguana Research Opportunities 2025",
-      "url": "https://www.iguanafoundation.org/get-involved/",
-      "employer": null,
-      "employer_type": null,
-      "location": "Southern Jamaica",
-      "salary": "Stipend to cover all in country expenses and flights",
-      "deadline": null,
-      "deadline_raw": "Open until filled",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     }
   ]
 }
