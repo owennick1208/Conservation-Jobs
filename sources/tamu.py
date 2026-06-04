@@ -1,19 +1,14 @@
 """Texas A&M Natural Resources Job Board  (jobs.rwfm.tamu.edu).
 
-The big one — ~1,200 conservation / wildlife / fisheries postings. The search
-results are loaded with JavaScript, so we:
+The board paginates its search results with plain URL parameters
+(?PageSize=&PageNum=) and renders every job's fields server-side, so we can
+read the whole board without running any JavaScript:
 
-  1. Pull job ids (view-job/?id=NNNN) from the search page(s).
-  2. Fetch each posting's own detail page, which IS server-rendered, and read
-     the labelled fields ("Posting:", "Application Deadline:", "Salary:", ...).
+  1. Walk pages /search/?PageSize=50&PageNum=1, 2, 3 ... until nothing new.
+  2. For each job card, read the labelled fields straight off the results.
 
-Reading by label keeps this resilient to markup changes.
-
-NOTE ON PAGINATION: the public search uses an AJAX call we can't see from
-outside, so by default this grabs the ids exposed on the first results page
-(the most recently published jobs). If you want the full archive, open the
-board in your browser, watch the Network tab while clicking "next page", and
-paste the request URL into AJAX_URL below — the loop will then walk every page.
+Each listing links to its posting page on the board, which carries the
+employer's own application link.
 """
 import re
 import time
@@ -25,126 +20,116 @@ from .util import clean, to_iso
 
 NAME = "TAMU Natural Resources Board"
 KEY = "tamu"
-SEARCH_URL = "https://jobs.rwfm.tamu.edu/search/"
-DETAIL_URL = "https://jobs.rwfm.tamu.edu/view-job/?id={id}"
-HEADERS = {"User-Agent": "Mozilla/5.0 (personal-wildlife-job-aggregator)"}
+BASE = "https://jobs.rwfm.tamu.edu"
+SEARCH = BASE + "/search/?PageSize={size}&PageNum={num}"
+DETAIL = BASE + "/view-job/?id={id}"
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; conservation-jobs-aggregator/1.0)"}
 
-# Optional: paste the real paginated results endpoint here to fetch everything.
-AJAX_URL = None
-MAX_PAGES = 30          # safety cap when walking pages
-REQUEST_PAUSE = 0.34    # be polite between detail-page fetches
+PAGE_SIZE = 50
+MAX_PAGES = 80      # safety cap (50 x 80 = 4,000 possible listings)
+PAUSE = 0.5         # be polite between page requests
 
-_EMPLOYER_TYPE = r"(Federal|State|County|City|Tribal Government|Private)"
-
-
-def _discover_ids(session):
-    """Collect posting ids from the search page (and any reachable pages)."""
-    ids, seen_pages = [], set()
-    pages = [SEARCH_URL]
-    if AJAX_URL:
-        pages = [AJAX_URL.format(page=p) for p in range(1, MAX_PAGES + 1)]
-    else:
-        # Best-effort: many boards still honour a ?page= query on GET.
-        pages += [f"{SEARCH_URL}?page={p}" for p in range(2, MAX_PAGES + 1)]
-
-    for url in pages:
-        if url in seen_pages:
-            continue
-        seen_pages.add(url)
-        try:
-            resp = session.get(url, timeout=30)
-            resp.raise_for_status()
-        except requests.RequestException:
-            break
-        found = re.findall(r"view-job/\?id=(\d+)", resp.text)
-        new = [i for i in found if i not in ids]
-        if not new:
-            # No new ids on this page -> assume we've reached the end.
-            if url != SEARCH_URL:
-                break
-            continue
-        ids.extend(new)
-    return ids
+_TYPE = r"(Federal|State|County|City|Tribal Government|Private|Non[- ]?Profit|Academic)"
+_LABELS = [
+    "Application Deadline", "Published", "Starting Date", "Ending Date",
+    "Hours per Week", "Salary", "Education Required", "Experience Required",
+    "Location", "Locations",
+]
+_BOUNDARY = "|".join(re.escape(l) for l in _LABELS)
 
 
-def _field(text, label):
-    m = re.search(rf"{label}\s*:?\s*(.+)", text)
-    return clean(m.group(1)) if m else None
-
-
-def _parse_detail(html, job_id):
-    soup = BeautifulSoup(html, "html.parser")
-    full = soup.get_text("\n")
-    lines = [clean(x) for x in full.split("\n") if clean(x)]
-
-    # Title: first meaningful heading that isn't the site name.
-    title = None
-    for tag in soup.find_all(["h1", "h2", "h3"]):
-        t = clean(tag.get_text())
-        if t and "job board" not in t.lower():
-            title = t
-            break
-
-    # Employer + type, e.g. "Idaho Department of Fish and Game (State)".
-    employer = employer_type = None
-    for line in lines[:25]:
-        m = re.match(rf"(.+?)\s*\(\s*{_EMPLOYER_TYPE}\s*\)\s*$", line)
-        if m:
-            employer, employer_type = clean(m.group(1)), m.group(2)
-            break
-
-    def field(label):
-        for line in lines:
-            if line.lower().startswith(label.lower()):
-                return _field(line, label)
+def _grab(text, label):
+    """Pull a labelled value, stopping at the next known label."""
+    m = re.search(
+        rf"{re.escape(label)}\s*:\s*(.*?)(?=\s*(?:{_BOUNDARY})\s*:|$)", text
+    )
+    if not m:
         return None
+    val = clean(m.group(1))
+    if not val:
+        return None
+    # Trim trailing relative-time noise like "5 months ago" / "New".
+    val = re.sub(r"\s*\b\d+\s+\w+\s+ago\b.*$", "", val)
+    val = re.sub(r"\s*\bNew\b\s*$", "", val)
+    return clean(val)
 
-    # Application URL: the first external http link after the "Posting:" label.
-    apply_url = None
-    posting_anchor = soup.find(string=re.compile(r"Posting", re.I))
-    if posting_anchor:
-        nxt = posting_anchor.find_next("a", href=True)
-        if nxt:
-            apply_url = nxt["href"]
-    if not apply_url:
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if href.startswith("http") and "rwfm.tamu.edu" not in href:
-                apply_url = href
+
+def _parse_page(html):
+    soup = BeautifulSoup(html, "html.parser")
+    jobs, seen = [], set()
+
+    for a in soup.select('a[href*="view-job"]'):
+        m = re.search(r"id=(\d+)", a.get("href", ""))
+        if not m:
+            continue
+        jid = m.group(1)
+        if jid in seen:
+            continue
+
+        # Climb to the smallest enclosing block that holds this job's fields.
+        container, node = None, a
+        for _ in range(6):
+            node = node.parent
+            if node is None:
                 break
+            if "Application Deadline" in node.get_text():
+                container = node
+                break
+        if container is None:
+            continue  # an anchor that isn't a real job card (e.g. a nav link)
+        seen.add(jid)
 
-    deadline_raw = field("Application Deadline")
-    detail = DETAIL_URL.format(id=job_id)
-    return {
-        "id": f"{KEY}-{job_id}",
-        "title": title or "Untitled posting",
-        "url": apply_url or detail,
-        "employer": employer,
-        "employer_type": employer_type,
-        "location": field("Location") or field("Locations"),
-        "salary": field("Salary"),
-        "deadline": to_iso(deadline_raw),
-        "deadline_raw": deadline_raw,
-        "published": to_iso(field("Published")),
-        "tags": [],
-        "detail_url": detail,
-        "source": NAME,
-        "source_key": KEY,
-    }
+        text = clean(container.get_text(" ")) or ""
+        title = clean(a.get_text())
+        if title:
+            title = re.sub(r"^New\s+", "", title)
+
+        employer = employer_type = None
+        tail = text.split(title, 1)[1] if title and title in text else text
+        em = re.match(rf"\s*(.+?)\s*\(\s*{_TYPE}\s*\)", tail)
+        if em:
+            employer, employer_type = clean(em.group(1)), em.group(2)
+
+        deadline_raw = _grab(text, "Application Deadline")
+        jobs.append({
+            "id": f"{KEY}-{jid}",
+            "_jid": jid,
+            "title": title or "Untitled posting",
+            "url": DETAIL.format(id=jid),
+            "employer": employer,
+            "employer_type": employer_type,
+            "location": _grab(text, "Location") or _grab(text, "Locations"),
+            "salary": _grab(text, "Salary"),
+            "deadline": to_iso(deadline_raw),
+            "deadline_raw": deadline_raw,
+            "published": to_iso(_grab(text, "Published")),
+            "tags": [],
+            "detail_url": DETAIL.format(id=jid),
+            "source": NAME,
+            "source_key": KEY,
+        })
+    return jobs
 
 
 def scrape():
     session = requests.Session()
     session.headers.update(HEADERS)
-    ids = _discover_ids(session)
 
-    jobs = []
-    for job_id in ids:
+    out, seen = [], set()
+    for num in range(1, MAX_PAGES + 1):
         try:
-            resp = session.get(DETAIL_URL.format(id=job_id), timeout=30)
+            resp = session.get(SEARCH.format(size=PAGE_SIZE, num=num), timeout=30)
             resp.raise_for_status()
-            jobs.append(_parse_detail(resp.text, job_id))
         except requests.RequestException:
-            continue
-        time.sleep(REQUEST_PAUSE)
-    return jobs
+            break
+
+        page = _parse_page(resp.text)
+        new = [j for j in page if j["_jid"] not in seen]
+        if not new:
+            break  # no new jobs on this page -> we've reached the end
+        for j in new:
+            seen.add(j.pop("_jid"))
+            out.append(j)
+        time.sleep(PAUSE)
+
+    return out
