@@ -5,7 +5,8 @@ The board paginates its search results with plain URL parameters
 read the whole board without running any JavaScript:
 
   1. Walk pages /search/?PageSize=50&PageNum=1, 2, 3 ... until nothing new.
-  2. For each job card, read the labelled fields straight off the results.
+  2. For each job card, read the title, a short description, and the labelled
+     fields straight off the results.
 
 Each listing links to its posting page on the board, which carries the
 employer's own application link.
@@ -26,75 +27,108 @@ DETAIL = BASE + "/view-job/?id={id}"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; conservation-jobs-aggregator/1.0)"}
 
 PAGE_SIZE = 50
-MAX_PAGES = 80      # safety cap (50 x 80 = 4,000 possible listings)
+MAX_PAGES = 80      # safety cap
 PAUSE = 0.5         # be polite between page requests
 
+# Link text that is a button, not a job title.
+_STOP_TITLES = {"view", "view job", "details", "view details", "apply",
+                "apply now", "more", "read more", "view posting"}
 _TYPE = r"(Federal|State|County|City|Tribal Government|Private|Non[- ]?Profit|Academic)"
-_LABELS = [
+_VALUE_LABELS = [
     "Application Deadline", "Published", "Starting Date", "Ending Date",
     "Hours per Week", "Salary", "Education Required", "Experience Required",
     "Location", "Locations",
 ]
-_BOUNDARY = "|".join(re.escape(l) for l in _LABELS)
+# Boundary terms also include section headers that may lack a colon.
+_BOUNDARY = "|".join(re.escape(l) for l in _VALUE_LABELS + ["Description", "Contact"])
 
 
 def _grab(text, label):
-    """Pull a labelled value, stopping at the next known label."""
-    m = re.search(
-        rf"{re.escape(label)}\s*:\s*(.*?)(?=\s*(?:{_BOUNDARY})\s*:|$)", text
-    )
+    m = re.search(rf"{re.escape(label)}\s*:\s*(.*?)(?=\s*(?:{_BOUNDARY})\s*:?|$)", text)
     if not m:
         return None
     val = clean(m.group(1))
     if not val:
         return None
-    # Trim trailing relative-time noise like "5 months ago" / "New".
-    val = re.sub(r"\s*\b\d+\s+\w+\s+ago\b.*$", "", val)
+    val = re.sub(r"\s*\b\d+\s+\w+\s+ago\b.*$", "", val)   # "5 months ago"
     val = re.sub(r"\s*\bNew\b\s*$", "", val)
+    val = re.sub(r"\s*\b(?:View|Apply|Details|More)\b\s*$", "", val, flags=re.I)
     return clean(val)
+
+
+def _description(text):
+    m = re.search(r"Description\s*:?\s*(.*?)(?=\s*Contact\b|$)", text)
+    if not m:
+        return None
+    val = clean(m.group(1))
+    if not val:
+        return None
+    return (val[:277] + "…") if len(val) > 280 else val
 
 
 def _parse_page(html):
     soup = BeautifulSoup(html, "html.parser")
-    jobs, seen = [], set()
+    cards = {}  # jid -> {"container", "title"}
 
     for a in soup.select('a[href*="view-job"]'):
         m = re.search(r"id=(\d+)", a.get("href", ""))
         if not m:
             continue
         jid = m.group(1)
-        if jid in seen:
-            continue
+        txt = clean(a.get_text())
 
-        # Climb to the smallest enclosing block that holds this job's fields.
-        container, node = None, a
-        for _ in range(6):
-            node = node.parent
-            if node is None:
-                break
-            if "Application Deadline" in node.get_text():
-                container = node
-                break
-        if container is None:
-            continue  # an anchor that isn't a real job card (e.g. a nav link)
-        seen.add(jid)
+        entry = cards.get(jid)
+        if entry is None:
+            container, node = None, a
+            for _ in range(6):
+                node = node.parent
+                if node is None:
+                    break
+                if "Application Deadline" in node.get_text():
+                    container = node
+                    break
+            if container is None:
+                continue  # a nav/footer link, not a job card
+            entry = {"container": container, "title": None}
+            cards[jid] = entry
 
+        # Pick a real title: skip button text like "View"; prefer the longest.
+        if txt and txt.lower() not in _STOP_TITLES:
+            if not entry["title"] or len(txt) > len(entry["title"]):
+                entry["title"] = txt
+
+    jobs = []
+    for jid, entry in cards.items():
+        container = entry["container"]
         text = clean(container.get_text(" ")) or ""
-        title = clean(a.get_text())
-        if title:
-            title = re.sub(r"^New\s+", "", title)
+        title = entry["title"]
 
+        # Fallback 1: a heading element inside the card.
+        if not title:
+            h = container.find(["h1", "h2", "h3", "h4", "h5"])
+            if h:
+                title = clean(h.get_text())
+
+        # Employer + type, e.g. "Idaho Department of Fish and Game (State)".
         employer = employer_type = None
-        tail = text.split(title, 1)[1] if title and title in text else text
-        em = re.match(rf"\s*(.+?)\s*\(\s*{_TYPE}\s*\)", tail)
+        scan = text
+        if title and title in text:
+            scan = text.split(title, 1)[1]
+        em = re.search(rf"(.+?)\s*\(\s*{_TYPE}\s*\)", scan)
         if em:
             employer, employer_type = clean(em.group(1)), em.group(2)
+
+        # Fallback 2: derive a title from whatever sits before the employer.
+        if not title and em:
+            title = clean(scan[:em.start(1)]) or None
+        title = re.sub(r"^New\s+", "", title) if title else "Untitled posting"
 
         deadline_raw = _grab(text, "Application Deadline")
         jobs.append({
             "id": f"{KEY}-{jid}",
             "_jid": jid,
-            "title": title or "Untitled posting",
+            "title": title,
+            "description": _description(text),
             "url": DETAIL.format(id=jid),
             "employer": employer,
             "employer_type": employer_type,
@@ -122,14 +156,12 @@ def scrape():
             resp.raise_for_status()
         except requests.RequestException:
             break
-
         page = _parse_page(resp.text)
         new = [j for j in page if j["_jid"] not in seen]
         if not new:
-            break  # no new jobs on this page -> we've reached the end
+            break
         for j in new:
             seen.add(j.pop("_jid"))
             out.append(j)
         time.sleep(PAUSE)
-
     return out
