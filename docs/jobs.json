@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T17:12:34+00:00",
-  "count": 682,
+  "generated_at": "2026-06-07T17:25:28+00:00",
+  "count": 684,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -14,7 +14,7 @@
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 0,
+      "count": 2,
       "ok": true
     }
   },
@@ -564,6 +564,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "fws-R8-26-12972643-BZ-IMP",
+      "title": "FISH AND WILDLIFE BIOLOGIST",
+      "description": "This position is a FISH AND WILDLIFE BIOLOGIST, GS- 0401-12 working in Lodi, California for the R8-San Francisco Bay-Delta Fish and Wildlife. This is a temporary promotion not to exceed one (1) year. It may be extended without further competition for a total period of up to fi…",
+      "url": "https://www.usajobs.gov:443/job/871349200",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Lodi, California",
+      "salary": "$111896 – $145468 PA",
+      "deadline": "2026-06-09",
+      "deadline_raw": "2026-06-09T23:59:59.9970",
+      "published": "2026-06-02",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/871349200",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "tamu-116832",
       "title": "Fish Hatchery Specialist 3 - Hurd Creek Hatchery - Permanent - 2026-04534",
       "description": "Classification- Fish Hatchery Specialist 3Job Status- Full-Time/PermanentWDFW Program- Fish Program – Hatcheries DivisionDuty Station- Hurd Creek Hatchery – Sequim, Washington – Clallam CountyHousing- No additional housing available*Standby- Standby is Currently AssignedLearn…",
@@ -893,6 +910,23 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116196",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
+    },
+    {
+      "id": "fws-TS-26-12979092-LP-CTAP",
+      "title": "Seasonal - Biological Science Technician (Fish)",
+      "description": "This position is a Biological Science Technician (Fish), GS- 0404-5 working in Mora, New Mexico for the R2-Mora National Fish Hatchery. This is a temporary position expected to last 1039 hours from the date of appointment.",
+      "url": "https://www.usajobs.gov:443/job/871938400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Mora, New Mexico",
+      "salary": "$19.52 – $25.37 PH",
+      "deadline": "2026-06-10",
+      "deadline_raw": "2026-06-10T23:59:59.9970",
+      "published": "2026-06-05",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/871938400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
     },
     {
       "id": "tamu-116724",
