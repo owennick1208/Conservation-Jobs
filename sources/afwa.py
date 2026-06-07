@@ -23,7 +23,10 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
 }
-_SKIP_LINKTEXT = {"contact", "careers", "search", "home"}
+_SKIP_LINKTEXT = {"contact", "careers", "search", "home", "facebook", "twitter",
+                  "youtube", "blogger", "instagram", "linkedin"}
+_BAD_HOST = ("facebook.com", "twitter.com", "x.com", "youtube.com", "blogspot.",
+             "instagram.com", "linkedin.com", "deverdesigns.com")
 
 
 def _looks_real(html):
@@ -89,7 +92,8 @@ def parse(html):
                           and (clean(t.get_text()) or "").lower() == "employment opportunities")
     if not start:
         return []
-    end = soup.find(lambda t: t.name and "opportunities at afwa" in (clean(t.get_text()) or "").lower())
+    end = soup.find(lambda t: t.name in ("h1", "h2", "h3", "h4", "h5", "h6")
+                    and "opportunities at afwa" in (clean(t.get_text()) or "").lower())
 
     jobs, seen = [], set()
     for el in start.find_all_next():
@@ -98,7 +102,9 @@ def parse(html):
         if getattr(el, "name", None) != "a" or not el.get("href"):
             continue
         href = el.get("href")
-        if "fishwildlife.org" in href or href.startswith("#") or href.startswith("mailto:"):
+        if "fishwildlife.org" in href or href.startswith("#") or href.startswith("mailto:") or href.startswith("tel:"):
+            continue
+        if any(bad in href.lower() for bad in _BAD_HOST):
             continue
         title = clean(el.get_text())
         if not title or title.lower() in _SKIP_LINKTEXT:
