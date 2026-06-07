@@ -74,7 +74,7 @@
   @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
   .entry__side{display:flex;flex-direction:column;gap:8px;padding-top:3px}
   .tag{font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700;padding:3px 7px;border-radius:2px;width:fit-content;color:#fff}
-  .tag--parc{background:var(--moss)} .tag--tamu{background:var(--moss-deep)} .tag--fws{background:#3a4d63}
+  .tag--parc{background:var(--moss)} .tag--tamu{background:var(--moss-deep)} .tag--fws{background:#3a4d63} .tag--afwa{background:#8a5a2b}
   .etype{font-size:.72rem;color:var(--faint);letter-spacing:.04em}
   .match{display:flex;flex-direction:column;gap:3px;margin-top:2px}
   .match .pct{font-size:.74rem;color:var(--moss-deep);font-weight:700;font-variant-numeric:tabular-nums}
@@ -176,7 +176,7 @@ const FALLBACK = /*__SEED__*/ {"generated_at": "2026-04-02T12:00:00+00:00", "cou
 const state = { data:null, sources:new Set(), q:"", etype:"all", sort:"deadline", hideClosed:false,
                 profile:{text:"",locs:""}, matchOn:false, matchMax:0 };
 const $ = (id)=>document.getElementById(id);
-const SRC_LABEL = { parc:"PARC", tamu:"TAMU", fws:"FWS" };
+const SRC_LABEL = { parc:"PARC", tamu:"TAMU", fws:"FWS", afwa:"AFWA" };
 const STOP = new Set("the and for with from this that your you our are was has have will can role roles position positions job jobs work works working team teams per into out off the".split(" "));
 
 /* ---------- storage (guarded so it never errors in restricted previews) ---------- */
@@ -282,7 +282,7 @@ function render(){
 function buildSourceChips(){
   const counts={}; state.data.jobs.forEach(j=>counts[j.source_key]=(counts[j.source_key]||0)+1);
   const box=$("sourceChips");
-  box.innerHTML=Object.keys(counts).sort().map(k=>`<button class="chip" data-src="${k}" aria-pressed="false"><span class="dot" style="background:${k==='parc'?'var(--moss)':k==='tamu'?'var(--moss-deep)':'#3a4d63'}"></span>${SRC_LABEL[k]||k} <span class="n">${counts[k]}</span></button>`).join("");
+  box.innerHTML=Object.keys(counts).sort().map(k=>`<button class="chip" data-src="${k}" aria-pressed="false"><span class="dot" style="background:${k==='parc'?'var(--moss)':k==='tamu'?'var(--moss-deep)':k==='fws'?'#3a4d63':'#8a5a2b'}"></span>${SRC_LABEL[k]||k} <span class="n">${counts[k]}</span></button>`).join("");
   box.querySelectorAll(".chip").forEach(btn=>btn.addEventListener("click",()=>{
     const k=btn.dataset.src; if(state.sources.has(k)) state.sources.delete(k); else state.sources.add(k);
     btn.setAttribute("aria-pressed",state.sources.has(k)); render();
