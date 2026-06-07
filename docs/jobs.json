@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-06-07T16:58:45+00:00",
+  "generated_at": "2026-06-07T17:12:34+00:00",
   "count": 682,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
       "count": 0,
-      "ok": false,
-      "error": "415 Client Error: Unsupported Media Type for url: https://parcplace.org/network/job-announcements/"
+      "ok": true
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
