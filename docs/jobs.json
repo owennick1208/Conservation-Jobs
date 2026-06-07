@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T17:55:32+00:00",
-  "count": 700,
+  "generated_at": "2026-06-07T18:32:05+00:00",
+  "count": 699,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 746,
+      "count": 745,
       "ok": true
     },
     "fws": {
@@ -21,6 +21,12 @@
       "name": "AFWA member agencies",
       "count": 11,
       "ok": true
+    },
+    "reliefweb": {
+      "name": "ReliefWeb (international)",
+      "count": 0,
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://api.reliefweb.int/v2/jobs?appname=conservation-jobs-aggregator"
     }
   },
   "jobs": [
@@ -5482,26 +5488,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116588",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116565",
-      "title": "Antarctic Field Biologist",
-      "description": "Antarctic Field Biologist PositionAntarctic Marine Living Resources ProgramLocation: San Diego / La Jolla, CAPotential Opportunities: There are currently no open positions. However, in anticipation of positions becoming available during 2026, the in the Antarctic Marine Living…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116565",
-      "employer": "US AMLR Program",
-      "employer_type": "Private",
-      "location": "La Jolla, California",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-06-30",
-      "deadline_raw": "06/30/2026",
-      "published": "2026-05-21",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116565",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
