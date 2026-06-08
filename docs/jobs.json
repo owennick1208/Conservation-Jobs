@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T18:42:55+00:00",
-  "count": 699,
+  "generated_at": "2026-06-08T21:16:12+00:00",
+  "count": 691,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 745,
+      "count": 731,
       "ok": true
     },
     "fws": {
@@ -114,100 +114,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-116613",
-      "title": "Muskrat Capture Technicians and Crew Leads – Illinois",
-      "description": "Job Description We are seeking 2 crew leads and several field technicians for muskrat capture and monitoring operations in Illinois. This project aims to evaluate muskrat movement behavior, space use, survival, and pathogen prevalence across contrasting landscapes to help info…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116613",
-      "employer": "Southern Illinois University - Carbondale",
-      "employer_type": "State",
-      "location": "Illinois",
-      "salary": "starting at $16 per hour",
-      "deadline": "2026-06-07",
-      "deadline_raw": "06/07/2026",
-      "published": "2026-05-27",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116613",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116474",
-      "title": "Oral History & Curatorial Member - Andersonville National Historic Site",
-      "description": "Oral History & Curatorial Member - Andersonville National Historic SiteSummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with the National Park Service (NPS), is seeking 1 Member to contribute to an oral history transcribing project alongs…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1303586",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "Andersonville, Georgia",
-      "salary": "$340 to $680 per week",
-      "deadline": "2026-06-07",
-      "deadline_raw": "06/07/2026",
-      "published": "2026-05-15",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116474",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-115966",
-      "title": "M.S. Graduate Assistantship: Assessment of noninvasive monitoring strategies for mountain lions in Val Verde County, TX",
-      "description": "Position title: M.S. Graduate Assistantship, Assessment of noninvasive monitoring strategies for mountain lions in Val Verde County, TXPosition location: Kingsville, TXPosition supervisors: Dr. Lisanne Petracca, Assistant Professor of Carnivore Ecology, Caesar Kleberg Wildlife…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115966",
-      "employer": "Caesar Kleberg Wildlife Research Institute",
-      "employer_type": "State",
-      "location": "Kingsville, Texas",
-      "salary": "starting at $2,000 per month",
-      "deadline": "2026-06-07",
-      "deadline_raw": "06/07/2026",
-      "published": "2026-04-27",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115966",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-115967",
-      "title": "Ph.D. Graduate Assistantship: Mountain lion density estimation and population dynamics in Val Verde County, Texas",
-      "description": "Position title: Ph.D. Graduate Assistantship, Mountain lion density estimation and population dynamics in Val Verde County, Texas Position location: Kingsville, TX Position supervisor: Dr. Lisanne Petracca, Assistant Professor of Carnivore Ecology, Caesar Kleberg Wildlife Rese…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115967",
-      "employer": "Caesar Kleberg Wildlife Research Institute",
-      "employer_type": "State",
-      "location": "Kingsville, Texas",
-      "salary": "starting at $2,200 per month",
-      "deadline": "2026-06-07",
-      "deadline_raw": "06/07/2026",
-      "published": "2026-04-27",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115967",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-113657",
-      "title": "Strike Team Coordinator",
-      "description": "RESPONSIBILITIES: Employees at this level conduct natural areas stewardship activities including, but not limited to, prescribed burning, firebreak creation and maintenance, seed collection and spreading, and herbaceous and woody invasive species control using chemical and mec…",
-      "url": "https://wiu.interviewexchange.com/jobofferdetails.jsp?JOBID=197140",
-      "employer": "Western Illinois University",
-      "employer_type": "State",
-      "location": "Alice Kibbe Field Station, (Warsaw, IL 62379, Illinois)",
-      "salary": "$3,452 to $3,813 per month",
-      "deadline": "2026-06-07",
-      "deadline_raw": "06/07/2026",
-      "published": "2026-02-11",
-      "tags": [
-        "Grant"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=113657",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-116828",
@@ -1089,23 +995,6 @@
       "published": "2026-05-26",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116676",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-114292",
-      "title": "Hagerman Fossil Beds National Monument – Facilities Maintenance Individual Placement",
-      "description": "Idaho Conservation Corps – 640 HRIndividual PlacementNational Park ServiceHagerman Fossil Beds National MonumentHagerman, ID Position Title: Facilities Maintenance Individual Placement – 640 HR Position Summary: Hagerman Fossil Beds National Monument is recruiting one, 640 HR…",
-      "url": "https://nwyouthcorps.workbrightats.com/jobsearch/?job_board_classification=Internships ",
-      "employer": "Northwest Youth Corps",
-      "employer_type": "Private",
-      "location": "Hagerman, Idaho",
-      "salary": "$8,960 per year",
-      "deadline": "2026-06-11",
-      "deadline_raw": "06/11/2026",
-      "published": "2026-03-03",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114292",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -3129,26 +3018,6 @@
       "published": "2026-04-30",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116078",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-115734",
-      "title": "Mammal Sampling Crew Leader",
-      "description": "Job Description: The Alabama Cooperative Fish & Wildlife Research Unit at Auburn University is seeking 2 highly motivated Mammal Sampling Crew Leaders for a multi-species inventory and conservation project on selected state-owned lands within Alabama. Primary responsibilities…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=115734",
-      "employer": "Auburn University",
-      "employer_type": "State",
-      "location": "602 Duncan Drive (Auburn, Alabama)",
-      "salary": "$18 per hour",
-      "deadline": "2026-06-17",
-      "deadline_raw": "06/17/2026",
-      "published": "2026-04-16",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115734",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -7119,23 +6988,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-116742",
-      "title": "Assistant Wildlife Biologist",
-      "description": "ASSISTANT WILDLIFE BIOLOGISTLocation: DNREC- Division of Fish and Wildlife Sutton Field Office 4200 Hay Point Landing Road Smyrna, DE 19977Deadline: Until FilledSalary: $46,412.56This is not a State of Delaware merit position. It is a one-year contractual position with the opp…",
-      "url": "https://www.kentcd.org/about-us/job-opportunities/",
-      "employer": "Kent Conservation District",
-      "employer_type": "County",
-      "location": "Smyrna, Delaware",
-      "salary": "$46,412.56 per year",
-      "deadline": "2026-07-03",
-      "deadline_raw": "07/03/2026",
-      "published": "2026-06-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116742",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-116773",
       "title": "Natural Resource Internship - Gainesville, FL",
       "description": "The mission of Alachua Conservation Trust (ACT) is to protect the natural, historic, scenic and recreational resources in and around North Central Florida. ACT protects land through purchase, donation, and conservation easements in 22 counties. Each semester (Spring, Summer, a…",
@@ -8509,6 +8361,25 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115357",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-113657",
+      "title": "Strike Team Coordinator",
+      "description": "RESPONSIBILITIES: Employees at this level conduct natural areas stewardship activities including, but not limited to, prescribed burning, firebreak creation and maintenance, seed collection and spreading, and herbaceous and woody invasive species control using chemical and mec…",
+      "url": "https://wiu.interviewexchange.com/jobofferdetails.jsp?JOBID=197140",
+      "employer": "Western Illinois University",
+      "employer_type": "State",
+      "location": "Alice Kibbe Field Station, (Warsaw, IL 62379, Illinois)",
+      "salary": "$3,452 to $3,813 per month",
+      "deadline": "2026-07-17",
+      "deadline_raw": "07/17/2026",
+      "published": "2026-02-11",
+      "tags": [
+        "Grant"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=113657",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -12393,26 +12264,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115515",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-108960",
-      "title": "Late Summer & Fall Wildlife Rehabilitation Internship",
-      "description": "A Treehouse intern is immersed in every aspect of the operation of a large wildlife rehabilitation and environmental education center. The main focus of the intern is quality animal care on a daily basis. Interns will learn triage examination, supportive care techniques, diet…",
-      "url": "https://www.treehousewildlifecenter.com/internship-program",
-      "employer": "Treehouse Wildlife Center",
-      "employer_type": "Private",
-      "location": "23956 Green Acres Road (Dow, Illinois)",
-      "salary": "none",
-      "deadline": "2026-12-31",
-      "deadline_raw": "12/31/2026",
-      "published": "2026-04-16",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=108960",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
