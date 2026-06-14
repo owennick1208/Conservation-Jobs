@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T17:54:46+00:00",
-  "count": 732,
+  "generated_at": "2026-06-14T18:02:11+00:00",
+  "count": 726,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 775,
+      "count": 769,
       "ok": true
     },
     "fws": {
@@ -114,97 +114,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-116943",
-      "title": "Laboratory Assistant - Entomology",
-      "description": "Join the Pennsylvania Department of Agriculture as a Laboratory Assistant and help support efforts that safeguard our state from invasive insect species. This position lets you work hands-on with scientific tools while learning new skills every day. You will be part of a team…",
-      "url": "https://www.governmentjobs.com/careers/pabureau/jobs/5361066/laboratory-assistant",
-      "employer": "Pennsylvania Department of Agriculture",
-      "employer_type": "State",
-      "location": "2301 N Cameron St. (Harrisburg, PA, Pennsylvania)",
-      "salary": "starting at $17.38 per hour",
-      "deadline": "2026-06-13",
-      "deadline_raw": "06/13/2026",
-      "published": "2026-06-09",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116943",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116745",
-      "title": "Archaeology Technician (AmeriCorps, USFS, Humboldt-Toiyabe National Forest)",
-      "description": "The Great Basin Institute, in cooperation with the USFS, is recruiting six (6) AmeriCorps Archaeology Crew Members to complete Section 106 Cultural Resource surveys required in order to perform thinning and other wildfire mitigation activities, site recording and monitoring fo…",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A1ADEF5691B02D64E998539442696918/jobs/386489",
-      "employer": "THE GREAT BASIN INSTITUTE",
-      "employer_type": "Private",
-      "location": "Elko, California",
-      "salary": "none",
-      "deadline": "2026-06-13",
-      "deadline_raw": "06/13/2026",
-      "published": "2026-06-02",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116745",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116692",
-      "title": "Fisheries Technician III (Habitat)",
-      "description": "Summary:This position will assist in the implementation and monitoring of aquatic habitat improvement projectstargeting anadromous and resident salmonids in addition to other focal species within the Hood RiverBasin. The selected candidate will assist with monitoring efforts s…",
-      "url": "https://recruit.zohopublic.com/recruit/Portal.na?iframe=false&digest=7.VB01MseqRrVVwj2%404yeHGAUnkE7bVo.a85bxdBEmQ-",
-      "employer": "Confederated Tribes of Warm Springs",
-      "employer_type": "Tribal Government",
-      "location": "parkdale, Oregon",
-      "salary": "$48,045 to $75,912 per year",
-      "deadline": "2026-06-13",
-      "deadline_raw": "06/13/2026",
-      "published": "2026-05-27",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116692",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116488",
-      "title": "Senior Warmwater Fisheries Biologist",
-      "description": "Posting DetailsThis posting will be used for ongoing recruitment and may close at any time. Applicant lists may be screened more than once.Our MissionIt is the mission of New Mexico's Department of Game and Fish: To conserve, regulate, propagate and protect the wildlife and fi…",
-      "url": "https://careers.share.nm.gov/psc/hprdcg/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=163778&PostingSeq=1",
-      "employer": "New Mexico Department of Wildlife (NM Game & Fish)",
-      "employer_type": "State",
-      "location": "2715 E Northrise (Las Cruces, New Mexico)",
-      "salary": "$26.57 to $39.86 per hour",
-      "deadline": "2026-06-13",
-      "deadline_raw": "06/13/2026",
-      "published": "2026-05-18",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116488",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116021",
-      "title": "Conservation Agronomist",
-      "description": "Kanabec SWCD is seeking a Conservation Agronomist to work directly with farmers and landowners to address on-farm resource concerns. Based out of the USDA Mora Service Center, this position works closely with the Natural Resources Conservation Service (NRCS) and local partners…",
-      "url": "https://www.kanabecswcd.org/open-positions-conservation-agronomist",
-      "employer": "Kanabec Soil & Water Conservation District",
-      "employer_type": "County",
-      "location": "Mora, Minnesota",
-      "salary": "$51,792 to $67,891 per year",
-      "deadline": "2026-06-13",
-      "deadline_raw": "06/13/2026",
-      "published": "2026-04-30",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116021",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-116920",
@@ -7658,26 +7567,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117001",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117008",
-      "title": "Sustainable Ocean and Reefs Inc. (SOAR) Fall 2026 Internship",
-      "description": "Thank you for expressing your interest in our exciting fall internship opportunity! This unique internship takes place in the Florida Keys and is hosted by Sustainable Ocean and Reefs Inc. (SOAR). We are actively seeking one dynamic intern who will embark on a journey of hands…",
-      "url": "https://www.oceansandreefs.org/internship",
-      "employer": "Sustainable Ocean and Reefs Inc. (SOAR)",
-      "employer_type": "Private",
-      "location": "Marathon, Florida",
-      "salary": "starting at $800 per month",
-      "deadline": "2026-07-13",
-      "deadline_raw": "07/13/2026",
-      "published": "2026-06-11",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117008",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
