@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T19:57:20+00:00",
-  "count": 716,
+  "generated_at": "2026-06-15T22:05:56+00:00",
+  "count": 714,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 755,
+      "count": 749,
       "ok": true
     },
     "fws": {
@@ -12086,25 +12086,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-110290",
-      "title": "Tropical Bird Banding Technician Internship; Belize",
-      "description": "Location: Toucan Ridge Ecology and Education Society Open Period: September 14th - October 30th, 2026Duration: Sessions may be 2 to 5 weeks, with 4 weeks recommended Hours per Week: 35 – 40 Cost: $389USD/Week Description: The Toucan Ridge Bird Observatory, located at the T.R.E…",
-      "url": "https://www.ecorana.ca/internship-application-form/",
-      "employer": "Toucan Ridge Ecology and Education Society",
-      "employer_type": "Private",
-      "location": "Toucan Ridge Ecology and Education Society (Belize)",
-      "salary": "none",
-      "deadline": "2026-10-14",
-      "deadline_raw": "10/14/2026",
-      "published": "2026-04-17",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=110290",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-107366",
       "title": "Research Assistants",
       "description": "The Department of Environmental Toxicology (ENTX) provides graduate students opportunities for multidisciplinary research and scholarly engagement related to environmental, forensic, and human health sciences.The Environmental Toxicology faculty attract graduate students at bo…",
@@ -12122,28 +12103,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=107366",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116759",
-      "title": "Herbarium & Tropical Botany Internship; Belize",
-      "description": "Location: Toucan Ridge Ecology and Education Society Open Period: May 1st, 2026 – October 31st, 2026 Duration: Sessions may be 2 to 5 weeks, with 4 weeks recommended for maximum learning Hours per Week: 35 – 40 Cost: $389USD/Week Description: Are you looking to broaden your pl…",
-      "url": "https://www.treesociety.org/",
-      "employer": "Toucan Ridge Ecology and Education Society",
-      "employer_type": "Private",
-      "location": "Toucan Ridge Ecology and Education Society (Belize)",
-      "salary": "none",
-      "deadline": "2026-10-15",
-      "deadline_raw": "10/15/2026",
-      "published": "2026-06-02",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities",
-        "Faculty / Post-Doc Appointments",
-        "Grant"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116759",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
