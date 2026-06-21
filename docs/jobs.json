@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T17:57:31+00:00",
-  "count": 709,
+  "generated_at": "2026-06-21T18:10:50+00:00",
+  "count": 705,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 756,
+      "count": 752,
       "ok": true
     },
     "fws": {
@@ -131,74 +131,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117060",
-      "title": "Forester",
-      "description": "Division: GREENSPACE MANAGEMENTSection: URBAN FORESTRYWorkdays & Hours MON-FRI; 6:30 AM TO 3:30 PM * *Subject to changeDESCRIPTION OF DUTIES/ESSENTIAL FUNCTIONSThe Houston Parks and Recreation Department is dedicated to building a sustainable community and enhance the quality…",
-      "url": "https://www.governmentjobs.com/careers/houston/jobs/5376227/forester?department[0]=Parks%20and%20Recreation&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs",
-      "employer": "City of Houston Parks and Recreation Department",
-      "employer_type": "City",
-      "location": "12025 Sowden Rd (Houston, Texas)",
-      "salary": "$48,048 to $88,010 per year",
-      "deadline": "2026-06-20",
-      "deadline_raw": "06/20/2026",
-      "published": "2026-06-16",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117060",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117062",
-      "title": "Natural Resources Equipment Technician",
-      "description": "Applications Accepted from: All Persons InterestedDivision/Section: Greenspace Operations / Various Workdays & Hours: M- F, 6:30 a.m. – 3:30 p.m.* *Subject to changeDESCRIPTION OF DUTIES/ESSENTIAL FUNCTIONSThe Houston Parks and Recreation Department is dedicated to building a…",
-      "url": "https://www.governmentjobs.com/careers/houston/jobs/5376372/natural-resources-equipment-technician?department[0]=Parks%20and%20Recreation&sort=PositionTitle%7CAscending&pagetype=jobOpportunitiesJobs",
-      "employer": "City of Houston Parks and Recreation Department",
-      "employer_type": "City",
-      "location": "1803 Memorial Dr (Houston, Texas)",
-      "salary": "$39,026 to $73,190 per year",
-      "deadline": "2026-06-20",
-      "deadline_raw": "06/20/2026",
-      "published": "2026-06-16",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117062",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116869",
-      "title": "California Condor Internship (1) - San Simeon, CA",
-      "description": "California Condor Internship (1) - San Simeon, CAInternship Start Date: August 24, 2026 (6 months)Application Deadline: June 20, 2026 or at 50 applicants, whichever occurs firstVentana Wildlife Society (VWS) is seeking an enthusiastic, dedicated individual to be a part of our…",
-      "url": "https://www.ventanaws.org/condorfieldwork.html",
-      "employer": "Ventana Wildlife Society",
-      "employer_type": "Private",
-      "location": "Coastal Mountains (San Simeon, California)",
-      "salary": "$400 per week",
-      "deadline": "2026-06-20",
-      "deadline_raw": "06/20/2026",
-      "published": "2026-06-05",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116869",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116564",
-      "title": "Santa Fe Agreement Assistant Project Manager",
-      "description": "Bat Conservation InternationalSanta Fe Agreement Assistant Project Manager Status: Full-Time, Salaried Location: Santa Fe Reports to: Northern New Mexico Project Manager Supervises: Seasonal or part-time field crewsKey Relationships: Restoration Specialists, Geo-spatial team S…",
-      "url": "https://1.adp.com/yesc52BI7wA",
-      "employer": "Bat Conservation International",
-      "employer_type": "Private",
-      "location": "Santa Fe, Texas | remote work allowed",
-      "salary": "$55,000 to $65,000 per year",
-      "deadline": "2026-06-20",
-      "deadline_raw": "06/20/2026",
-      "published": "2026-05-21",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116564",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117096",
