@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T19:31:31+00:00",
-  "count": 711,
+  "generated_at": "2026-06-26T18:19:13+00:00",
+  "count": 708,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 762,
+      "count": 758,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 11,
+      "count": 10,
       "ok": true
     },
     "afwa": {
@@ -63,97 +63,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117154",
-      "title": "Conservation Policy Graduate Student Intern",
-      "description": "Location: Hybrid/Remote (must reside within the United States)Duration: Estimated duration is July 13, 2026 – Sept. 1, 2026Start Date: July 13, 2026 (flexible)Deadline to Apply: June 25, 2026Position Type: Seasonal, full or part time (20-40 hours/week, 145 hours maximum)Compen…",
-      "url": "https://pointblueconservationscience.applytojob.com/apply/uKA3va5Xa0/Conservation-Policy-Graduate-Student-Intern?source=texasa%26mnaturalresourcesjobboard",
-      "employer": "Point Blue Conservation Science",
-      "employer_type": "Private",
-      "location": "3820 Cypress Drive, Suite 11 (Petaluma, California)",
-      "salary": "$25 per hour",
-      "deadline": "2026-06-25",
-      "deadline_raw": "06/25/2026",
-      "published": "2026-06-23",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117154",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117140",
-      "title": "Part-Time Fall Banding Supervisor at the Palomarin Field Station",
-      "description": "Part-Time Fall Banding Supervisor at the Palomarin Field StationLocation: Point Reyes National Seashore, Bolinas, CA.Duration: Mid-August through November 2026 (with potential to extend)Deadline to Apply: June 25, 2026 Position Type: Seasonal Part-time (Variable-Hour, approx.…",
-      "url": "https://pointblueconservationscience.applytojob.com/apply/PCFWs8xemD/PartTime-Fall-Banding-Supervisor-At-The-Palomarin-Field-Station?source=Texas+A%26M+Natural+Resources+Job+Board",
-      "employer": "Point Blue Conservation Science",
-      "employer_type": "Private",
-      "location": "999 Mesa Road (Bolinas, California)",
-      "salary": "$26.45 per hour",
-      "deadline": "2026-06-25",
-      "deadline_raw": "06/25/2026",
-      "published": "2026-06-18",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117140",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116137",
-      "title": "Rangeland Monitoring Scientist (Seasonal) – New Mexico",
-      "description": "Rangeland Monitoring Scientist (Seasonal) – New Mexico Zia Engineering & Environmental Consultants (Zia EEC) Season: Late April / Early May – Early October Compensation: $25–$30/hour DOE + Per Diem Location: Southern New Mexico (Las Cruces, Carlsbad, Silver City, Deming, etc.)…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116137",
-      "employer": "Zia Engineering & Environmental Consultants LLC",
-      "employer_type": "Private",
-      "location": "Las Cruces, New Mexico",
-      "salary": "$25 to $30 per hour",
-      "deadline": "2026-06-25",
-      "deadline_raw": "06/25/2026",
-      "published": "2026-05-01",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities",
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116137",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "fws-R8-26-12981877-AW-MP",
-      "title": "Administrative Officer",
-      "description": "This position is a Administrative Officer, GS- 0341-11 working in Lodi, California for the R8-Lodi Fish and Wildlife Office. The incumbent will supervise a small team of administrative support staff and will be responsible for developing administrative policies, coordinating o…",
-      "url": "https://www.usajobs.gov:443/job/872621000",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Lodi, California",
-      "salary": "$93358 – $121371 PA",
-      "deadline": "2026-06-25",
-      "deadline_raw": "2026-06-25T23:59:59.9970",
-      "published": "2026-06-12",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/872621000",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-TS-26-12989394-MR-DE",
-      "title": "Seasonal - Park Ranger (Fee Collector)",
-      "description": "This position is a Park Ranger (Fee Collector), GS- 0025-4 working in Virginia Beach, VA in Back Bay National Wildlife Refuge. This is a Temporary Not to Exceed 1039 Hours position. Applications must be submitted by 11:59 (EST) on the 06/25/2026 to be considered.",
-      "url": "https://www.usajobs.gov:443/job/873716900",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Virginia Beach, Virginia",
-      "salary": "$17.88 – $19.88 PH",
-      "deadline": "2026-06-25",
-      "deadline_raw": "2026-06-25T23:59:59.9970",
-      "published": "2026-06-18",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/873716900",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
     },
     {
       "id": "tamu-117180",
@@ -259,23 +168,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117028",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117023",
-      "title": "Wildlife Health Technician",
-      "description": "Summary/ObjectiveThe Wildlife Health Technician plays a crucial role in supporting MDC chronic wasting disease surveillance by engaging with meat processors and taxidermists (CWD Cooperators) within their designated region. The position entails enrolling CWD Cooperators into t…",
-      "url": "https://jobs.mdc.mo.gov/go/Hourly-Jobs/9371200/",
-      "employer": "Missouri Department of Conservation",
-      "employer_type": "State",
-      "location": "Multiple positions and locations across Missouri, visit https://jobs.mdc.mo.gov/go/Hourly-Jobs/9371200/ for complete breakdown. (Columbia, Missouri)",
-      "salary": "starting at $20.56 per hour",
-      "deadline": "2026-06-26",
-      "deadline_raw": "06/26/2026",
-      "published": "2026-06-16",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117023",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -5691,6 +5583,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "fws-FWS-DE-12994195-26-CP",
+      "title": "Biological Science Technician (Fish)",
+      "description": "The incumbent serves as a Biological Science Technician (Fish) in support of biological programs responsible for conserving fish, wildlife, and/or plants, their habitats, conservation of at-risk species, mitigation, restoration, and recovery of listed species. This may include…",
+      "url": "https://www.usajobs.gov:443/job/874463400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Williamstown, West Virginia",
+      "salary": "$40736 – $72644 PA",
+      "deadline": "2026-07-13",
+      "deadline_raw": "2026-07-13T23:59:59.9970",
+      "published": "2026-06-26",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/874463400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "tamu-114427",
       "title": "Fall Semester Experiential Education Course: Montana Afoot & Afloat - Human/Land Relations",
       "description": "On this eleven-week immersive field course takes students deep into the heart of Montana’s landscapes, exploring the intersection of wild rivers, backcountry trails, and the people who depend on them. Traveling by foot and kayak, students traverse some of the region’s most eco…",
@@ -7460,6 +7369,25 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-117270",
+      "title": "Wildlife Educator AmeriCorps Member",
+      "description": "The Nevada Department of Wildlife is seeking a passionate and knowledgeable Wildlife Educator AmeriCorps Member to support conservation education efforts in the agency’s Southern Region based out of Las Vegas. The Wildlife Educator AmeriCorps Member will be part of the Conserv…",
+      "url": "https://www.ndow.org/",
+      "employer": "Nevada Department of Wildlife",
+      "employer_type": "State",
+      "location": "3373 PEPPER LN (LAS VEGAS, Nevada)",
+      "salary": "$2,066.66 per month",
+      "deadline": "2026-07-31",
+      "deadline_raw": "07/31/2026",
+      "published": "2026-06-25",
+      "tags": [
+        "Undergraduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117270",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-117249",
       "title": "Assistant/Associate Professor, Plant Propagation",
       "description": "Title: Assistant/Associate Professor, Plant Propagation Location: West Florida Research and Agriculture Center University of Florida Institute of Food and Agricultural Sciences (IFAS) Milton, Florida Salary: Commensurate with Qualifications and Experience Review Date: The posi…",
@@ -8555,6 +8483,23 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=109107",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117268",
+      "title": "(Non-Tenure Track) Lecturer and Lab Coordinator",
+      "description": "DescriptionThe University of North Alabama is accepting applications for the position of Non-Tenure-Track, Lecturer in Biology to begin in August 2026. The successful candidate will primarily teach majors and non-majors introductory biology lectures and laboratories and be res…",
+      "url": "https://www.schooljobs.com/careers/una/jobs/5380175/non-tenure-track-lecturer-in-biology?keywords=biology&pagetype=jobOpportunitiesJobs",
+      "employer": "University of North Alabama",
+      "employer_type": "State",
+      "location": "University of North Alabama (Florence, Alabama)",
+      "salary": "Commensurate / Negotiable",
+      "deadline": "2026-08-01",
+      "deadline_raw": "08/01/2026",
+      "published": "2026-06-25",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117268",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -10847,23 +10792,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-116909",
-      "title": "State Park Manager Supervisor I",
-      "description": "STATE PARK MANAGER SUPERVISOR I – POSITION# K0233260 This unclassified, full-time position is located at Elk City State Park (Montgomery County) in the Parks Division; and is directly supervised by the Wichita Regional Office Parks Division Supervisor. Key Responsibilities:· P…",
-      "url": "https://admin.ks.gov/services/state-employment-center",
-      "employer": "Kansas Department of Wildlife and Parks",
-      "employer_type": "State",
-      "location": "Independence, Kansas",
-      "salary": "$32.78 to $33.60 per hour",
-      "deadline": "2026-09-01",
-      "deadline_raw": "09/01/2026",
-      "published": "2026-06-08",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116909",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-116814",
       "title": "Senior Restoration Designer",
       "description": "ABOUT WEDWe are knowledgeable and innovative problem solvers restoring our country’s ecosystems. Trusted to deliver long-lasting ecological uplift, we give peace of mind to those committed to high quality standards for protecting their property, project, and reputation. A full…",
@@ -11288,6 +11216,23 @@
       "published": "2026-04-27",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115125",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117269",
+      "title": "Fisheries Biological Aide - Niagara Springs Hatchery IDFG",
+      "description": "About the positionThe Idaho Department of Fish and Game Niagara Springs Fish Hatchery is seeking a Biological Aide starting September 7th. (Start dates may be flexible). This position is located at the Niagara Springs Fish Hatchery located in Wendell, Idaho. This is a Non-Bene…",
+      "url": "https://idfg.idaho.gov/job/162164",
+      "employer": "Idaho Department of Fish and Game",
+      "employer_type": "State",
+      "location": "2131 Niagara Springs Rd (wendell, Idaho)",
+      "salary": "$15 per hour",
+      "deadline": "2026-09-05",
+      "deadline_raw": "09/05/2026",
+      "published": "2026-06-25",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117269",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
