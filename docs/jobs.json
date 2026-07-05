@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T14:28:02+00:00",
-  "count": 648,
+  "generated_at": "2026-07-05T14:41:08+00:00",
+  "count": 643,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 694,
+      "count": 689,
       "ok": true
     },
     "fws": {
@@ -63,99 +63,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117162",
-      "title": "Ranch Manager",
-      "description": "Ranch manager for AGA certified meat production and sales with British White and Akaushi cattle. 165 Acres. Also listed on Indeed. We use a local processor and sell directly to the consumer. We have our own label. Overall management of ranch 24/7. Ranch manager for AGA certifi…",
-      "url": "http://LazyATexas.com",
-      "employer": "Lazy A Ranch",
-      "employer_type": "Private",
-      "location": "1059 Kurt Road (Bellville, Texas)",
-      "salary": "$2,000 to $3,000 per month",
-      "deadline": "2026-07-04",
-      "deadline_raw": "07/04/2026",
-      "published": "2026-06-26",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117162",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116961",
-      "title": "Wetland Soil Scientist, Field Technician",
-      "description": "Positions: Wetland / Soil Scientist, Field TechnicianSalary: Hourly rate $23-25 per hour DOE, overtime and housingLocation: OR, with travel to ID and WYDuration: Approximately July 5th, 2026, to August 30 2026Position Description: Employees in these positions will be involved…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116961",
-      "employer": "Amnis Opes LLC",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "$23 to $25 per hour",
-      "deadline": "2026-07-04",
-      "deadline_raw": "07/04/2026",
-      "published": "2026-06-23",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116961",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117171",
-      "title": "M.S. Graduate Research Assistantship – Bat Acoustic Ecology",
-      "description": "The Edelman research lab at the University of West Georgia is seeking a highly qualified and motivated M.S. student to join their team this fall. The focus of the thesis research is to study the distribution, habitat use, and seasonal activity of the bats, particularly the end…",
-      "url": "https://careers.hprod.onehcm.usg.edu/psp/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=54000&JobOpeningId=299851&PostingSeq=1",
-      "employer": "University of West Georgia",
-      "employer_type": "State",
-      "location": "multiple",
-      "salary": "up to $18,000 per year",
-      "deadline": "2026-07-04",
-      "deadline_raw": "07/04/2026",
-      "published": "2026-06-23",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117171",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117007",
-      "title": "Forest Inventory Lead Member",
-      "description": "SummaryThe American Conservation Experience, a nonprofit Conservation Corps, in partnership with the U.S. Forest Service (USFS), is seeking one (1) Forest Inventory Lead Member to lead a team of three individuals to contribute to the Experimental Network for Assisted Migration…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1308738",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "Blue River, Oregon",
-      "salary": "up to $1,000 per week",
-      "deadline": "2026-07-04",
-      "deadline_raw": "07/04/2026",
-      "published": "2026-06-11",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117007",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116154",
-      "title": "Licensed Veterinary Technician",
-      "description": "Gladys Porter Zoo Licensed Veterinary Technician Position Summary Gladys Porter Zoo is seeking a motivated and hands-on Licensed Veterinary Technician to support the Animal Health team within a dynamic zoological hospital setting serving a collection of approximately 1,500 ani…",
-      "url": "https://www.aza.org/jobs?job=51233",
-      "employer": "Gladys Porter Zoo",
-      "employer_type": "Private",
-      "location": "500 E Ringgold St (Brownsville, Texas)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-07-04",
-      "deadline_raw": "07/04/2026",
-      "published": "2026-05-04",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116154",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117322",
@@ -11280,7 +11187,7 @@
       "id": "tamu-116895",
       "title": "Field Assistant working with wild parrots and macaws in Tambopata PERU",
       "description": "Would you like to live in the middle of the Amazon rainforest as part of a fantastic multicultural team while helping to preserve wild macaws? Add to that learning a new set of skills and gaining great field experience at one of the longest-running parrot projects in the Ameri…",
-      "url": "https://dir.texas.gov/resource-library-item/state-website-linking-privacy-policy",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116895",
       "employer": "The Macaw Society",
       "employer_type": "Private",
       "location": "Tambopata National Reserve (Tambopata, Peru)",
