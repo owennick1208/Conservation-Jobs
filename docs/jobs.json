@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T14:21:07+00:00",
-  "count": 673,
+  "generated_at": "2026-07-12T14:25:19+00:00",
+  "count": 670,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 717,
+      "count": 714,
       "ok": true
     },
     "fws": {
@@ -80,59 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117299",
-      "title": "Aquatic Invasive Species Technician (1)",
-      "description": "Looking for (1) Aquatic Invasive Species Technician to finish the field Season at Lake Powell near Page, Arizona. Qualifications-Effective Communicator-Able to work in wide ranging weather conditions (mainly triple digit temperatures) with limited shelter. - Be detail oriented…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117299",
-      "employer": "T'N'T Environmental, LLC",
-      "employer_type": "Private",
-      "location": "Page, Arizona",
-      "salary": "$18 to $20 per hour",
-      "deadline": "2026-07-11",
-      "deadline_raw": "07/11/2026",
-      "published": "2026-06-29",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117299",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117157",
-      "title": "License Draw Accountant (Wyoming Game & Fish Division)",
-      "description": "Description and FunctionsOpen Until Filled GENERAL DESCRIPTION: The Wyoming Game and Fish Department is seeking a Senior Accountant to join the license draw team in Cheyenne, WY. This position is part of the three-person license draw team. It handles all sportsperson requests…",
-      "url": "https://www.governmentjobs.com/careers/wyoming/jobs/5374851/license-draw-accountant-2026-01546?keywords=1546&pagetype=jobOpportunitiesJobs",
-      "employer": "Wyoming Game & Fish Division",
-      "employer_type": "State",
-      "location": "5400 Bishop Blvd (Cheyenne, Wyoming)",
-      "salary": "$29.76 to $33.06 per hour",
-      "deadline": "2026-07-11",
-      "deadline_raw": "07/11/2026",
-      "published": "2026-06-23",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117157",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117009",
-      "title": "Forest Inventory Team Member",
-      "description": "SummaryThe American Conservation Experience, a nonprofit Conservation Corps, in partnership with the U.S. Forest Service (USFS), is seeking two (2) Forest Inventory Team Members to contribute to the Experimental Network for Assisted Migration and Establishment Silviculture (EN…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1308740",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "Blue River, Oregon",
-      "salary": "up to $880 per week",
-      "deadline": "2026-07-11",
-      "deadline_raw": "07/11/2026",
-      "published": "2026-06-11",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117009",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117422",
@@ -6617,7 +6564,7 @@
     {
       "id": "tamu-114781",
       "title": "Online Course: Introduction to Ecological Statistics and Modeling",
-      "description": "This online course is offered Winter, Spring, Summer, and Fall terms. Available in Basic, Standard, and Premium course formats.Learn a variety of essential quantitative skills in R to be successful in analyzing, presenting, and publishing your research findings. The examples u…",
+      "description": "This online course is offered Winter, Spring, Summer, and Fall terms. Available in Basic, Standard, and Premium course formats. Learn a variety of essential quantitative skills in R to be successful in analyzing, presenting, and publishing your research findings. The examples…",
       "url": "https://www.centerforwildlifestudies.org/courses/p/ecomodel-r",
       "employer": "Center for Wildlife Studies",
       "employer_type": "Private",
