@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T14:19:12+00:00",
-  "count": 672,
+  "generated_at": "2026-07-19T14:23:06+00:00",
+  "count": 668,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 705,
+      "count": 696,
       "ok": true
     },
     "fws": {
@@ -97,77 +97,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117414",
-      "title": "Visitor Services Member - Humboldt Bay National Wildlife Refuge",
-      "description": "Visitor Services Member - Humboldt Bay National Wildlife RefugeSummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with the U.S. Fish and Wildlife Service (FWS), is seeking 1 Visitor Services Member to contribute to visitor services and envi…",
-      "url": "https://usaconservation.applicantpool.com/jobs/",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "humboldt bay national wildlife refuge (California)",
-      "salary": "up to $700 per week",
-      "deadline": "2026-07-18",
-      "deadline_raw": "07/18/2026",
-      "published": "2026-07-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117414",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117372",
-      "title": "Land Stewardship Assistant",
-      "description": "Position Title: Land Stewardship Assistant (Position Description PDF) Position Service Site: Franciscan Sisters of Perpetual Adoration (St. Joseph Ridge in La Crosse, WI) Service Time: September 1, 2026 – August 14, 2027 (1,700-hour AmeriCorps Term, 50 weeks, 35 hours per week…",
-      "url": "https://wiscorps.org/fspa-land-stewardship-assistant/",
-      "employer": "Wisconsin Conservation Corps",
-      "employer_type": "Private",
-      "location": "Franciscan Sisters of Perpetual Adoration (FSPA) (La Crosse, Wisconsin)",
-      "salary": "$585 per week",
-      "deadline": "2026-07-18",
-      "deadline_raw": "07/18/2026",
-      "published": "2026-07-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117372",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117373",
-      "title": "Ecological Garden Assistant",
-      "description": "Position Title: Ecological Garden Assistant (Position Description PDF) Position Service Site: Franciscan Sisters of Perpetual Adoration (St. Joseph Ridge in La Crosse, WI) Service Time: September 1, 2026 – August 14, 2027 (1,700-hour AmeriCorps Term, 50 weeks, 35 hours per wee…",
-      "url": "https://wiscorps.org/fspa-ecological-garden-assistant/",
-      "employer": "Wisconsin Conservation Corps",
-      "employer_type": "Private",
-      "location": "Franciscan Sisters of Perpetual Adoration (FSPA) (La Crosse, Wisconsin)",
-      "salary": "$585 per week",
-      "deadline": "2026-07-18",
-      "deadline_raw": "07/18/2026",
-      "published": "2026-07-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117373",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116610",
-      "title": "Quail Research Technician (4)",
-      "description": "East Foundation’s mission is to promote the advancement of land stewardship through ranching, science, and education. Our 217,000 acres of South Texas rangeland serve as a working laboratory, where scientists and managers collaborate with landowners and stakeholders to address…",
-      "url": "https://eastfoundation.net/open-positions-post/quail-research-technician/",
-      "employer": "East Foundation",
-      "employer_type": "Private",
-      "location": "Hebbronville, Texas",
-      "salary": "starting at $16 per hour",
-      "deadline": "2026-07-18",
-      "deadline_raw": "07/18/2026",
-      "published": "2026-05-27",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116610",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117596",
@@ -5683,25 +5612,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-116611",
-      "title": "Ph.D. Teaching Assistantship for Bat Ecology (tuition waiver for 3 years)",
-      "description": "Overview I am seeking an outstanding individual to pursue a doctoral degree in bat ecology at Texas State University. I am particularly interested in applicants that can use already collected acoustic data from Texas and South Africa, combined with the North American Bat Monit…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116611",
-      "employer": "Texas State University",
-      "employer_type": "State",
-      "location": "Texas State University (San Marcos, Texas)",
-      "salary": "$31,615 per year",
-      "deadline": "2026-08-05",
-      "deadline_raw": "08/05/2026",
-      "published": "2026-07-17",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116611",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-117640",
       "title": "Wildlife Disease Technician",
       "description": "This position will primarily support Chronic Wasting Disease (CWD) surveillance through hunter check stations, biological sample collection, and data management during the fall hunting season. Technicians will work closely with wildlife biologists, conservation officers, and v…",
@@ -10737,6 +10647,26 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115689",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-112925",
+      "title": "Wetland/Wildlife Technician",
+      "description": "RESPONSIBILITIES: Participate in all aspects of wildlife and habitat management of 7,600-acre Marais des Cygnes Wildlife Area and 4,600-acre La Cygne Lake and Wildlife Area. Seasonal workers will gain experience in intensively managed wetlands and bottomland hardwood forests.…",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=112925",
+      "employer": "Kansas Department of Wildlife and Parks",
+      "employer_type": "State",
+      "location": "16382 Vail Rd (Pleasanton , Kansas)",
+      "salary": "$15.03 to $17 per hour",
+      "deadline": "2026-10-01",
+      "deadline_raw": "10/01/2026",
+      "published": "2026-01-27",
+      "tags": [
+        "Undergraduate Opportunities",
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=112925",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
