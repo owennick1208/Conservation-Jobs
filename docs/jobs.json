@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T14:23:06+00:00",
-  "count": 668,
+  "generated_at": "2026-07-20T15:09:54+00:00",
+  "count": 660,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 696,
+      "count": 688,
       "ok": true
     },
     "fws": {
@@ -97,134 +97,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117596",
-      "title": "Fisheries Biologist (Aquatic Nuisance Species)",
-      "description": "Compensation$60,480.03 plus state benefit allowance.Job DescriptionUnder general supervision of the Regional/Program Supervisor, participate in the development of both short- and long-range fish and wildlife management and research projects. Is responsible for planning, organi…",
-      "url": "https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Fisheries-Biologist_JR62314",
-      "employer": "Oklahoma Department of Wildlife Conversation",
-      "employer_type": "State",
-      "location": "Porter field office 9097 N. 34th St. W. (Porter, Oklahoma, Oklahoma)",
-      "salary": "starting at $60,480.03 per year",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-07-15",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117596",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-98858",
-      "title": "FWC Imperiled Species Management Section Internship",
-      "description": "Looking for a Fall 2026 Internship in Tallahassee?Application Deadline: Sunday, July 19th, 2026The Florida Fish and Wildlife Conservation Commission's (FWC) Imperiled Species Management Section is looking for interns from all majors to bring diverse skills to help wildlife con…",
-      "url": "https://myfwc.com/get-involved/internships/bmt-internship/",
-      "employer": "Florida Fish & Wildlife Conservation Commission",
-      "employer_type": "State",
-      "location": "1875 E Orange Ave, Tallahassee, FL 32301, USA (Tallahassee, Florida)",
-      "salary": "none",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-07-09",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=98858",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117427",
-      "title": "Natural Resource Specialist 3 (Water Quality Specialist)",
-      "description": "The Oregon Department of Agriculture is seeking a Water Quality Specialist to help support the Agricultural Water Quality Program. If you are excited about working with farmers, ranchers, and other partners to improve water quality on agricultural lands in the Willamette Valle…",
-      "url": "https://oregon.wd5.myworkdayjobs.com/SOR_External_Career_Site/job/Salem--ODA--Headquarters-Office/Natural-Resource-Specialist-3--Water-Quality-Specialist-_REQ-202794",
-      "employer": "Oregon Department of Agriculture",
-      "employer_type": "State",
-      "location": "salem, Oregon",
-      "salary": "$5,458 to $8,352 per month",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-07-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117427",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117402",
-      "title": "Biological Scientist 2 - Florida Fish and Wildlife",
-      "description": "An exciting opportunity exists for an entry-level Fisheries and Wildlife Biologist to join a team of biologists and technicians on the Triple N Ranch and Herky Huffman Bull Creek Wildlife Management Areas (WMA) in Osceola County, FL. This position serves as a Fisheries and Wil…",
-      "url": "https://jobs.myflorida.com/job/ST_-CLOUD-FISHERIES-&-WILDLIFE-BIO-SCIENTIST-II-77001161-FL-34773/1404648700/",
-      "employer": "Florida Fish and Wildlife Conservation Commission",
-      "employer_type": "State",
-      "location": "5301 N Kenansville Rd, St Cloud, FL 34773, USA (St. Cloud, Florida)",
-      "salary": "starting at $41,000 per year",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-07-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117402",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117190",
-      "title": "Post-doctoral Researcher (Ecological Modeling Specialist)",
-      "description": "POSITION TITLE: Post-doctoral Researcher (Ecological Modeling Specialist) SALARY RANGE: $60,000 - $75,000 REPORTS TO: Senior Ecologist, Alaska LOCATION: Flexible (TWS office or remote work in selected states) ABOUT THE WILDERNESS SOCIETYThe Wilderness Society (TWS) is a nation…",
-      "url": "https://thewildernesssociety.careers.hibob.com/jobs/25324d21-d227-44e6-a024-71bfe9ea2221",
-      "employer": "The Wilderness Society",
-      "employer_type": "Private",
-      "location": "remote work allowed",
-      "salary": "$60,000 to $75,000 per year",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-06-23",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117190",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117037",
-      "title": "Wildlife Biologist I – Western Gray Squirrel",
-      "description": "Position: Wildlife Biologist I – Western Gray Squirrel (1 position)Reports to: Sr. Research Scientist – Western Forest Wildlife EcologistWork Week: 40 hours per week Revised: June 4, 2026Duty Station: Corvallis, Oregon; field work will alternate between Corvallis area and Klic…",
-      "url": "https://ncasi.org/about-ncasi/careers/",
-      "employer": "NCASI",
-      "employer_type": "Private",
-      "location": "Corvallis, Oregon",
-      "salary": "$19 to $22.50 per hour",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-06-16",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117037",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116998",
-      "title": "NH Bird Atlas Coordinator",
-      "description": "SUMMARY: Are you ready to make history? NH Audubon is seeking a dynamic avian biologist to lead our upcoming Bird Atlas, a multi-year initiative to map the breeding and winter distributions for all bird species in New Hampshire. This ambitious project, conducted jointly with V…",
-      "url": "https://nhaudubon.org/about-us/job-opportunities/",
-      "employer": "NH Audubon",
-      "employer_type": "Private",
-      "location": "84 Silk Farm Rd (Concord, New Hampshire)",
-      "salary": "$42,000 to $48,000 per year",
-      "deadline": "2026-07-19",
-      "deadline_raw": "07/19/2026",
-      "published": "2026-06-11",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116998",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117465",
@@ -8627,25 +8499,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-116755",
-      "title": "Graduate position - Personality and cognition in wild birds",
-      "description": "The McCune lab (kelseymccune.com) at Auburn University College of Forestry, Wildlife and Environment is hiring a MS or PhD student to research personality and cognition in wild birds. The successful applicant will develop automated technology to support field-based methods for…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116755",
-      "employer": "Auburn University",
-      "employer_type": "State",
-      "location": "Auburn University (Auburn, Alabama)",
-      "salary": "$23,000 to $28,000 per year",
-      "deadline": "2026-08-31",
-      "deadline_raw": "08/31/2026",
-      "published": "2026-06-02",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116755",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-116789",
       "title": "Jonathan Dickinson State Park, Florida Conservation Corps Project ANT Member Position Description 2026-2027",
       "description": "Project ANT members at Jonathan Dickinson State Park participate in a variety of tasks to land management in an outdoor setting:(1) Non-native plant removal is the primary task, using mechanical (typically a machete) and chemical means (triclopyr ester & glyphosate application…",
@@ -11091,23 +10944,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-117662",
-      "title": "AmeriCorps Environmental Educator",
-      "description": "Ready to make a difference? Join EELCorps as an AmeriCorps member and spend a year inspiring and educating Kentucky's next generation of environmental stewards. Serve with one of our amazing site partners, gain hands-on experience, receive professional development, earn a livi…",
-      "url": "https://keec.ky.gov/eelc/Pages/Apply%20to%20Serve.aspx",
-      "employer": "Kentucky Environmental Education Council",
-      "employer_type": "State",
-      "location": "multiple",
-      "salary": "$10,750 to $21,500 per year",
-      "deadline": "2026-11-01",
-      "deadline_raw": "11/01/2026",
-      "published": "2026-07-16",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117662",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-117555",
       "title": "On-Call Biologist",
       "description": "What We Seek:Amigo Environmental, LLC is seeking an On-Call Biologist to join our natural resources team and provide field support on a variety of environmental projects. In this position, you will conduct biological and/or waters field surveys; monitor construction, vegetatio…",
@@ -11248,6 +11084,23 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=95971",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-107121",
+      "title": "Meat cutter, skinner, and packaging help",
+      "description": "Come be a part of the largest wild game processor in Montana! We see thousands of animals a season, ranging from antelope, deer, elk, moose, bison, bear, mountain lion, sheep, goat, and the occasional exotic! Any experience is preferred but not mandatory. We can use help from…",
+      "url": "https://Yellowstoneprocessing.com",
+      "employer": "Yellowstone Wild Game Processing",
+      "employer_type": "Private",
+      "location": "74 Chestnut Rd (Bozeman, Montana)",
+      "salary": "starting at $21 per hour",
+      "deadline": "2026-11-15",
+      "deadline_raw": "11/15/2026",
+      "published": "2025-06-12",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=107121",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
