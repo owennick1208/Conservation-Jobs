@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:36:01+00:00",
-  "count": 715,
+  "generated_at": "2026-07-26T14:27:28+00:00",
+  "count": 713,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 750,
+      "count": 747,
       "ok": true
     },
     "fws": {
@@ -97,42 +97,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117671",
-      "title": "Forester",
-      "description": "We're looking for candidates who have recently graduated or are graduating in Summer 2026/December 2026 who are interested in building a long-term career with our agency. The position can be based in either Kountze, TX or Woodville, TX and serves as the training position for a…",
-      "url": "https://tamus.wd1.myworkdayjobs.com/TFS_External/job/Kountze-TX/Forester_R-095327",
-      "employer": "City of Houston Parks and Recreation Department",
-      "employer_type": "City",
-      "location": "12025 Sowden Rd (Houston, Texas)",
-      "salary": "$23.10 to $24.38 per hour",
-      "deadline": "2026-07-25",
-      "deadline_raw": "07/25/2026",
-      "published": "2026-07-21",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117671",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117324",
-      "title": "M.S. Research Assistantships (N = 3) at the Wisconsin Cooperative Fishery Research Unit, University of Wisconsin-Stevens Point",
-      "description": "1. Lower Wisconsin River Trap-and-Transfer ProjectDescription: During 2025 and 2026, in collaboration with Alliant Energy and the Wisconsin DNR we captured and transferred 50 blue suckers, 50 shovelnose sturgeon, and 20 lake sturgeon above Prairie Du Sac Dam on the Lower Wisco…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117324",
-      "employer": "Wisconsin Cooperative Fishery Research Unit",
-      "employer_type": "State",
-      "location": "Stevens Point, Wisconsin",
-      "salary": "starting at $20,000 per year",
-      "deadline": "2026-07-25",
-      "deadline_raw": "07/25/2026",
-      "published": "2026-06-30",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117324",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-117789",
@@ -5332,23 +5296,6 @@
       "published": "2026-07-23",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117809",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117787",
-      "title": "Education Operations Coordinator",
-      "description": "Job Title: Education Operations CoordinatorSupervisor: Programs and Creative Director FLSA Status: Non-Exempt, Part-TimeThe International Wildlife Rehabilitation Council is a non-profit organization that provides training, certification, and education benefits to wildlife reha…",
-      "url": "https://theiwrc.org",
-      "employer": "The International Wildlife Rehabilitation Council",
-      "employer_type": "Private",
-      "location": "remote work allowed",
-      "salary": "$23.25 to $24 per hour",
-      "deadline": "2026-08-07",
-      "deadline_raw": "08/07/2026",
-      "published": "2026-07-23",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117787",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -11850,6 +11797,23 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117133",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117729",
+      "title": "Forester",
+      "description": "We're looking for candidates who have recently graduated or are graduating in Summer 2026/December 2026 who are interested in building a long-term career with our agency. The position can be based in either Kountze, TX or Woodville, TX and serves as the training position for a…",
+      "url": "https://tamus.wd1.myworkdayjobs.com/TFS_External/job/Kountze-TX/Forester_R-095327",
+      "employer": "Texas A&M Forest Service",
+      "employer_type": "State",
+      "location": "multiple",
+      "salary": "starting at $4,500 per month",
+      "deadline": "2026-11-01",
+      "deadline_raw": "11/01/2026",
+      "published": "2026-07-21",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117729",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
