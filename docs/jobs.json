@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-08T13:43:03+00:00",
-  "count": 691,
+  "generated_at": "2026-08-09T13:47:09+00:00",
+  "count": 689,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
-      "count": 4,
+      "count": 0,
       "ok": true
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 720,
+      "count": 719,
       "ok": true
     },
     "fws": {
@@ -1428,6 +1428,23 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117692",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117607",
+      "title": "Seasonal Field Technician(s)",
+      "description": "Tangled Bank Conservation, in partnership with Pheasants Forever and as part of the USDA's Working Lands for Wildlife (WLFW) initiative, is seeking two Seasonal Field Technicians to support the development and validation of new standardized aquatic monitoring protocols. These…",
+      "url": "https://tbconservation.org/",
+      "employer": "Tangled Bank Conservation",
+      "employer_type": "Private",
+      "location": "HHWR+88 Big Point, MS, USA (Big Point, Mississippi)",
+      "salary": "$3,000 to $3,500 per month",
+      "deadline": "2026-08-14",
+      "deadline_raw": "08/14/2026",
+      "published": "2026-07-16",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117607",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -3393,23 +3410,6 @@
       "detail_url": "https://www.usajobs.gov:443/job/879753200",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
-    },
-    {
-      "id": "parc-cb615db8b9",
-      "title": "Gopher Tortoise Research Internship",
-      "description": null,
-      "url": "https://archbold-station.apscareerportal.com/jobs/3167063/apps/new",
-      "employer": "Archbold Biological Station",
-      "employer_type": null,
-      "location": "Venus, FL",
-      "salary": "Expense stipend and housing provided",
-      "deadline": "2026-08-21",
-      "deadline_raw": "08-21-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "tamu-118140",
@@ -5403,6 +5403,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-117952",
+      "title": "Conservation Ecology Program Manager / Senior Manager",
+      "description": "Mojave Desert Land Trust | Joshua Tree, California Regular Full-Time | Remote Eligible | 9/80 Schedule Salaried, ExemptConservation Ecology Program Manager — Grade 9: $70,300 - $76,000 annually Senior Conservation Ecology Program Manager — Grade 10: $77,000 – $83,000 annuallyM…",
+      "url": "https://www.mdlt.org/employment",
+      "employer": "Mojave Desert Land Trust",
+      "employer_type": "Private",
+      "location": "60124 29-Palms Hwy (Joshua Tree, California) | remote work allowed",
+      "salary": "$70,300 to $83,000 per year",
+      "deadline": "2026-08-30",
+      "deadline_raw": "08/30/2026",
+      "published": "2026-07-30",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117952",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-117897",
       "title": "Refuge Support Member - Sacramento NWRC",
       "description": "SummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with the U.S. Fish and Wildlife Service (USFWS), is seeking one Wildlife Refuge Support Member to contribute to a variety of visitor services projects under the mentorship of Sacramento Nat…",
@@ -5457,23 +5474,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117708",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-7e3c258153",
-      "title": "Conservation Ecology Program Manager / Senior Manager",
-      "description": null,
-      "url": "https://www.mdlt.org/employment",
-      "employer": "Mojave Desert Land Trust",
-      "employer_type": null,
-      "location": "60124 29-Palms Hwy, Joshua Tree, CA 92252",
-      "salary": "$70,300 – $83,000",
-      "deadline": "2026-08-31",
-      "deadline_raw": "08-31-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "tamu-118143",
@@ -6434,23 +6434,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "parc-699c88571b",
-      "title": "Coastal Ecology Research Staff",
-      "description": null,
-      "url": "https://www.ugajobsearch.com/postings/496419",
-      "employer": "University of Georgia Coastal Ecology Lab",
-      "employer_type": null,
-      "location": "Brunswick, GA",
-      "salary": "$40 – 46,464",
-      "deadline": "2026-09-01",
-      "deadline_raw": "09-01-2026",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
-    },
-    {
       "id": "tamu-118122",
       "title": "Inventory Management Technician (Plant Salvage)",
       "description": "Elaphos Environmental LLC is seeking Inventory Management Technicians to support a large-scale transmission line project in southern Nevada. This is a temporary, full-time W-2 position and an excellent opportunity for individuals interested in gaining experience in environment…",
@@ -6668,6 +6651,25 @@
       "published": "2026-07-30",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117943",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117917",
+      "title": "Coastal Ecology Research Staff",
+      "description": "Please see the website for the full job description and to apply. Note that applications can only be considered if they are submitted via the UGA website.This position is for a staff researcher in the Coastal Ecology Lab with Marine Extension and Georgia Sea Grant office and w…",
+      "url": "https://www.ugajobsearch.com/postings/496419",
+      "employer": "University of Georgia Marine Extension and Georgia Sea Grant",
+      "employer_type": "State",
+      "location": "Brunswick, Georgia",
+      "salary": "$40,000 to $46,464 per year",
+      "deadline": "2026-09-01",
+      "deadline_raw": "09/01/2026",
+      "published": "2026-07-29",
+      "tags": [
+        "Grant"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117917",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -10936,23 +10938,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-118121",
-      "title": "Small Aquatic Organism Imaging Lead",
-      "description": "Tangled Bank Conservation combines rigorous field work with cutting-edge technology to advance conservation. TBC is leading an initiative to survey aquatic biodiversity across the Southeastern US. The goal of this project is to efficiently monitor biodiversity across large geo…",
-      "url": "https://tbconservation.org/",
-      "employer": "Tangled Bank Conservation",
-      "employer_type": "Private",
-      "location": "192 East Chestnut St. STE A (Asheville, North Carolina)",
-      "salary": "$40,000 to $44,000 per year",
-      "deadline": "2026-10-31",
-      "deadline_raw": "10/31/2026",
-      "published": "2026-08-07",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118121",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-118115",
       "title": "Senior Regulatory Permitting Specialist",
       "description": "We’re currently hiring a Senior Regulatory Permitting Specialist in the Sacramento/Central Valley region. On Team 12, you will work closely with WRA's Principals, Directors, and Executive-level leadership to develop, manage, and deliver multifaceted regulatory projects primari…",
@@ -12461,23 +12446,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117152",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-7f7b5d9732",
-      "title": "Jamaican Iguana Research Opportunities 2025",
-      "description": null,
-      "url": "https://www.iguanafoundation.org/get-involved/",
-      "employer": null,
-      "employer_type": null,
-      "location": "Southern Jamaica",
-      "salary": "Stipend to cover all in country expenses and flights",
-      "deadline": null,
-      "deadline_raw": "Open until filled",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "afwa-7cad785145",
