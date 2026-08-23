@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T13:29:23+00:00",
-  "count": 685,
+  "generated_at": "2026-08-23T13:29:54+00:00",
+  "count": 682,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 713,
+      "count": 710,
       "ok": true
     },
     "fws": {
@@ -46,62 +46,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-117800",
-      "title": "Assistant Director",
-      "description": "The Center for Water Policy has launched a search for its next Assistant Director. This is a full-time, academic staff position at the University of Wisconsin-Milwaukee School of Freshwater Sciences. The application deadline is August 22, 2026.The Assistant Director supports t…",
-      "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Milwaukee/job/Milwaukee-WI/Administrative-Manager_JR10013284-1",
-      "employer": "Center for Water Policy",
-      "employer_type": "State",
-      "location": "Milwaukee, Wisconsin",
-      "salary": "$65,000 to $97,000 per year",
-      "deadline": "2026-08-22",
-      "deadline_raw": "08/22/2026",
-      "published": "2026-07-23",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117800",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117647",
-      "title": "PhD Assistantship – Atlantic Salmon Ecology & Restoration (Lake Ontario) at Cornell University",
-      "description": "A doctoral Graduate Research Assistantship is available through the New York Cooperative Fish and Wildlife Research Unit (NY CRU) at Cornell University with advisor Dr. Christopher Sullivan. The successful applicant will investigate juvenile Atlantic salmon (Salmo salar) ecolo…",
-      "url": "https://sullivanfishlab.weebly.com/join-us.html",
-      "employer": "USGS",
-      "employer_type": "Federal",
-      "location": "Ithaca, New York",
-      "salary": "starting at $49,925 per year",
-      "deadline": "2026-08-22",
-      "deadline_raw": "08/22/2026",
-      "published": "2026-07-16",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117647",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117459",
-      "title": "Fall Big Cat CAREtaker Internship - Starts Aug 15, 2026 (start time flexible)",
-      "description": "**We are currently interviewing/onboarding intern candidates for the Fall 2026 semester (15 Aug - 15 Dec)**CARE offers an intensive internship program for individuals who are interested in learning more about working with exotic animals, primarily big cats. There are 2-4 inter…",
-      "url": "https://www.carerescuetexas.com/what-we-do/internships.html",
-      "employer": "Center for Animal Research and Education",
-      "employer_type": "Private",
-      "location": "245 County Road 3422 (Bridgeport, Texas)",
-      "salary": "none",
-      "deadline": "2026-08-22",
-      "deadline_raw": "08/22/2026",
-      "published": "2026-07-07",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117459",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-118134",
