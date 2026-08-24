@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T13:29:54+00:00",
-  "count": 682,
+  "generated_at": "2026-08-24T13:48:59+00:00",
+  "count": 681,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 710,
+      "count": 703,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 35,
+      "count": 41,
       "ok": true
     },
     "afwa": {
@@ -46,137 +46,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-118134",
-      "title": "Seed Adaptation Planner, Environmental Planner",
-      "description": "Seed Adaptation Planner, Environmental Planner 4 (EP4)Full-time, Project, Represented position (WFSE)Anticipated Project is September 14, 2026 - June 30, 2027Relocation Compensation may be available and consideredSalary: $6,384.00 - $8,583.00 MonthlyReview of applications is o…",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5438815/seed-adaptation-planner-environmental-planner-4-ep4?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
-      "employer": "Washington State Department of Natural Resources",
-      "employer_type": "State",
-      "location": "meridian seed orchard (olympia, Washington)",
-      "salary": "$6,384 to $8,583 per month",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-08-07",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118134",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118136",
-      "title": "Fisheries Technician 1 - Groundfish Catch Monitoring (Fort Bragg)",
-      "description": "Pacific States Marine Fisheries Commission is recruiting candidates to fill the role of a Fisheries Technician 1 based in Fort Bragg, California. This is a full-time, full-year position with benefits. Some travel may be required. Fisheries Technicians perform duties related to…",
-      "url": "https://myjobs.adp.com/pacificstatesmarinecareers/cx/job-details?reqId=5001216844406",
-      "employer": "Pacific States Marine Fisheries Commission",
-      "employer_type": "Federal",
-      "location": "Fort Bragg, California",
-      "salary": "$15.59 to $25.46 per hour",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-08-07",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118136",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117824",
-      "title": "Natural Resources Restoration Specialist",
-      "description": "--Central Unit Restoration Specialist, Natural Resource Specialist 3 (NRS3) - Wenatchee, WA --Northwest Unit Restoration Specialist, Natural Resource Specialist 3 (NRS3) - Arlington, WA Full-time, Project, Represented positions (WPEA)Anticipated Project Employment is through J…",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5419606/restoration-specialist-natural-resource-specialist-3-nrs3?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
-      "employer": "Washington State Department of Natural Resources",
-      "employer_type": "State",
-      "location": "multiple",
-      "salary": "$5,111 to $6,870 per month",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-07-30",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117824",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117812",
-      "title": "Aquatic Field Technician (Hourly) - Illinois Natural History Survey - Macomb, IL",
-      "description": "The Illinois Natural History Survey (INHS) is seeking field technicians (1-2) to conduct applied research in aquatic ecology and large river systems throughout the state of Illinois, focusing on the Mississippi River. Technicians will assist large river ecologists in the colle…",
-      "url": "https://blogs.illinois.edu/view/7426/262912579",
-      "employer": "Illinois Natural History Survey",
-      "employer_type": "State",
-      "location": "Macomb, Illinois",
-      "salary": "$15 to $18 per hour",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-07-30",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117812",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117955",
-      "title": "Grants Manager (NH Audubon)",
-      "description": "TITLE: GRANTS MANAGER LOCATION: McLane Center - Concord, NH HOURS: 21 hours per week, part-time non-exempt (hourly paid) staff position. Schedule may vary according to needs. This position may include remote office time, with at least one day per week at McLane Center. FUNCTIO…",
-      "url": "https://nhaudubon.org/about-us/job-opportunities/",
-      "employer": "NH Audubon",
-      "employer_type": "Private",
-      "location": "84 Silk Farm Rd (Concord, New Hampshire)",
-      "salary": "$21 to $24 per hour",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-07-30",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities",
-        "Grant"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117955",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117837",
-      "title": "Libby Area Wildlife Biologist - (26141917)",
-      "description": "This position is stationed in Libby, MT, a mountainous area of Northwest Montana that includes the Kootenai, Yaak, Fisher and Bull River basins. Libby is 90 miles west of Kalispell and 50 miles southeast of Bonners Ferry, ID. The area of responsibility of the Wildlife Biologis…",
-      "url": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26141917&tz=GMT-06%3A00&tzname=America%2FDenver",
-      "employer": "Montana Fish, Wildlife & Parks",
-      "employer_type": "State",
-      "location": "Libby, Montana",
-      "salary": "$32.56 per hour",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-07-29",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117837",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116720",
-      "title": "Hunting Control Station Manager",
-      "description": "About us: Meade Natural Heritage Association (MNHA) partners with the United States Fish and Wildlife Service (USFWS) to provide the public with high-quality outdoor recreational experiences at the Patuxent Research Refuge (PRR). MNHA manages hunting activities on the PRR to a…",
-      "url": "https://www.fws.gov/refuge/patuxent-research",
-      "employer": "Patuxent Research Refuge (U.S Fish and Wildlife Service)",
-      "employer_type": "Federal",
-      "location": "230 Bald Eagle Drive, Laurel, MD 20724 (Laurel, Maryland)",
-      "salary": "$400 per week",
-      "deadline": "2026-08-23",
-      "deadline_raw": "08/23/2026",
-      "published": "2026-06-02",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116720",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-118342",
@@ -260,6 +129,23 @@
       "published": "2026-08-17",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118303",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-118268",
+      "title": "Wildlife Project Coordinator",
+      "description": "Summary The Wildlife Project Coordinator runs long-term wildlife monitoring and conservation projects that protect Scottsdale’s McDowell Sonoran Preserve and advance regional knowledge. They report to the Senior Science Program Manager and coordinate volunteers to plan, coordi…",
+      "url": "https://www.mcdowellsonoran.org/",
+      "employer": "McDowell Sonoran Conservancy",
+      "employer_type": "Private",
+      "location": "15941 N 77th St suite 2 (SCOTTSDALE, Arizona) | remote work allowed",
+      "salary": "up to $52,500 per year",
+      "deadline": "2026-08-24",
+      "deadline_raw": "08/24/2026",
+      "published": "2026-08-14",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118268",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -803,25 +689,6 @@
       "published": "2026-08-07",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118042",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-116134",
-      "title": "Native Landscapes and Garden Center Internship",
-      "description": "The Sanibel-Captiva Conservation Foundation (SCCF) Native Landscapes & Garden Center seeks an energetic and hardworking intern to assist in day-to-day garden and nursery operations and work with our landscape installation and maintenance services. The Native Landscapes & Garde…",
-      "url": "https://sccf.org/about/employment-internships/",
-      "employer": "Sanibel Captiva Conservation Foundation",
-      "employer_type": "Private",
-      "location": "1300 Periwinkle Way (Sanibel, Florida)",
-      "salary": "starting at $14 per hour",
-      "deadline": "2026-08-26",
-      "deadline_raw": "08/26/2026",
-      "published": "2026-05-01",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116134",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -4424,6 +4291,23 @@
       "source_key": "fws"
     },
     {
+      "id": "fws-SSO2-26-13044447-FUL-MER",
+      "title": "FUL-Tractor Operator (Seasonal)",
+      "description": "You will serve as a FUL-Tractor Operator (Seasonal) WG-5705-5 working in Decatur Alabama for the Wheeler National Wildlife Refuge. This is a temporary not to exceed 1039 hours position. This position is being filled under the Field Unit Local Hiring Authority (FUL). See below…",
+      "url": "https://www.usajobs.gov:443/job/881771400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Decatur, Alabama",
+      "salary": "$22.32 – $26.06 PH",
+      "deadline": "2026-09-01",
+      "deadline_raw": "2026-09-01T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881771400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "tamu-118369",
       "title": "Natural Resources Director for Equity, Environmental Justice, and Civil Rights",
       "description": "Director for Equity, Environmental Justice, and Civil Rights, ExemptPartial Telework flexibility may be available and consideredRelocation Compensation may be available and consideredSalary: $10,967.00 - $12,792.00 MonthlyTo allow for growth and salary progression, the full sa…",
@@ -4558,6 +4442,23 @@
       "published": "2026-08-19",
       "tags": [],
       "detail_url": "https://www.usajobs.gov:443/job/881135700",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-CBYP-26-13040089-DE-DSG",
+      "title": "BIOLOGICAL SCIENCE TECHNICIAN (FISH)",
+      "description": "This position serves as a Biological Science Technician (Fish), GS- 0404-5/6/7, with a full performance level of GS-07 located in Vernal, UT for the Jones Hole National Fish Hatchery. Salary Range Information (Per Annum) for Vernal, Utah is: GS-05, $40,736-$52,957 GS-06, $45,4…",
+      "url": "https://www.usajobs.gov:443/job/881737400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Vernal, Utah",
+      "salary": "$40736 – $65599 PA",
+      "deadline": "2026-09-02",
+      "deadline_raw": "2026-09-02T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881737400",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
     },
@@ -5099,6 +5000,57 @@
       "published": "2026-08-18",
       "tags": [],
       "detail_url": "https://www.usajobs.gov:443/job/880897300",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-SSO2-26-13033654-DE-MER",
+      "title": "Animal Caretaker (Seasonal)",
+      "description": "You will serve as a Animal Caretaker (Seasonal) working within the Department of Interior, U.S, Fish and Wildlife Service, for the Coleman National Fish Hatchery in Anderson California. This is a temporary position expected to last 6 months or Not to Exceed 1039 hours. but may…",
+      "url": "https://www.usajobs.gov:443/job/881347700",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Anderson, California",
+      "salary": "$23.26 – $27.11 PH",
+      "deadline": "2026-09-04",
+      "deadline_raw": "2026-09-04T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881347700",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-USFWS-26-13041504-IMP-RR",
+      "title": "Supervisory Fish Biologist",
+      "description": "This position is located within the Department of the Interior, U.S. Fish and Wildlife Service, Region 3, Alpena Fish and Wildlife Conservation Office, located at either Alpena, Michigan, or Trenton, MI",
+      "url": "https://www.usajobs.gov:443/job/881646000",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Multiple Locations",
+      "salary": "$125776 – $163514 PA",
+      "deadline": "2026-09-04",
+      "deadline_raw": "2026-09-04T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881646000",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-FWS-CBYO-26-13039133-DE-MS",
+      "title": "Engineering Equipment Operator",
+      "description": "You will serve as a Engineering Equipment Operator to operate gasoline or diesel powered engineering and construction heavy equipment to complete a variety of Service Projects at various locations. You may be required to travel overnight away from home up to 5 nights per month…",
+      "url": "https://www.usajobs.gov:443/job/881800100",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Los Banos, California",
+      "salary": "$39.52 – $46.03 PH",
+      "deadline": "2026-09-04",
+      "deadline_raw": "2026-09-04T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881800100",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
     },
@@ -5738,6 +5690,23 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117156",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
+    },
+    {
+      "id": "fws-CBYO-26-13041808-DE-CMA",
+      "title": "Maintenance Mechanic",
+      "description": "Work for the U.S. Fish and Wildlife Service, Kaua'i National Wildlife Refuge Complex, located on the island of Kauai in the state of Hawai'i. This position supports the Kauai National Wildlife Refuge Complex, which consists of three wildlife refuges - Hanalei, Huleia, and Kila…",
+      "url": "https://www.usajobs.gov:443/job/881753500",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Kilauea, Hawaii",
+      "salary": "$38.45 – $44.88 PH",
+      "deadline": "2026-09-08",
+      "deadline_raw": "2026-09-08T23:59:59.9970",
+      "published": "2026-08-24",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/881753500",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
     },
     {
       "id": "tamu-118299",
@@ -8090,23 +8059,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-118268",
-      "title": "Wildlife Project Coordinator",
-      "description": "Summary The Wildlife Project Coordinator runs long-term wildlife monitoring and conservation projects that protect Scottsdale’s McDowell Sonoran Preserve and advance regional knowledge. They report to the Senior Science Program Manager and coordinate volunteers to plan, coordi…",
-      "url": "https://www.mcdowellsonoran.org/",
-      "employer": "McDowell Sonoran Conservancy",
-      "employer_type": "Private",
-      "location": "15941 N 77th St suite 2 (SCOTTSDALE, Arizona) | remote work allowed",
-      "salary": "up to $52,500 per year",
-      "deadline": "2026-09-30",
-      "deadline_raw": "09/30/2026",
-      "published": "2026-08-14",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118268",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-118241",
       "title": "Assistant Director, Texas Native Seeds",
       "description": "The Assistant Director of Texas Native Seeds (TNS), under general direction, assists in leading and supervising the Coastal Prairies project. This position oversees daily operations of facilities, research sites, and demonstration projects across state, federal, and private la…",
@@ -8824,6 +8776,25 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116413",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-116134",
+      "title": "Native Landscapes and Garden Center Internship",
+      "description": "The Sanibel-Captiva Conservation Foundation (SCCF) Native Landscapes & Garden Center seeks an energetic and hardworking intern to assist in day-to-day garden and nursery operations and work with our landscape installation and maintenance services. The Native Landscapes & Garde…",
+      "url": "https://sccf.org/about/employment-internships/",
+      "employer": "Sanibel Captiva Conservation Foundation",
+      "employer_type": "Private",
+      "location": "1300 Periwinkle Way (Sanibel, Florida)",
+      "salary": "starting at $14 per hour",
+      "deadline": "2026-09-30",
+      "deadline_raw": "09/30/2026",
+      "published": "2026-05-01",
+      "tags": [
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=116134",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
