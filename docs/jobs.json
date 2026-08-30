@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T16:57:55+00:00",
-  "count": 711,
+  "generated_at": "2026-08-30T17:11:45+00:00",
+  "count": 709,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 729,
+      "count": 726,
       "ok": true
     },
     "fws": {
@@ -46,40 +46,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-118344",
-      "title": "Biological Science Technician (Wildlife)",
-      "description": "The duties described are for the full-performance level. At developmental grade levels, assignments will be of more limited scope, performed with less independence and limited complexity.The duties may include, but are not limited to:Inspects and surveys areas and, as necessar…",
-      "url": "https://www.usajobs.gov/job/872028400?_gl=1*srnvz7*_ga*MTI2Njc2NDE4OC4xNzU3MzQ2NzYy*_ga_5222X8D281*czE3ODEwMTA2OTYkbzUwOSRnMSR0MTc4MTAxNDM2NCRqNTckbDAkaDA.",
-      "employer": "USDA APHIS Wildlife Services",
-      "employer_type": "Federal",
-      "location": "multiple",
-      "salary": "$19.52 to $35.36 per hour",
-      "deadline": "2026-08-29",
-      "deadline_raw": "08/29/2026",
-      "published": "2026-08-19",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118344",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-108327",
-      "title": "Land Steward Technician",
-      "description": "Land Steward Technician Position Type: SeasonalStart Date: November 1st, 2026 (flexible)End Date: March 15th, 2027 (flexible)Application Deadline: August 29th, 2026Salary: $10.50/hour + housing and meals (total package valued at $20.50/hour) Location: Little St. Simons Island,…",
-      "url": "https://www.littlestsimonsisland.com/",
-      "employer": "Little St. Simons Island",
-      "employer_type": "Private",
-      "location": "7P52+Q6 St. Simons Island, GA, USA (St. Simons Island, Georgia)",
-      "salary": "$10.50 per hour",
-      "deadline": "2026-08-29",
-      "deadline_raw": "08/29/2026",
-      "published": "2026-08-12",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=108327",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-118468",
@@ -377,28 +343,6 @@
       "published": "2026-08-18",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=115868",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117620",
-      "title": "Natural Resources Specialist",
-      "description": "We are seeking a knowledgeable and detail-oriented natural resources specialist to support environmental conservation, resource management, and sustainability initiatives. In this role, you will analyze environmental data, assist with natural resource programs, monitor ecosyst…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
-      "employer": "EEC Irrigation",
-      "employer_type": "Private",
-      "location": "Camp Bowie Blvd, Fort Worth, TX 76107 (Fort Worth, Texas) | remote work allowed",
-      "salary": "$30 to $58 per hour",
-      "deadline": "2026-08-31",
-      "deadline_raw": "08/31/2026",
-      "published": "2026-08-18",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities",
-        "Faculty / Post-Doc Appointments",
-        "Grant"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -11016,6 +10960,28 @@
         "Undergraduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117928",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117620",
+      "title": "Natural Resources Specialist",
+      "description": "We are seeking a knowledgeable and detail-oriented natural resources specialist to support environmental conservation, resource management, and sustainability initiatives. In this role, you will analyze environmental data, assist with natural resource programs, monitor ecosyst…",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
+      "employer": "EEC Irrigation",
+      "employer_type": "Private",
+      "location": "Camp Bowie Blvd, Fort Worth, TX 76107 (Fort Worth, Texas) | remote work allowed",
+      "salary": "$30 to $58 per hour",
+      "deadline": "2026-11-23",
+      "deadline_raw": "11/23/2026",
+      "published": "2026-08-18",
+      "tags": [
+        "Undergraduate Opportunities",
+        "Graduate Opportunities",
+        "Faculty / Post-Doc Appointments",
+        "Grant"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117620",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
