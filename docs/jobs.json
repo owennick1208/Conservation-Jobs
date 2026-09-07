@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T15:58:14+00:00",
-  "count": 638,
+  "generated_at": "2026-09-07T18:05:32+00:00",
+  "count": 630,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 649,
+      "count": 641,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 37,
+      "count": 38,
       "ok": true
     },
     "afwa": {
@@ -26,133 +26,10 @@
       "name": "ReliefWeb (international)",
       "count": 0,
       "ok": false,
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "403 Client Error: Forbidden for url: https://api.reliefweb.int/v2/jobs?appname=conservation-jobs-aggregator&limit=300&preset=latest&filter%5Bfield%5D=theme.id&filter%5Bvalue%5D%5B%5D=4588&fields%5Binclude%5D%5B%5D=title&fields%5Binclude%5D%5B%5D=url&fields%5Binclude%5D%5B%5D=url_alias&fields%5Binclude%5D%5B%5D=date.closing&fields%5Binclude%5D%5B%5D=date.created&fields%5Binclude%5D%5B%5D=source.name&fields%5Binclude%5D%5B%5D=country.name&fields%5Binclude%5D%5B%5D=city.name&fields%5Binclude%5D%5B%5D=career_categories.name&fields%5Binclude%5D%5B%5D=body"
     }
   },
   "jobs": [
-    {
-      "id": "tamu-118574",
-      "title": "Kupu Conservation Leadership Development Program- Habitat Management and Wildfire Resilience Member",
-      "description": "Site ID/Host Site: U.S. Fish and Wildlife Service - Kauai National Wildlife Refuge ComplexIsland/Location: Kaua'i - KilaueaOrganization Description: The Kauaʻi National Wildlife Refuge Complex consists of 3 Refuges. The 922-acre Hanalei NWR was established in 1972 for the reco…",
-      "url": "https://www.kupuhawaii.org/conservation-leadership-development-program",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "3500 Kilauea Rd (Kilauea, Hawaii)",
-      "salary": "starting at $2,880 per month",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-09-02",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118574",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118478",
-      "title": "Wildlife Biology Aide – Carnivore Trapping",
-      "description": "The National Park Service at Santa Monica Mountains NRA will be conducting post-construction research and monitoring on multiple carnivore species around the newly constructed Anneberg Wildlife Crossing over the US101 freeway in Southern California, including bobcats, mountain…",
-      "url": "https://samofund.org/",
-      "employer": "National Park Service",
-      "employer_type": "Federal",
-      "location": "Thousand Oaks, California",
-      "salary": "$19.50 per hour",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-28",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118478",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118451",
-      "title": "Marine Fisheries Biologist- At-Sea Observer",
-      "description": "ACCEPTING APPLICATIONS THROUGH 9/5/26. A COPY OF COLLEGE TRANSCRIPT IS REQUIRED FOR CONSIDERATION. THIS CAN BE EMAILED TO OFFICE@FATHOMRESOURCES.COMNow Hiring:Groundfish Observer Position:Training running from October 6th through October 22nd, 2026. Full time at sea employment…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118451",
-      "employer": "Fathom Resources",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "$315 to $350 per day",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-26",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118451",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118419",
-      "title": "Wildlife Management Specialist",
-      "description": "Two positionsWork Locations:Iowa DNR Nishnabotna Wildlife Unit (Fremont County)2321 330th Ave, Riverton, IA 51650orIowa DNR Rathbun Wildlife Unit (Lucas County)28248 415th Street, Russell, IA 50238Application deadline: September 6, 2026Salary: $17.00 per hourTypical Hours: 7:3…",
-      "url": "https://pheasantsforever.org/about-us/careers/",
-      "employer": "Pheasants Forever and Quail Forever",
-      "employer_type": "Federal",
-      "location": "multiple",
-      "salary": "starting at $17 per hour",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-24",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118419",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118314",
-      "title": "FISHERIES & WILDLIFE BIO SCIENTIST II Florida Fish and Wildlife Conservation Commission",
-      "description": "An exciting opportunity exists for an entry-level Fisheries and Wildlife Biologist to join a team of biologists and technicians on the Triple N Ranch and Bull Creek Wildlife Management Areas (WMA) in Osceola County, FL. This position serves as a Fisheries and Wildlife Biologic…",
-      "url": "https://jobs.myflorida.com/job/ST_-CLOUD-FISHERIES-&-WILDLIFE-BIO-SCIENTIST-II-77072810-FL-34773/1418691300/",
-      "employer": "Florida Fish and Wildlife Conservation Commission",
-      "employer_type": "State",
-      "location": "5285 north kenansville road (st cloud, Florida)",
-      "salary": "starting at $41,000 per year",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-18",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118314",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118292",
-      "title": "Senior Energy and Climate Analyst",
-      "description": "Title: Senior Energy and Climate Analyst Supervisor: Ashish Kapoor - Senior Energy and Climate Advisor Office Location: Warrenton, VA Job Classification: Full-time ExemptAbout PECThe Piedmont Environmental Council (PEC) protects and restores the lands and waters of the Virgini…",
-      "url": "http://www.pecva.org/apply",
-      "employer": "The Piedmont Environmental Council",
-      "employer_type": "Private",
-      "location": "45 Horner St (Warrenton, Virginia)",
-      "salary": "$80,000 to $100,000 per year",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-17",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118292",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118193",
-      "title": "Farm Bill Biologist I/II",
-      "description": "Farm Bill Wildlife Biologist I or IILocation: USDA-NRCS office in North Vernon, IndianaApplication Deadline: September 6, 2026Anticipated Start Date: October 2026Overview: This position will be employee of and supervised by Pheasants Forever and Quail Forever (PF & QF), with d…",
-      "url": "https://pheasantsforever.applytojob.com/apply/nh6JKXnpXl/Farm-Bill-Biologist-III?source=Our%20Career%20Page%20Widget",
-      "employer": "Pheasants Forever, Inc",
-      "employer_type": "Private",
-      "location": "North Vernon, Indiana",
-      "salary": "$40,322 to $46,000 per year",
-      "deadline": "2026-09-06",
-      "deadline_raw": "09/06/2026",
-      "published": "2026-08-12",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118193",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "tamu-118591",
       "title": "USDA-ARS Postdoctoral Participant Opportunity",
@@ -2071,6 +1948,23 @@
       "source_key": "fws"
     },
     {
+      "id": "fws-CBYM-26-13055424-FUL-LAS",
+      "title": "FUL - Biological Science Technician",
+      "description": "You will serve as a FUL - Biological Science Technician within the Department of the Interior, U.S. Fish and Wildlife Service, Region 1, Warm Springs National Fish Hatchery, in Warm Spring, OR. This position serves as a Biological Science Technician, GS-0404-6/7, at the Warm S…",
+      "url": "https://www.usajobs.gov:443/job/883633800",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Warm Springs, Oregon",
+      "salary": "$45409 – $65599 PA",
+      "deadline": "2026-09-11",
+      "deadline_raw": "2026-09-11T23:59:59.9970",
+      "published": "2026-09-07",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/883633800",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "tamu-118234",
       "title": "Olympic Program Manager (National Parks Conservation Association)",
       "description": "We're protecting and enhancing America's National Park System for present and future generations. National Parks Conservation Association (NPCA) is the nation’s oldest and largest national parks nonprofit advocacy organization. NPCA has an exciting opportunity for an Olympic P…",
@@ -3432,23 +3326,6 @@
       "published": "2026-09-03",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118350",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118322",
-      "title": "Recreation and Planning Technician (BLM, Ridgecrest Field Office)",
-      "description": "The Research Associate Program at GBI, in cooperation with BLM at Ridgecrest Field Office, is recruiting one (1) Recreation Planning Technician to participate in supporting the Ridgecrest Field Office by conducting recreation planning projects in the Ridgecrest Field Office. T…",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A1ADEF5691B02D64E998539442696918/jobs/422407",
-      "employer": "Great Basin Institute",
-      "employer_type": "Private",
-      "location": "Ridgecrest, California",
-      "salary": "$27 per hour",
-      "deadline": "2026-09-16",
-      "deadline_raw": "09/16/2026",
-      "published": "2026-09-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118322",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -7582,7 +7459,7 @@
       "id": "tamu-118128",
       "title": "USGS National Synthesis of Prescribed Fire under Nonstationarity",
       "description": "*Applications will be reviewed on a rolling-basis.USGS Office/Lab and Location: This opportunity is based at the National Climate Adaptation Science Center (NCASC), located at USGS headquarters in Reston, Virginia. Hybrid arrangements are available. The USGS mission is to moni…",
-      "url": "https://zintellect.com/Opportunity/Details/DOI-USGS-2026-68",
+      "url": "https://www.zintellect.com/Opportunity/Details/DOI-USGS-2026-68",
       "employer": "Oak Ridge Associated Universities (ORAU)",
       "employer_type": "Private",
       "location": "Reston, Virginia",
@@ -7595,26 +7472,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118128",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118075",
-      "title": "USGS National Synthesis of Prescribed Fire under Nonstationarity",
-      "description": "*Applications will be reviewed on a rolling-basis.USGS Office/Lab and Location: This opportunity is based at the National Climate Adaptation Science Center (NCASC), located at USGS headquarters in Reston, Virginia. Hybrid arrangements are available. The USGS mission is to moni…",
-      "url": "https://www.zintellect.com/Opportunity/Details/DOI-USGS-2026-68",
-      "employer": "Oak Ridge Associated Universities (ORAU)",
-      "employer_type": "Private",
-      "location": "Reston, Virginia | remote work allowed",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-10-09",
-      "deadline_raw": "10/09/2026",
-      "published": "2026-08-05",
-      "tags": [
-        "Graduate Opportunities",
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118075",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
