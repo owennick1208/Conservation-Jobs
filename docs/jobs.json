@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:59:07+00:00",
-  "count": 638,
+  "generated_at": "2026-09-13T16:49:02+00:00",
+  "count": 635,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 643,
+      "count": 640,
       "ok": true
     },
     "fws": {
@@ -30,57 +30,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "tamu-118234",
-      "title": "Olympic Program Manager (National Parks Conservation Association)",
-      "description": "We're protecting and enhancing America's National Park System for present and future generations. National Parks Conservation Association (NPCA) is the nation’s oldest and largest national parks nonprofit advocacy organization. NPCA has an exciting opportunity for an Olympic P…",
-      "url": "https://www.npca.org/about/careers",
-      "employer": "National Parks Conservation Association",
-      "employer_type": "Private",
-      "location": "Seattle, Washington",
-      "salary": "$69,000 to $80,000 per year",
-      "deadline": "2026-09-12",
-      "deadline_raw": "09/12/2026",
-      "published": "2026-08-13",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118234",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117819",
-      "title": "Fisheries Field Biologist 1",
-      "description": "JOB SUMMARY:Studies basic principles of fish populations their origin, relationship, development, anatomy, and functions. Manages the installation, operation, and maintenance of the Tribal selective harvest weir and associated biological sampling and disease monitoring program…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117819",
-      "employer": "Hoopa Valley Tribe",
-      "employer_type": "Tribal Government",
-      "location": "190 Loop Road (Hoopa, California)",
-      "salary": "$63,138 to $82,381 per year",
-      "deadline": "2026-09-12",
-      "deadline_raw": "09/12/2026",
-      "published": "2026-08-05",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117819",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118066",
-      "title": "Biological Monitor - Independent Consultant",
-      "description": "Independent Contractor Opportunity – Biological Monitor (Las Vegas, NV) Location: Las Vegas, Nevada and surrounding project areas Position Type: Independent Contractor (1099) Project-Based | Full-Time Field Schedule During Active Construction Several qualified Biological Monit…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118066",
-      "employer": "Independent Contractor/Consulting Opportunity",
-      "employer_type": "Private",
-      "location": "Las Vegas, Nevada",
-      "salary": "starting at $45 per hour",
-      "deadline": "2026-09-12",
-      "deadline_raw": "09/12/2026",
-      "published": "2026-08-05",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118066",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "tamu-118633",
       "title": "Senior Fish Health Microbiologist - Microbiologist 4 - Permanent - 2026-07261",
