@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T16:13:14+00:00",
-  "count": 674,
+  "generated_at": "2026-09-20T16:40:50+00:00",
+  "count": 672,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 675,
+      "count": 672,
       "ok": true
     },
     "fws": {
@@ -46,23 +46,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-118467",
-      "title": "Outreach Program Assistant (International Crane Foundation)",
-      "description": "The International Crane Foundation (ICF) is looking for a community-oriented team member in Decatur, AL to contribute to education and engagement initiatives and lead outreach conservation efforts for the Sandhill Crane and endangered Whooping Crane. This full time LTE opportu…",
-      "url": "https://savingcranes.org/careers/",
-      "employer": "International Crane Foundation",
-      "employer_type": "Private",
-      "location": "Wheeler National Wildlife Refuge (Decatur, Alabama)",
-      "salary": "$17 per hour",
-      "deadline": "2026-09-19",
-      "deadline_raw": "09/19/2026",
-      "published": "2026-08-27",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118467",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-118725",
@@ -426,6 +409,23 @@
       "published": "2026-09-03",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118624",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-118617",
+      "title": "England Cottontail Winter Field Technician",
+      "description": null,
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118617",
+      "employer": "SUNY College of Environmental Science and Forestry",
+      "employer_type": "State",
+      "location": "New York",
+      "salary": "starting at $18 per hour",
+      "deadline": "2026-09-21",
+      "deadline_raw": "09/21/2026",
+      "published": "2026-09-03",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118617",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -810,23 +810,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118645",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118617",
-      "title": "England Cottontail Winter Field Technician",
-      "description": null,
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118617",
-      "employer": "SUNY College of Environmental Science and Forestry",
-      "employer_type": "State",
-      "location": "New York",
-      "salary": "starting at $18 per hour",
-      "deadline": "2026-09-23",
-      "deadline_raw": "09/23/2026",
-      "published": "2026-09-03",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118617",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -3025,6 +3008,23 @@
       "published": "2026-08-28",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118484",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-118374",
+      "title": "Chief Financial Officer (International Crane Foundation)",
+      "description": "Are you an experienced financial leader looking for an opportunity to combine strategic financial leadership with meaningful global impact? Join the International Crane Foundation (ICF) and be part of a global non-profit organization dedicated to protecting cranes and the ecos…",
+      "url": "https://savingcranes.org/careers/",
+      "employer": "International Crane Foundation",
+      "employer_type": "Private",
+      "location": "E11376 Shady Lane Road (Baraboo, Wisconsin) | remote work allowed",
+      "salary": "$140,000 to $150,000 per year",
+      "deadline": "2026-09-30",
+      "deadline_raw": "09/30/2026",
+      "published": "2026-08-27",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118374",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -6647,25 +6647,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-118471",
-      "title": "Annual Aquatic Invasive Species Technician(1)",
-      "description": "Looking for a long term Annual Aquatic Invasive Species Technician at Lake Powell.Main Duties-Conduct Watercraft Inspections to stop spread of Aquatic Invasive Species( mainly Quagga Mussels) and standing water-Educate Boaters on preventing spread of Aquatic Invasive Species-E…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118471",
-      "employer": "T'N'T Environmental, LLC",
-      "employer_type": "Private",
-      "location": "Page, Arizona",
-      "salary": "$19 to $20 per hour",
-      "deadline": "2026-10-15",
-      "deadline_raw": "10/15/2026",
-      "published": "2026-08-27",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118471",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-118271",
       "title": "Wind River Karelian Bear Dogs Partners Program Intern",
       "description": "LEARN HOW WE: Train & Care for Our Karelian Wildlife Service Dogs & Personal Dogs ARE YOU SEEKING EXPERIENCE IN: Dog Training, WORKING WITH YOUR PERSONAL DOGS, Wildlife Conservation, Veterinary Tech Work, Ranch Work?Do You want to contribute to MEANINGFUL WORK WITH DOGS or WIL…",
@@ -10000,6 +9981,25 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-118881",
+      "title": "Graduate Opportunity in Rodent-borne Infectious Disease Ecology",
+      "description": "The Veterinary and Medical Ecology Lab at Washington State University is seeking a highly motivated, ambitious, and organized student (MS or PhD), who is interested in the epidemiology and ecology of rodent-borne diseases to start in August 2027. The successful candidate would…",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
+      "employer": "Washington State University",
+      "employer_type": "State",
+      "location": "Pullman, Washington",
+      "salary": "starting at $2,510 per month",
+      "deadline": "2026-12-01",
+      "deadline_raw": "12/01/2026",
+      "published": "2026-09-18",
+      "tags": [
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-118869",
       "title": "Avian Care Specialist",
       "description": "Avian Care SpecialistAlaska Raptor Center | Sitka, AlaskaThe Alaska Raptor Center is seeking a dedicated and compassionate Avian Care Specialist to join our team and provide exceptional care for injured, orphaned, and non-releasable raptors. This position combines hands-on wil…",
@@ -10317,25 +10317,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-118163",
-      "title": "Tropical Construction & Field Research Intern",
-      "description": "OverviewJoin Chirripó Oasis, a 100-acre private reserve in Costa Rica's Talamanca Mountains dedicated to biodiversity conservation and sustainable land stewardship. We're looking for interns and volunteers to help establish our research foundation by constructing facilities us…",
-      "url": "https://chirripooasis.com/en/volunteering",
-      "employer": "Chirripó Oasis",
-      "employer_type": "Private",
-      "location": "C9M8+PH4, San José Province, Rivas, Chimirol Rivas, Costa Rica (Rivas, Costa Rica)",
-      "salary": "none",
-      "deadline": "2026-12-13",
-      "deadline_raw": "12/13/2026",
-      "published": "2026-08-26",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118163",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-97836",
       "title": "Animal Care Intern",
       "description": "Cub Creek Science Camp is a residential summer camp located in Rolla, MO and home to 300 animals including ring-tail lemurs, porcupines, parrots, small mammals and hoof stock. Interns have the opportunity to work with a range of domestic and exotic animals developing skills in…",
@@ -10592,25 +10573,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118423",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118881",
-      "title": "Graduate Opportunity in Rodent-borne Infectious Disease Ecology",
-      "description": "The Veterinary and Medical Ecology Lab at Washington State University is seeking a highly motivated, ambitious, and organized student (MS or PhD), who is interested in the epidemiology and ecology of rodent-borne diseases to start in August 2027. The successful candidate would…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
-      "employer": "Washington State University",
-      "employer_type": "State",
-      "location": "Pullman, Washington",
-      "salary": "starting at $2,510 per month",
-      "deadline": "2026-12-31",
-      "deadline_raw": "12/31/2026",
-      "published": "2026-09-18",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118881",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
