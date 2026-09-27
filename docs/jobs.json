@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T16:52:16+00:00",
-  "count": 760,
+  "generated_at": "2026-09-27T17:28:18+00:00",
+  "count": 756,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 762,
+      "count": 758,
       "ok": true
     },
     "fws": {
@@ -63,79 +63,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-118828",
-      "title": "Marine Mammal / Sea Turtle Observer Training Course September 26-27",
-      "description": "MPSC is offering a virtual training course that provides Protected Species Observer (also known as Marine Mammal Observer) Certification on September 26-27, 2026. This training is approved by the federal agencies Bureau of Ocean Energy Management (BOEM) and Bureau of Safety an…",
-      "url": "https://www.protectedspeciesobservers.com/",
-      "employer": "Marine Protected Species Consulting",
-      "employer_type": "Private",
-      "location": "remote work allowed",
-      "salary": "none",
-      "deadline": "2026-09-26",
-      "deadline_raw": "09/26/2026",
-      "published": "2026-09-16",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118828",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118644",
-      "title": "Assistant Professor of Silviculture",
-      "description": "The Department of Environmental Sciences at Tennessee State University (TSU) in thecollege of Agriculture invites applications for a full-time, 12-month tenure track AssistantProfessor of Silviculture. The position’s start date is anticipated to be fall 2026.We seek candidates…",
-      "url": "https://jobs.tnstate.edu/postings/10497",
-      "employer": "Tennessee State University",
-      "employer_type": "State",
-      "location": "Nashville, Tennessee",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-09-26",
-      "deadline_raw": "09/26/2026",
-      "published": "2026-09-08",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118644",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118200",
-      "title": "Scientist I - Ecology (Stream and Wetland Restoration)",
-      "description": "If website is no longer accepting applications, please email resumes to pbraun@res.usAt RES, we’re looking for purpose-driven individuals who are passionate about restoration and sustainability, and who want their work to make a lasting environmental impact. Our team members g…",
-      "url": "https://job-boards.greenhouse.io/res/jobs/5378536008",
-      "employer": "Resource Environmental Solutions, LLC",
-      "employer_type": "Private",
-      "location": "Office (Brentwood, Tennessee)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-09-26",
-      "deadline_raw": "09/26/2026",
-      "published": "2026-08-12",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118200",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118061",
-      "title": "Horticulture and Ecological Restoration Technician",
-      "description": "Horticulture and Ecological Restoration Assistant - Conservation Technician II The Trinity County Resource Conservation District is accepting applications for the position of Horticulture and Ecological Restoration Assistant - Conservation Technician II. The Horticulture and E…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118061",
-      "employer": "Trinity County Resource Conservation District",
-      "employer_type": "County",
-      "location": "Weaverville, California",
-      "salary": "starting at $21 per hour",
-      "deadline": "2026-09-26",
-      "deadline_raw": "09/26/2026",
-      "published": "2026-08-05",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118061",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-116999",
