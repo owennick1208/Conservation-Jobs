@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T16:58:08+00:00",
-  "count": 695,
+  "generated_at": "2026-10-04T17:16:53+00:00",
+  "count": 691,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 687,
+      "count": 683,
       "ok": true
     },
     "fws": {
@@ -80,45 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-118889",
-      "title": "Postdoctoral Research Associate - Phytoplankton Ecology",
-      "description": "Postdoctoral Research Associate - Phytoplankton EcologyHarte Research Institute, Texas A&M University-Corpus ChristiDescriptionA postdoctoral research associate position is available in the Coastal Water Health lab at the Harte Research Institute. The postdoctoral researcher w…",
-      "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TAMUCC_External/details/Postdoctoral-Research-Associate---Phytoplankton-Ecology_R-097274",
-      "employer": "Harte Research Institute, Texas A&M University-Corpus Christi",
-      "employer_type": "State",
-      "location": "6300 Ocean Drive (Texas)",
-      "salary": "$50,000 to $57,500 per year",
-      "deadline": "2026-10-03",
-      "deadline_raw": "10/03/2026",
-      "published": "2026-09-18",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118889",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-112543",
-      "title": "Wildlife Rehabilitation Internship Fall",
-      "description": "As a Wildlife Rehabilitation Intern, you will be working full-time wildlife rehabilitation duties, including but not limited to hand feeding orphans: squirrels, opossums, songbirds, hospital cleaning, ground maintenance, performing treatment plans on patients, administering me…",
-      "url": "https://www.stfranciswildlife.org/",
-      "employer": "St. Francis Wildlife",
-      "employer_type": "Private",
-      "location": "5580 Salem Rd (QUINCY, FLORIDA, Florida)",
-      "salary": "none",
-      "deadline": "2026-10-03",
-      "deadline_raw": "10/03/2026",
-      "published": "2026-07-30",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=112543",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-114713",
@@ -587,23 +548,6 @@
       "published": "2026-09-02",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=110289",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118548",
-      "title": "Program Lead, Wildlife Technology Fund",
-      "description": "As a Program Lead for the Wildlife Technology Fund at Renaissance Philanthropy, you will be responsible for scoping, designing, and — if the case holds up — launching a multi-year program, working across scientific disciplines to achieve concrete, wildlife-benefitting outcomes…",
-      "url": "https://www.renaissancephilanthropy.org/careers/program-lead-wildlife-technology-fund",
-      "employer": "Renaissance Philanthropy",
-      "employer_type": "Private",
-      "location": "District of Columbia",
-      "salary": "$110,000 to $135,000 per year",
-      "deadline": "2026-10-05",
-      "deadline_raw": "10/05/2026",
-      "published": "2026-09-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118548",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -2165,6 +2109,26 @@
       "published": "2026-08-07",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118117",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117911",
+      "title": "Wildlife Rehabilitation Hospital Technician",
+      "description": "As a Wildlife Rehabilitation Hospital Technician, you are responsible for all daily operations of the wildlife rehabilitation hospital, including but not limited to:Animal Husbandry of all patients, including critical adultsHand-feeding all orphans: squirrels, opossums, raccoo…",
+      "url": "https://www.stfranciswildlife.org/",
+      "employer": "St. Francis Wildlife",
+      "employer_type": "Private",
+      "location": "5580 Salem Rd (QUINCY, FLORIDA, Florida)",
+      "salary": "$15 to $17 per hour",
+      "deadline": "2026-10-10",
+      "deadline_raw": "10/10/2026",
+      "published": "2026-07-29",
+      "tags": [
+        "Undergraduate Opportunities",
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117911",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -7622,6 +7586,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-118548",
+      "title": "Program Lead, Wildlife Technology Fund",
+      "description": "As a Program Lead for the Wildlife Technology Fund at Renaissance Philanthropy, you will be responsible for scoping, designing, and — if the case holds up — launching a multi-year program, working across scientific disciplines to achieve concrete, wildlife-benefitting outcomes…",
+      "url": "https://www.renaissancephilanthropy.org/careers/program-lead-wildlife-technology-fund",
+      "employer": "Renaissance Philanthropy",
+      "employer_type": "Private",
+      "location": "District of Columbia",
+      "salary": "$110,000 to $135,000 per year",
+      "deadline": "2026-11-02",
+      "deadline_raw": "11/02/2026",
+      "published": "2026-09-01",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118548",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-118312",
       "title": "M.S. Position, Freshwater Ecology - Positive Interactions in Stream Insect Communities",
       "description": "Description: The Tumolo lab at Northern Michigan University is seeking 1 MS student to join a collaborative team to study positive interactions among stream insects (https://www.benjamintumolo.com). The position is fully funded by the National Science Foundation and includes a…",
@@ -10209,25 +10190,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-97836",
-      "title": "Animal Care Intern",
-      "description": "Cub Creek Science Camp is a residential summer camp located in Rolla, MO and home to 300 animals including ring-tail lemurs, porcupines, parrots, small mammals and hoof stock. Interns have the opportunity to work with a range of domestic and exotic animals developing skills in…",
-      "url": "https://cubcreeksciencecamp.com/join-our-team/internships/",
-      "employer": "Cub Creek Science Camp",
-      "employer_type": "Private",
-      "location": "16795 State Hwy E (Rolla, Missouri)",
-      "salary": "starting at $250 per week",
-      "deadline": "2026-12-13",
-      "deadline_raw": "12/13/2026",
-      "published": "2026-08-13",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=97836",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-112451",
       "title": "Deck Hand",
       "description": "Pay: $13.50 - $17.50 per hourJob description:Job OverviewThree Sisters Oyster Co is an 8-acre start up aquaculture business. The shore base is in Olivia, Texas and the 8-acre farm lease is nearby at the mouth of Keller Bay. We grow premium cultured oysters using a floating cag…",
@@ -10830,23 +10792,6 @@
       "published": "2026-07-30",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117811",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117720",
-      "title": "Field Biologist",
-      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
-      "employer": "Spheros Environmental",
-      "employer_type": "Private",
-      "location": "Las Vegas, Nevada",
-      "salary": "$27 to $45 per hour",
-      "deadline": "2026-12-31",
-      "deadline_raw": "12/31/2026",
-      "published": "2026-07-30",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117720",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -11511,25 +11456,6 @@
       "published": "2026-09-23",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118987",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117652",
-      "title": "Reserve Stewardship Couple - Ecuador",
-      "description": "Reserve Stewardship Duo: Las Tangaras Reserve, Mindo, Ecuador 2027 and 2028 Contract periods: August 25, 2027 to Feb 6, 2028. Feb 2, 2028 to July 16, 2028.Life Net Nature seeks a fit, mature in character, and responsible duo with a solid history of working and living together.…",
-      "url": "https://lifenetnature.org",
-      "employer": "Life Net Nature",
-      "employer_type": "Private",
-      "location": "Mindo, Ecuador | remote work allowed",
-      "salary": "starting at $400 per month",
-      "deadline": "2027-01-15",
-      "deadline_raw": "01/15/2027",
-      "published": "2026-08-31",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117652",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -12405,8 +12331,8 @@
     {
       "id": "tamu-118195",
       "title": "Field Biologist",
-      "description": "PRINCIPAL FUNCTION: The Field Biologist will be part of the Conservation & Research Department team within the Southeastern Center for Conservation at the Atlanta Botanical Garden. They will work under the direction of the Field Botany Program Manager and assist with many of t…",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4400942",
+      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
+      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
       "employer": "Atlanta Botanical Garden",
       "employer_type": "Private",
       "location": "Atlanta Botanical Garden (Georgia)",
