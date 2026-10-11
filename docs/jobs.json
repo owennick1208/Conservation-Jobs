@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T17:38:26+00:00",
-  "count": 724,
+  "generated_at": "2026-10-11T17:53:51+00:00",
+  "count": 718,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 745,
+      "count": 739,
       "ok": true
     },
     "fws": {
@@ -30,115 +30,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "tamu-119135",
-      "title": "Wildlife Technician 1/2",
-      "description": "Job Title: Wildlife Technician 1/2Position#: 00100750Job Location: Urban Wildlife Program – Game Management – Game Management AdministrationJob Responsibilities: Under broad supervision, provide technical assistance to the public, local governments, homeowners' associations, a…",
-      "url": "https://gastateparks.org/careers?gad_source=1&gad_campaignid=12645924442&gbraid=0AAAAADshGt2x0n2UUdd_5kKCdGG_5Ftd1&gclid=CjwKCAjww-3VBhAcEiwAwUUIu-jgO4m3iEWzie1mxsFhsmzBudVgBSfp3n6ncESyZJORZopksoDvXRoCTKAQAvD_BwE",
-      "employer": "Georgia DNR - Wildlife Resources Division",
-      "employer_type": "State",
-      "location": "Atlanta, Georgia",
-      "salary": "$37,855.48 to $41,641.03 per year",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-10-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119135",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-102134",
-      "title": "Chelonian Keeper I",
-      "description": "The Chelonian Keeper I provides animal husbandry, horticulture, and general maintenance at the Turtle Survival Center (TSC) in South Carolina. TSC is part of the Turtle Survival Alliance, a global conservation organization that works to protect and restore wild populations of…",
-      "url": "https://app.trinethire.com/companies/341960-turtle-survival-alliance/jobs/124369-chelonian-turtle-keeper-i",
-      "employer": "Turtle Survival Alliance",
-      "employer_type": "Private",
-      "location": "Cross, South Carolina",
-      "salary": "$20.93 per hour",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-09-08",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=102134",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118444",
-      "title": "Postdoctoral Research Fellow",
-      "description": "Applications are sought for four, four-year postdoctoral research fellowships in marine research at Trinity College Dublin co-funded by the AIB Trinity Climate Hub and Horizon Europe’s MSCA Choose Europe for Science scheme. Research proposals are sought that investigate marine…",
-      "url": "https://climate-hub.ie/msdm/",
-      "employer": "Trinity College Dublin",
-      "employer_type": "Private",
-      "location": "Dublin, Ireland",
-      "salary": "$78,937 per year",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-08-26",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118444",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118340",
-      "title": "PhD position: Understanding ecosystem services by integrating ecology with economics and computer science",
-      "description": "A PhD position is available in the Lichtenberg lab starting fall 2027. This position is part of an NSF-funded project that is developing a new framework and tools for understanding and valuing ecosystem services, with a focus on crop pollination. In collaboration with a comput…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118340",
-      "employer": "University of North Texas",
-      "employer_type": "State",
-      "location": "University of North Texas (Denton, Texas)",
-      "salary": "starting at $28,320 per year",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-08-19",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118340",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118117",
-      "title": "Research Support Specialist - Wildlands monitoring biologist",
-      "description": "Job Description:Title: Research Support Specialist (Wildlands monitoring)Unit: Adirondack Ecological CenterSalary: $60,000- $65,000 Annually Commensurate with Qualifications. Outstanding Benefits Package including comprehensive health and retirement plan optionsLocation: Newco…",
-      "url": "https://esf.interviewexchange.com/jobofferdetails.jsp?JOBID=203445",
-      "employer": "SUNY ESF Adirondack Ecological Center",
-      "employer_type": "State",
-      "location": "6312 State Route 28N (Newcomb, New York)",
-      "salary": "$60,000 to $65,000 per year",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-08-07",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118117",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117911",
-      "title": "Wildlife Rehabilitation Hospital Technician",
-      "description": "As a Wildlife Rehabilitation Hospital Technician, you are responsible for all daily operations of the wildlife rehabilitation hospital, including but not limited to:Animal Husbandry of all patients, including critical adultsHand-feeding all orphans: squirrels, opossums, raccoo…",
-      "url": "https://www.stfranciswildlife.org/",
-      "employer": "St. Francis Wildlife",
-      "employer_type": "Private",
-      "location": "5580 Salem Rd (QUINCY, FLORIDA, Florida)",
-      "salary": "$15 to $17 per hour",
-      "deadline": "2026-10-10",
-      "deadline_raw": "10/10/2026",
-      "published": "2026-07-29",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117911",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "tamu-119158",
       "title": "Fisheries Biologist II (GFTL) - 2605204",
