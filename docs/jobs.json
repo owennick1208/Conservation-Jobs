@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17T16:07:42+00:00",
-  "count": 734,
+  "generated_at": "2026-10-18T16:20:35+00:00",
+  "count": 730,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 755,
+      "count": 749,
       "ok": true
     },
     "fws": {
@@ -30,119 +30,6 @@
     }
   },
   "jobs": [
-    {
-      "id": "tamu-119312",
-      "title": "biological science technician (plants)",
-      "description": "Implement various natural resource management projects and assist in the preparation of reports and plans.Monitor vegetation.Collect and send samples for laboratory analysis.Record and maintain project data using Global Positioning System (GPS) and Geographic Information Syste…",
-      "url": "https://www.usajobs.gov/job/887509400",
-      "employer": "National Park Service",
-      "employer_type": "Federal",
-      "location": "Texas",
-      "salary": "$19.52 to $25.37 per hour",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2026-10-06",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119312",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119313",
-      "title": "biological science technician, crew leader",
-      "description": "The primary duties of the position include assisting with ecological resource management project implementation, and leading field staff. You may train, lead, and supervise staff, interns, and/or volunteers conducting ecological resource management fieldwork, including but not…",
-      "url": "https://www.usajobs.gov/job/887510900",
-      "employer": "National Park Service",
-      "employer_type": "Federal",
-      "location": "Utah",
-      "salary": "$21.76 to $31.73 per hour",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2026-10-06",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119313",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119127",
-      "title": "Field and Quantitative Ecology",
-      "description": "Required Degree:PhD in Ecology, Evolutionary Biology, or a closely related field.The required degree must be completed by the start date. Experience:Demonstrated ability to teach undergraduate and graduate courses in ecology, organismal biology, and/or field biology. Evidence…",
-      "url": "https://byu.wd1.myworkdayjobs.com/faculty-careers/job/Provo-UT/XMLNAME--Job-Title--Biology---Field-and-Quantitative-Ecology--CFS-Professorial-Faculty_JR-10871",
-      "employer": "Brigham Young University",
-      "employer_type": "Private",
-      "location": "Brigham Young University (Provo, Utah)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2026-09-29",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119127",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118942",
-      "title": "Mate, Fish and Game Vessel (California Department of Fish and Wildlife)",
-      "description": "CDFW's Interagency Ecological Program (IEP) is seeking Mates, vessel operators, to pilot a fleet of diesel-powered and gasoline-powered research vessels up to 42 feet in length.The main duty of the Mate is to safely navigate vessels and operate a variety of aquatic sampling ge…",
-      "url": "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532159",
-      "employer": "California Department of Fish and Wildlife",
-      "employer_type": "State",
-      "location": "2109 Arch-Airport Rd, Suite 100 (Stockton, California)",
-      "salary": "starting at $5,316 per month",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2026-09-22",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118942",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118876",
-      "title": "Assistant Professor (Ecologist)",
-      "description": "The Department of Biology at William & Mary, a public university of the Commonwealth of Virginia, seeks applications for a tenure track position at the Assistant Professor level in Ecology. Appointment will begin August 10, 2027. We are interested in individuals with research…",
-      "url": "https://williammary.wd12.myworkdayjobs.com/en-US/WM/details/Assistant-Professor-of-Biology--Ecologist-_JR102072",
-      "employer": "College of William & Mary",
-      "employer_type": "State",
-      "location": "William & Mary, Integrated Science Center (Williamsburg, Virginia)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2026-09-18",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118876",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-110194",
-      "title": "Postdoctoral Scholar - Bayesian modeling of humpback whales - UCSC",
-      "description": "Dr. Alexa Fredston in the Department of Ocean Sciences at the University of California, Santa Cruz (UCSC) invites applications for a two-year postdoc position to start in fall 2026. The selected candidate will statistically integrate multiple datasets to predict the movement d…",
-      "url": "https://recruit.ucsc.edu/JPF02003",
-      "employer": "University of California, Santa Cruz",
-      "employer_type": "Private",
-      "location": "University of California, Santa Cruz (Santa Cruz, California)",
-      "salary": "$69,073 to $79,881 per year",
-      "deadline": "2026-10-17",
-      "deadline_raw": "10/17/2026",
-      "published": "2025-11-05",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=110194",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "tamu-119388",
       "title": "Denman Wildlife Area Senior (Fish and Wildlife Technician Senior) REQ-207390",
@@ -2171,6 +2058,23 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118387",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
+    },
+    {
+      "id": "parc-e1144c5d1a",
+      "title": "Biological Science Technician – Aquatics",
+      "description": null,
+      "url": "https://www.usajobs.gov/job/888879500",
+      "employer": "Sequoia and Kings Canyon National Parks",
+      "employer_type": null,
+      "location": "Three Rivers, CA",
+      "salary": "$17.45-21.87/hour",
+      "deadline": "2026-10-26",
+      "deadline_raw": "10-26-2026",
+      "published": null,
+      "tags": [],
+      "detail_url": null,
+      "source": "PARC (herpetology)",
+      "source_key": "parc"
     },
     {
       "id": "tamu-119533",
@@ -6260,8 +6164,8 @@
     {
       "id": "tamu-118856",
       "title": "Wildland Fire Squad Boss",
-      "description": "East Wenatchee-Hand Crew Squad Boss, Wildland Fire Management Lead (WFML)Work Hours and Partial Telework flexibility may be available and consideredRelocation Compensation may be available and consideredSalary: $3,827.00 - $5,111.00 MonthlyReview of applications is ongoing. We…",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5476577/east-wenatchee-hand-crew-squad-boss-wildland-fire-management-lead-wfml?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
+      "description": "Dallesport-Hand Crew Squad Boss, Wildland Fire Management Lead (WFML)Recruitment #2026-9-A020Full-time, Permanent, Represented position (WPEA)Location: Southeast Region- Dallesport, WARelocation Compensation may be available and consideredSalary: $3,827.00 - $5,111.00 MonthlyR…",
+      "url": "https://www.governmentjobs.com/careers/washington/jobs/5485017/dallesport-hand-crew-squad-boss-wildland-fire-management-lead-wfml?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
       "employer": "Washington State Department of Natural Resources",
       "employer_type": "State",
       "location": "Dallesport, Washington",
@@ -6271,6 +6175,23 @@
       "published": "2026-09-17",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118856",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-118835",
+      "title": "Wildland Fire Squad Boss",
+      "description": "East Wenatchee-Hand Crew Squad Boss, Wildland Fire Management Lead (WFML)Work Hours and Partial Telework flexibility may be available and consideredRelocation Compensation may be available and consideredSalary: $3,827.00 - $5,111.00 MonthlyReview of applications is ongoing. We…",
+      "url": "https://www.governmentjobs.com/careers/washington/jobs/5476577/east-wenatchee-hand-crew-squad-boss-wildland-fire-management-lead-wfml?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
+      "employer": "Washington State Department of Natural Resources",
+      "employer_type": "State",
+      "location": "East Wenatchee, Washington",
+      "salary": "$45,924 to $61,332 per year",
+      "deadline": "2026-11-08",
+      "deadline_raw": "11/08/2026",
+      "published": "2026-09-16",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118835",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
