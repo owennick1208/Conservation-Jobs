@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T16:25:46+00:00",
-  "count": 766,
+  "generated_at": "2026-10-25T16:57:36+00:00",
+  "count": 762,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 767,
+      "count": 764,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 53,
+      "count": 52,
       "ok": true
     },
     "afwa": {
@@ -26,44 +26,10 @@
       "name": "ReliefWeb (international)",
       "count": 0,
       "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://api.reliefweb.int/v2/jobs?appname=conservation-jobs-aggregator&limit=300&preset=latest&filter%5Bfield%5D=theme.id&filter%5Bvalue%5D%5B%5D=4588&fields%5Binclude%5D%5B%5D=title&fields%5Binclude%5D%5B%5D=url&fields%5Binclude%5D%5B%5D=url_alias&fields%5Binclude%5D%5B%5D=date.closing&fields%5Binclude%5D%5B%5D=date.created&fields%5Binclude%5D%5B%5D=source.name&fields%5Binclude%5D%5B%5D=country.name&fields%5Binclude%5D%5B%5D=city.name&fields%5Binclude%5D%5B%5D=career_categories.name&fields%5Binclude%5D%5B%5D=body"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     }
   },
   "jobs": [
-    {
-      "id": "tamu-119466",
-      "title": "Northwest Georgia Burn Crew Manager",
-      "description": "NORTHWEST GEORGIA BURN CREW MANAGER- Rome, Georgia (Seasonal, Full-Time), Job Reference # 103920 DESCRIPTION Closing date and Project Duration:Early application is encouraged as this job posting will be open until filled.The position is a seasonal position that will run from J…",
-      "url": "https://careers.tnc.org/us/en/job/JR103920/Northwest-Georgia-Burn-Crew-Manager",
-      "employer": "The Nature Conservancy - Georgia",
-      "employer_type": "Private",
-      "location": "3086 Martha Berry Highway (Rome , Georgia)",
-      "salary": "$24.97 to $27.03 per hour",
-      "deadline": "2026-10-24",
-      "deadline_raw": "10/24/2026",
-      "published": "2026-10-14",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119466",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119171",
-      "title": "Maintenance Support Member - St Marks National Wildlife Refuge",
-      "description": "SummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with the U.S. Fish and Wildlife Service (FWS), is seeking one member to contribute to maintenance projects under the mentorship of St Marks National Wildlife Refuge (NWR) Staff.For more inf…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1332747",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "St. Marks, Florida",
-      "salary": "$670 per week",
-      "deadline": "2026-10-24",
-      "deadline_raw": "10/24/2026",
-      "published": "2026-10-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119171",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "tamu-119256",
       "title": "Fish Hatchery Specialist 3 - Naselle River Hatchery - Permanent - 2026-07274",
@@ -5751,23 +5717,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "fws-CBYM-27-13092620-DH-BRZ",
-      "title": "Fish and Wildlife Biologist",
-      "description": "You will serve as a Fish and Wildlife Biologist, GS-0401-11 with U.S. Fish and Wildlife Service working for Ventura Fish and Wildlife Office. Pay will vary based on duty location for which you're selected. First time hires to the Federal government normally start at the step 1…",
-      "url": "https://www.usajobs.gov:443/job/889168700",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Multiple Locations",
-      "salary": "$87061 – $113185 PA",
-      "deadline": "2026-11-09",
-      "deadline_raw": "2026-11-09T23:59:59.9970",
-      "published": "2026-10-19",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/889168700",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
       "id": "tamu-119576",
       "title": "Archivist (NPS, Aztec Ruins National Monument)",
       "description": "The Cultural Resource Services Program (CRS) at the Great Basin Institute (GBI), in cooperation with Aztec Ruins National Monument (AZRU), is hiring one Project Archivist to work cooperatively under the direction of the National Park Service (NPS) Archivist for Chaco Culture N…",
@@ -10919,25 +10868,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119548",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119595",
-      "title": "POSTDOCTORAL RESEARCH ASSOCIATE: Quantitative Fisheries Ecology",
-      "description": "The Freshwater Community Ecology Lab at The Ohio State University (OSU) is seeking a postdoctoral researcher to investigate how fish movement influences the effectiveness of mechanical control strategies for invasive species. This position will focus on building simulation mod…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119595",
-      "employer": "The Ohio State University",
-      "employer_type": "State",
-      "location": "Columbus, , Ohio",
-      "salary": "$62,232 to $70,000 per year",
-      "deadline": "2026-12-31",
-      "deadline_raw": "12/31/2026",
-      "published": "2026-10-20",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119595",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
