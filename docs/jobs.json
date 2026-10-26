@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-25T16:57:36+00:00",
-  "count": 762,
+  "generated_at": "2026-10-26T19:00:52+00:00",
+  "count": 740,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
-      "count": 6,
+      "count": 7,
       "ok": true
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 764,
+      "count": 737,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 52,
+      "count": 53,
       "ok": true
     },
     "afwa": {
@@ -26,239 +26,10 @@
       "name": "ReliefWeb (international)",
       "count": 0,
       "ok": false,
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "403 Client Error: Forbidden for url: https://api.reliefweb.int/v2/jobs?appname=conservation-jobs-aggregator&limit=300&preset=latest&filter%5Bfield%5D=theme.id&filter%5Bvalue%5D%5B%5D=4588&fields%5Binclude%5D%5B%5D=title&fields%5Binclude%5D%5B%5D=url&fields%5Binclude%5D%5B%5D=url_alias&fields%5Binclude%5D%5B%5D=date.closing&fields%5Binclude%5D%5B%5D=date.created&fields%5Binclude%5D%5B%5D=source.name&fields%5Binclude%5D%5B%5D=country.name&fields%5Binclude%5D%5B%5D=city.name&fields%5Binclude%5D%5B%5D=career_categories.name&fields%5Binclude%5D%5B%5D=body"
     }
   },
   "jobs": [
-    {
-      "id": "tamu-119256",
-      "title": "Fish Hatchery Specialist 3 - Naselle River Hatchery - Permanent - 2026-07274",
-      "description": "Classification- Fish Hatchery Specialist 3Job Status- Full-Time/PermanentWDFW Program- Fish Program – Hatcheries DivisionDuty Station- Naselle River Hatchery – Naselle, Washington – Pacific CountyHousing- No housing provided*Standby- Standby is not currently assignedPosting Ti…",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5467177/fish-hatchery-specialist-3-naselle-river-hatchery-permanent-2026-07274",
-      "employer": "Washington Department of Fish & Wildlife",
-      "employer_type": "State",
-      "location": "Naselle, Washington",
-      "salary": "$4,633 to $6,229 per month",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-23",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119256",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119519",
-      "title": "Wildlife Biologist (Natural Resource Specialist 3) REQ-208312",
-      "description": "MAKE A DIFFERENCE IN OREGON’S NATURAL RESOURCES! Opportunity Awaits, Apply Today! As a Wildlife Biologist (Natural Resource Specialist 3) based in Charleston, Oregon, your primary responsibility is to direct and conduct the wildlife management program within the western portio…",
-      "url": "https://oregon.wd5.myworkdayjobs.com/SOR_External_Career_Site/job/Charleston--ODFW/Wildlife-Biologist--Natural-Resource-Specialist-3-_REQ-208312",
-      "employer": "Oregon Department of Fish and Wildlife",
-      "employer_type": "State",
-      "location": "Charleston, Oregon",
-      "salary": "$5,458 to $8,352 per month",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-15",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119519",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119318",
-      "title": "Avian Conservation Research Assistants (Seasonal)",
-      "description": "Apply here: https://recruiting.paylocity.com/recruiting/jobs/Details/4555588/Archbold-Expeditions-Inc/Avian-Conservation-Research-Assistants-SeasonalDescriptionPosition Summary:We are seeking seven (7) Seasonal Research Assistants to begin work in March or April 2027 at Avon P…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119318",
-      "employer": "Archbold Biological Station",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "$15.25 to $16.25 per hour",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-06",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119318",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119274",
-      "title": "FISHERIES & WILDLIFE BIO SCIENTIST II - 77000234",
-      "description": "Description of Duties: An exciting opportunity exists to serve as a Cooperative Fisheries and Wildlife Biologist, providing assistance to the Florida Forest Service, Camp Blanding, and the St. Johns River Water Management District, the lead managing agencies with the planning,…",
-      "url": "https://jobs.myflorida.com/job/STARKE-FISHERIES-&-WILDLIFE-BIO-SCIENTIST-II-77000234-FL-32091/1436459800/",
-      "employer": "Florida Fish and Wildlife Conservation Commission",
-      "employer_type": "State",
-      "location": "5629 State Road 16 West, Starke, FL 32091 (Florida)",
-      "salary": "starting at $40,999.92 per year",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-05",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119274",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119245",
-      "title": "SCI Seasonal Invasive Technician",
-      "description": "SERG MISSION STATEMENTSERG is a nonprofit organization under the umbrella of the San Diego State University Research Foundation and is committed to restoring and preserving California’s sensitive vegetation communities for the benefit of the environment and the preservation of…",
-      "url": "https://careers-sdsurf.icims.com/jobs/21003/sci-seasonal-invasive-technician/job",
-      "employer": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
-      "employer_type": "State",
-      "location": "San Diego, California",
-      "salary": "starting at $24.65 per hour",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119245",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119244",
-      "title": "SCI Seasonal Restoration Technician",
-      "description": "SERG MISSION STATEMENTSERG is a nonprofit organization under the umbrella of the San Diego State University Research Foundation and is committed to restoring and preserving California’s sensitive vegetation communities for the benefit of the environment and the preservation of…",
-      "url": "https://careers-sdsurf.icims.com/jobs/21004/sci-seasonal-restoration-technician/job",
-      "employer": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
-      "employer_type": "State",
-      "location": "San Diego, California",
-      "salary": "starting at $23.31 per hour",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119244",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119241",
-      "title": "Botany Project Manager",
-      "description": "SERG MISSION STATEMENTSERG is a nonprofit organization under the umbrella of the San Diego State University Research Foundation and is committed to restoring and preserving California’s sensitive vegetation communities for the benefit of the environment and the preservation of…",
-      "url": "https://careers-sdsurf.icims.com/jobs/21002/sci-botany-project-manager/job",
-      "employer": "San Diego State University Research Foundation Soil Ecology and Restoration Group (SERG)",
-      "employer_type": "State",
-      "location": "San Diego, California",
-      "salary": "starting at $27.73 per hour",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-02",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119241",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119117",
-      "title": "Assistant Professor - Precision Ranching",
-      "description": "About Texas A&M AgriLifeTexas A&M AgriLife is comprised of the following Texas A&M University System members:• Texas A&M AgriLife Extension Service• Texas A&M AgriLife Research• College of Agriculture and Life Sciences at Texas A&M University• Texas A&M Forest Service• Texas A…",
-      "url": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External",
-      "employer": "Texas A&M AgriLife Research",
-      "employer_type": "State",
-      "location": "multiple",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-10-01",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119117",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119169",
-      "title": "English as a Second Language Forestry Planner",
-      "description": "English as a Second Language (ESL) Engagement Coordinator, Environmental Planner 3 (EP3)Full-time, Project, Represented position (WFSE)Anticipated Project employment is December 2026 - September 2028Work Hours and Partial Telework flexibility may be available and consideredRel…",
-      "url": "https://www.governmentjobs.com/careers/washington/jobs/5497410/english-as-a-second-language-esl-engagement-coordinator-environmental-planner?department[0]=Dept.%20of%20Natural%20Resources&sort=PostingDate%7CDescending&pagetype=jobOpportunitiesJobs",
-      "employer": "Washington State Department of Natural Resources",
-      "employer_type": "State",
-      "location": "1111 Washington St. SE (Olympia, Washington)",
-      "salary": "$69,348 to $93,288 per year",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-09-30",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119169",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119023",
-      "title": "Regional Lands Specialist",
-      "description": "The full-time Regional Lands Specialist will be part of the Great Lakes/Atlantic Regional Office of Ducks Unlimited, Inc (DU) and preferably based in its Big Rivers Initiative (BRI) field office in O’Fallon, Illinois, or in our Great Lakes Atlantic Regional Office, Dexter MI.…",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&ccId=19000101_000001&lang=en_US&selectedMenuKey=CareerCenter&jobId=595904",
-      "employer": "Ducks Unlimited",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "$65,000 to $75,000 per year",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-09-24",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119023",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118920",
-      "title": "Assistant Professor of Silviculture",
-      "description": "The Department of Forest Management (DFM) in the W.A. Franke College of Forestry and Conservation at the University of Montana invites applications for a full-time academic year tenure-track Assistant Professor of Silviculture. The candidate will advance the DFM’s mission to p…",
-      "url": "https://apply.interfolio.com/193529",
-      "employer": "University of Montana",
-      "employer_type": "State",
-      "location": "Missoula, Montana",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-09-21",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118920",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118638",
-      "title": "Re5 Coral Restoration Internship",
-      "description": "INTERNSHIP DESCRIPTION POSITION TITLE: Reef Renewal USA- Re5 Coral Restoration Internship START DATE: January 4, 2027 END DATE: October 1, 2027 (With possible extension until December 31, 2027) LOCATION: Upper Florida Keys INTERNSHIP SUMMARY Reef Renewal USA is excited to host…",
-      "url": "https://reefrenewalusa.org/?gad_source=1&gad_campaignid=22311017682&gbraid=0AAAAAomyMhNJjsF31TCf5xVqZfE7AVs6A&gclid=Cj0KCQjw2OnUBhC2ARIsACKyfaF9UVWPQihM4odFk62b99et4koMjF6-VHeEBe1cMwmF0QXjTV1wJ3kaAra2EALw_wcB",
-      "employer": "Reef Renewal USA",
-      "employer_type": "Private",
-      "location": "Upper Florida Keys (Florida)",
-      "salary": "starting at $2,400 per month",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-09-04",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118638",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118387",
-      "title": "Postdoctoral Research Associate in Spatial Biodiversity Data and Conservation Applications",
-      "description": "Postdoc Summary:The Wildlife and Water Lab (WWL), based at the Odum School ofEcology, University of Georgia (UGA), Athens, invites applications for a postdoctoralcandidate in Spatial Biodiversity Data and Conservation Applications beginning January 15,2027 (or earlier if possi…",
-      "url": "https://www.ugajobsearch.com/postings/501516",
-      "employer": "Charles van Rees",
-      "employer_type": "State",
-      "location": "River Basin Center & Odum School of Ecology (Athens, Georgia)",
-      "salary": "starting at $58,000 per year",
-      "deadline": "2026-10-25",
-      "deadline_raw": "10/25/2026",
-      "published": "2026-08-21",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118387",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
     {
       "id": "parc-e1144c5d1a",
       "title": "Biological Science Technician – Aquatics",
@@ -293,23 +64,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119615",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119437",
-      "title": "Sea Turtle Lighting Biologist",
-      "description": "Agency information: The Florida Fish and Wildlife Conservation Commission (FWC) envisions a Florida where fish and wildlife are abundant and thriving in healthy and connected natural landscapes with vital working lands and waterways; where natural resources are valued and safe…",
-      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-OPS-F&W-Biological-Scientist-III-77905065-FL-32311/1439027000/",
-      "employer": "Florida Fish & Wildlife Conservation Commission",
-      "employer_type": "State",
-      "location": "FWC Offices, Russell Park, Tallahassee (Tallahassee, Florida)",
-      "salary": "starting at $21.63 per hour",
-      "deadline": "2026-10-26",
-      "deadline_raw": "10/26/2026",
-      "published": "2026-10-19",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119437",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -474,23 +228,6 @@
       "source_key": "fws"
     },
     {
-      "id": "fws-CBYM-27-13084887-MP-RR",
-      "title": "Maintenance Mechanic",
-      "description": "You will serve as a Maintenance Mechanic with US Fish and Wildlife Service.",
-      "url": "https://www.usajobs.gov:443/job/888400300",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Warm Springs, Oregon",
-      "salary": "$32.8 – $38.27 PH",
-      "deadline": "2026-10-26",
-      "deadline_raw": "2026-10-26T23:59:59.9970",
-      "published": "2026-10-13",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/888400300",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
       "id": "fws-CBYM-27-13088052-FUL-RR",
       "title": "FUL - Maintenance Worker",
       "description": "This position is located within the Department of the Interior, U.S. Fish and Wildlife Service, Region 1, Columbia River Gorge National Fish Hatchery, Underwood, Washington.",
@@ -521,40 +258,6 @@
       "published": "2026-10-14",
       "tags": [],
       "detail_url": "https://www.usajobs.gov:443/job/888715900",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-CBYN-27-13078293-FUL-RS",
-      "title": "FUL - Engineering Equipment Operator",
-      "description": "You will serve as a FUL - Engineering Equipment Operator, WG-5716-9, working for the Merritt Island National Wildlife Refuge in Titusville, Florida.",
-      "url": "https://www.usajobs.gov:443/job/889066400",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Titusville, Florida",
-      "salary": "$29.22 – $34.09 PH",
-      "deadline": "2026-10-26",
-      "deadline_raw": "2026-10-26T23:59:59.9970",
-      "published": "2026-10-16",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/889066400",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-CBYO-27-13090846-DE-MER",
-      "title": "Biological Science Technician (Fish) (Seasonal)",
-      "description": "Biological Science Technicians support fisheries, aquatic resource, and fish hatchery programs. Depending on the location, duties may include monitoring fish populations and habitats, collecting and managing biological data, and assisting with fish culture and hatchery operati…",
-      "url": "https://www.usajobs.gov:443/job/889131500",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Multiple Locations",
-      "salary": "$19.52 – $35.54 PH",
-      "deadline": "2026-10-26",
-      "deadline_raw": "2026-10-26T23:59:59.9970",
-      "published": "2026-10-19",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/889131500",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
     },
@@ -676,23 +379,6 @@
       "published": "2026-10-08",
       "tags": [],
       "detail_url": "https://www.usajobs.gov:443/job/888020100",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-CBYM-27-13086530-FUL-ARW",
-      "title": "FUL-Maintenance Mechanic",
-      "description": "You will serve as a Maintenance Mechanic within the Department of the Interior, U.S. Fish and Wildlife Service, Region 3, Iron River National Fish Hatchery in Iron River, WI. Salary (Hourly): WG-09: $31.72 - 37.01 First time hires to the Federal government normally start at th…",
-      "url": "https://www.usajobs.gov:443/job/888468400",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Iron River, Wisconsin",
-      "salary": "$31.72 – $37.01 PH",
-      "deadline": "2026-10-27",
-      "deadline_raw": "2026-10-27T23:59:59.9970",
-      "published": "2026-10-14",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/888468400",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
     },
@@ -935,23 +621,6 @@
       "published": "2026-10-15",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119518",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119362",
-      "title": "Seasonal Technician - Forest Landscape Ecology Lab",
-      "description": "Start Date: November 16, 2026 or December 1, 2026, for a 6-month term The Jones Center at Ichauway Landscape Ecology Lab invites applications for a full-time, temporary Seasonal Technician II position to contribute to research and conservation efforts in forest ecology. The La…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119362",
-      "employer": "The Jones Center at Ichauway",
-      "employer_type": "Private",
-      "location": "Newton, Georgia",
-      "salary": "$15 to $17 per hour",
-      "deadline": "2026-10-29",
-      "deadline_raw": "10/29/2026",
-      "published": "2026-10-08",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119362",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -1736,26 +1405,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-119019",
-      "title": "Osceola Wild Turkey Research Technicians 2026",
-      "description": "Position and Salary: 3 Full-time Wildlife Technician Positions, $16/hr:· 1 Florida Fish and Wildlife Conservation Commission (FWC) technician: o Timeline: Dec - Feb· 2 University of Florida (UF) technicians:o 1 UF technician: timeline Dec - Febo 1 UF technician: timeline Nov -…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119019",
-      "employer": "University of Florida",
-      "employer_type": "State",
-      "location": "West of Melbourne, Florida (Florida)",
-      "salary": "$16 per hour",
-      "deadline": "2026-10-30",
-      "deadline_raw": "10/30/2026",
-      "published": "2026-09-24",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119019",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-118992",
       "title": "Wildlife Technician (168- Day) (Seasonal Prescribed Fire Crewmember) (4)",
       "description": "Job Responsibilities: The Georgia Department of Natural Resources, Wildlife Resources Division, Wildlife Conservation Section is seeking four seasonal associates to assist with prescribed fire operations and habitat restoration/management projects across the Coastal Plain of G…",
@@ -2125,27 +1774,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-95457",
-      "title": "Self Directed Research in the Bolivian Amazon",
-      "description": "The 501(c) 3 non-profit Sustainable Bolivia is looking for individuals interested in conducting field-work at our newly constructed research station in the Bolivian Amazon (Aquicuana Reserve)! This position offers hands-on experience in ecological research in a beautiful lakes…",
-      "url": "http://sustainablebolivia.org",
-      "employer": "Sustainable Bolivia",
-      "employer_type": "Federal",
-      "location": "Aquicuana Reserve (Riberalta , Bolivia)",
-      "salary": "none",
-      "deadline": "2026-10-30",
-      "deadline_raw": "10/30/2026",
-      "published": "2026-05-01",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities",
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=95457",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-108457",
       "title": "GIS Mapping Internship – South Africa",
       "description": "The Lajuma Research Centre is set within a landscape of deep valleys, forested cliffs, mountain streams, and waterfalls. This variety of habitats—including montane grasslands, woodlands, thickets, and groundwater forests—supports significant biodiversity and ongoing ecological…",
@@ -2164,6 +1792,40 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=108457",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
+    },
+    {
+      "id": "fws-CBYM-27-13086530-FUL-ARW",
+      "title": "FUL-Maintenance Mechanic",
+      "description": "You will serve as a Maintenance Mechanic within the Department of the Interior, U.S. Fish and Wildlife Service, Region 3, Iron River National Fish Hatchery in Iron River, WI. Salary (Hourly): WG-09: $31.72 - 37.01 First time hires to the Federal government normally start at th…",
+      "url": "https://www.usajobs.gov:443/job/888468400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Iron River, Wisconsin",
+      "salary": "$31.72 – $37.01 PH",
+      "deadline": "2026-10-30",
+      "deadline_raw": "2026-10-30T23:59:59.9970",
+      "published": "2026-10-14",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/888468400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-CBYN-27-13078293-FUL-RS",
+      "title": "FUL - Engineering Equipment Operator",
+      "description": "You will serve as a FUL - Engineering Equipment Operator, WG-5716-9, working for the Merritt Island National Wildlife Refuge in Titusville, Florida.",
+      "url": "https://www.usajobs.gov:443/job/889066400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Titusville, Florida",
+      "salary": "$29.22 – $34.09 PH",
+      "deadline": "2026-10-30",
+      "deadline_raw": "2026-10-30T23:59:59.9970",
+      "published": "2026-10-16",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/889066400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
     },
     {
       "id": "fws-CBYN-27-13081352-MP-JMJ",
@@ -2359,25 +2021,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119611",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119500",
-      "title": "Water Resources Director",
-      "description": "Position: Water Resources DirectorFull-Time, ExemptReports to Executive DirectorOverview of Protect Our Water Jackson HoleProtect Our Water Jackson Hole (POWJH) is a 501(c)(3) tax-exempt nonprofit organization dedicated to protecting and restoring the quality of surface and gr…",
-      "url": "https://protectourwaterjh.org/careers/",
-      "employer": "Protect Our Water Jackson Hole",
-      "employer_type": "Private",
-      "location": "Jackson, Wyoming",
-      "salary": "$95,000 to $130,000 per year",
-      "deadline": "2026-10-31",
-      "deadline_raw": "10/31/2026",
-      "published": "2026-10-15",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119500",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -2580,40 +2223,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-119105",
-      "title": "Ecological Crew Leader",
-      "description": "Do you have a passion for native plants or an interest in habitat restoration? Do you want to help increase urban biodiversity? Come work with us!Native Landscape Solutions is seeking an Ecological Crew Leader to assist in invasive species management, prairie establishments, a…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119105",
-      "employer": "Native Landscape Solutions, Inc.",
-      "employer_type": "Private",
-      "location": "Saint Louis, Missouri",
-      "salary": "$40,000 to $45,000 per year",
-      "deadline": "2026-10-31",
-      "deadline_raw": "10/31/2026",
-      "published": "2026-09-29",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119105",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119106",
-      "title": "Geospatial Analyst II",
-      "description": "Join Us in the Fight Against WildfiresWildfires are becoming more frequent and intense, threatening lives, property, and natural resources in Texas. We need forward-looking problem solvers to help Texas A&M Forest Service (TAMFS) and the citizens of Texas stay ahead of the thr…",
-      "url": "https://tamus.wd1.myworkdayjobs.com/en-US/TFS_External/job/College-Station-TX/Geospatial-Analyst-II_R-097344",
-      "employer": "TEXAS A&M FOREST SERVICE",
-      "employer_type": "State",
-      "location": "200 TECHNOLOGY WAY (COLLEGE STATION, Texas)",
-      "salary": "starting at $6,037.50 per month",
-      "deadline": "2026-10-31",
-      "deadline_raw": "10/31/2026",
-      "published": "2026-09-29",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119106",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-119098",
       "title": "Golden-cheeked Warbler Seasonal Field Biologists",
       "description": "Job Description: The University of Illinois seeks to hire 5 seasonal field biologists to monitor Golden-cheeked Warblers on Fort Hood, Texas from 15 February – 4 June 2027. Primary tasks include re-sighting color-banded warblers, locate/monitor nests, territory mapping, point-…",
@@ -2716,6 +2325,25 @@
       "published": "2026-09-14",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118773",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-118735",
+      "title": "Ichauway Conservation Fellowship",
+      "description": "Job Description: Ichauway, Inc. invites applications for the Ichauway Conservation Fellowship. This is an 18 – 24-month (in-residence) program providing practical, real world, and applied natural resource management experience with the opportunity to pursue a graduate degree.…",
+      "url": "https://www.jonesctr.org/jobs/",
+      "employer": "The Jones Center at Ichauway",
+      "employer_type": "Private",
+      "location": "3988 Jones Center Drive (Newton, Georgia)",
+      "salary": "starting at $28,000 per year",
+      "deadline": "2026-10-31",
+      "deadline_raw": "10/31/2026",
+      "published": "2026-09-11",
+      "tags": [
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118735",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -3783,6 +3411,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-119710",
+      "title": "Park Manager",
+      "description": "Are you looking for an opportunity to work with Tennessee State Parks (TSP)? We have an outstanding opportunity to work in a beautiful work environment at Buffalo River State Park near Linden, Tennessee (Wayne County). This approximately 450-acre property includes more than tw…",
+      "url": "https://careers.edison.tn.gov/psc/hrprdrs/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST_FL&SiteId=1&JobOpeningId=81601&PostingSeq=1",
+      "employer": "Tennessee Department of Environment and Conservation",
+      "employer_type": "State",
+      "location": "F556+XH Flatwoods, TN, USA (Tennessee)",
+      "salary": "$79,320 per year",
+      "deadline": "2026-11-02",
+      "deadline_raw": "11/02/2026",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119710",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-119666",
       "title": "TPWD - Natural Resources Specialist III (State Parks Habitat and Fuels Specialist)",
       "description": "GENERAL DESCRIPTIONUnder the supervision of the State Parks Fire and Habitat Management Coordinator, this position performs highly complex (senior-level) natural resources work and is responsible for fuels management and habitat stewardship project planning and implementation…",
@@ -4216,6 +3861,23 @@
       "source_key": "fws"
     },
     {
+      "id": "fws-CBYO-27-13098354-DE-MER",
+      "title": "Range Technician (Seasonal)",
+      "description": "You will serve as a Range Technician (Seasonal) working in Stafford, KS for the Quivira National Wildlife Refuge. Anticipated Entry on Duty: Janurary 2027. but can be variable during these months due to weather conditions, project needs, or funding.",
+      "url": "https://www.usajobs.gov:443/job/889851200",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Stafford, Kansas",
+      "salary": "$19.52 – $25.37 PH",
+      "deadline": "2026-11-02",
+      "deadline_raw": "2026-11-02T23:59:59.9970",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/889851200",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "fws-CBYN-27-13095277-FUL-RS",
       "title": "FUL - Maintenance Worker",
       "description": "This position is for a Maintenance Worker, WG-4749-08, for the Department of the Interior, U.S. Fish & Wildlife Service, Kenai National Wildlife Reserve, SOLDOTNA, ALASKA. You may be required to work on-call, evenings, weekends, holidays, overtime and shift work. Salary Range…",
@@ -4263,6 +3925,23 @@
       "published": "2026-10-23",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119448",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-119437",
+      "title": "Sea Turtle Lighting Biologist",
+      "description": "Agency information: The Florida Fish and Wildlife Conservation Commission (FWC) envisions a Florida where fish and wildlife are abundant and thriving in healthy and connected natural landscapes with vital working lands and waterways; where natural resources are valued and safe…",
+      "url": "https://jobs.myflorida.com/job/TALLAHASSEE-OPS-F&W-Biological-Scientist-III-77905065-FL-32311/1439027000/",
+      "employer": "Florida Fish & Wildlife Conservation Commission",
+      "employer_type": "State",
+      "location": "FWC Offices, Russell Park, Tallahassee (Tallahassee, Florida)",
+      "salary": "starting at $21.63 per hour",
+      "deadline": "2026-11-03",
+      "deadline_raw": "11/03/2026",
+      "published": "2026-10-19",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119437",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -4525,6 +4204,23 @@
       "detail_url": "https://www.usajobs.gov:443/job/889659000",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
+    },
+    {
+      "id": "tamu-119715",
+      "title": "Furbearer and Gamebird Research Biologist",
+      "description": "The Indiana DNR is currently recruiting a Furbearer and Gamebird research biologist to work with the Furbearer and Gamebird Program Leader. Position will coordinate and analyze surveys, indices, and internal research projects within the program to inform decision-making. Examp…",
+      "url": "https://workforindiana.in.gov/job/Bloomington-Biologist-IN-47401/1443164200/",
+      "employer": "Indiana DNR",
+      "employer_type": "State",
+      "location": "Bloomington, Indiana",
+      "salary": "starting at $53,222 per year",
+      "deadline": "2026-11-05",
+      "deadline_raw": "11/05/2026",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119715",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
     },
     {
       "id": "tamu-119671",
@@ -5500,6 +5196,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "parc-32e3541d06",
+      "title": "Part Time OPS Fish and Wildlife Technician",
+      "description": null,
+      "url": "https://jobs.myflorida.com/job/FT-MYERS-OPS-F-&-W-Tech-77902272-FL-33901/1442373000/",
+      "employer": "Florida Fish and Wildlife Conservation Commission",
+      "employer_type": null,
+      "location": "Fort Myers, FL",
+      "salary": "$16.83 per hour",
+      "deadline": "2026-11-09",
+      "deadline_raw": "11-09-2026",
+      "published": null,
+      "tags": [],
+      "detail_url": null,
+      "source": "PARC (herpetology)",
+      "source_key": "parc"
+    },
+    {
       "id": "parc-7188010aa6",
       "title": "Zoologist – Ectotherms",
       "description": null,
@@ -5715,6 +5428,40 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118486",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
+    },
+    {
+      "id": "fws-CBYM-27-13084887-MP-RR",
+      "title": "Maintenance Mechanic",
+      "description": "You will serve as a Maintenance Mechanic with US Fish and Wildlife Service.",
+      "url": "https://www.usajobs.gov:443/job/888400300",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Warm Springs, Oregon",
+      "salary": "$32.8 – $38.27 PH",
+      "deadline": "2026-11-09",
+      "deadline_raw": "2026-11-09T23:59:59.9970",
+      "published": "2026-10-13",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/888400300",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
+      "id": "fws-CBYO-27-13095236-DE-SL",
+      "title": "Biologist",
+      "description": "This position is located within the Department of the Interior, U.S. Fish and Wildlife Service, Region 5, John Heinz National Wildlife Refuge at Tinicum located in Philadelphia, PA. Rate of Pay GS-09 - $68,013-$88,421 GS-11 - $82,289-$106,982 Pay will vary based on grade level…",
+      "url": "https://www.usajobs.gov:443/job/889546600",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Philadelphia, Pennsylvania",
+      "salary": "$68013 – $106982 PA",
+      "deadline": "2026-11-09",
+      "deadline_raw": "2026-11-09T23:59:59.9970",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/889546600",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
     },
     {
       "id": "tamu-119576",
@@ -6225,26 +5972,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-119633",
-      "title": "Research & Species Conservation Database Technician",
-      "description": "POSITION: Research & Species Conservation Database Technician START DATE: This is a 6-7 month state temporary position that will begin as soon as possible. The position will extend through June 30, 2027. PAY RATE: $23/hour, 40 hours per week. LOCATION: Fort Collins, CO. Part-t…",
-      "url": "https://drive.google.com/file/d/1axyo7uqsW_enZEnrrT0YMMqUOOYOc58h/view?usp=drive_link",
-      "employer": "Colorado Parks & Wildlife",
-      "employer_type": "State",
-      "location": "317 W Prospect Rd (Fort Collins, Colorado)",
-      "salary": "$23 per hour",
-      "deadline": "2026-11-15",
-      "deadline_raw": "11/15/2026",
-      "published": "2026-10-21",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119633",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-119603",
       "title": "Technical Services Manager (Sequoia Ecological)",
       "description": "Sequoia Ecological Consulting seeks a staff-first Technical Services Manager who is grounded in people-centered leadership and environmental consulting acumen to lead, support, and grow the team who protect California’s sensitive habitats, threatened species, and wild landscap…",
@@ -6690,25 +6417,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-110826",
-      "title": "Environmental Education Fellowship",
-      "description": "Osprey Wilds Environmental Learning Center is a public, non-profit residential learning center on Grindstone Lake near Sandstone, MN that provides outdoor educational opportunities to diverse audiences in an intimate setting.Residential and day-use environmental education expe…",
-      "url": "https://ospreywilds.org/aboutus/work/fellowship/",
-      "employer": "Osprey Wilds Environmental Learning Center",
-      "employer_type": "Private",
-      "location": "54165 Audubon Drive (Sandstone, Minnesota)",
-      "salary": "$225 to $275 per week",
-      "deadline": "2026-11-15",
-      "deadline_raw": "11/15/2026",
-      "published": "2026-04-15",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=110826",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-107121",
       "title": "Meat cutter, skinner, and packaging help",
       "description": "Come be a part of the largest wild game processor in Montana! We see thousands of animals a season, ranging from antelope, deer, elk, moose, bison, bear, mountain lion, sheep, goat, and the occasional exotic! Any experience is preferred but not mandatory. We can use help from…",
@@ -6758,25 +6466,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119507",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119446",
-      "title": "Open Rank Faculty in Waterfowl Ecology and Wetlands Management",
-      "description": "Open Rank Professor of Applied Waterfowl and Wetland EcologySchool of Environment and Natural ResourcesCollege of Food, Agricultural, and Environmental SciencesThe Ohio State UniversityThis is a full-time 9-month tenure-track appointment with responsibilities distributed as de…",
-      "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Full-Professor-in-Waterfowl-Ecology-and-Wetlands-Management_R160420",
-      "employer": "The Ohio State University",
-      "employer_type": "State",
-      "location": "Columbus, Ohio",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-11-16",
-      "deadline_raw": "11/16/2026",
-      "published": "2026-10-13",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119446",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -6871,23 +6560,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119295",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119137",
-      "title": "Aquatic Ecology Lab Manager at the University of Cincinnati",
-      "description": "Description: The Siders Aquatic Ecology Lab at the University of Cincinnati is seeking applicants for a Laboratory Manager. The lab conducts research in a variety of aquatic ecosystems including streams and wetlands, and studies a broad range of topics such as food web ecology…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119137",
-      "employer": "University of Cincinnati",
-      "employer_type": "State",
-      "location": "Cincinnati, Ohio",
-      "salary": "$45,000 to $48,000 per year",
-      "deadline": "2026-11-16",
-      "deadline_raw": "11/16/2026",
-      "published": "2026-10-01",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119137",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -7554,23 +7226,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-119577",
-      "title": "Aquatics Technician at the Jones Center at Ichauway",
-      "description": "The successful candidate will work both in the lab and the field, predominately the streams, rivers, lakes, and wetlands of the lower Flint River basin. Field duties will include, but not be limited to, assisting with water quality sample collection and establishing and mainta…",
-      "url": "https://www.jonesctr.org/jobs/",
-      "employer": "The Jones Center at Ichauway",
-      "employer_type": "Private",
-      "location": "3988 Jones Center Drive (Newton, Georgia)",
-      "salary": "$15 to $17 per hour",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-10-20",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119577",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-118860",
       "title": "Wildlife Center Winter Internship",
       "description": "We are actively seeking two (2) wildlife or education professionals to intern at The Wildlife Center at Legends Ranch in Bitely, Michigan. Legends Ranch is a world-renowned whitetail hunting destination. In addition to the top-notch whitetail hunting, we also have The Wildlife…",
@@ -7718,6 +7373,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "parc-8259ba1d7b",
+      "title": "Gulf Coastal Plains Regional Director",
+      "description": null,
+      "url": "https://arcprotects.org/gulfcoast/",
+      "employer": "Amphibian and Reptile Conservancy",
+      "employer_type": null,
+      "location": "Southern Mississippi, flexible",
+      "salary": "$70,000/yr",
+      "deadline": "2026-11-30",
+      "deadline_raw": "11-30-2026",
+      "published": null,
+      "tags": [],
+      "detail_url": null,
+      "source": "PARC (herpetology)",
+      "source_key": "parc"
+    },
+    {
       "id": "tamu-119622",
       "title": "Executive Director (Rocky Mountain Bighorn Society)",
       "description": "https://cdn.shopify.com/s/files/1/0720/9893/8903/files/RMBS_Executive_Director_Job_Posting_10.9.2026_Final.pdf?v=1791576522 https://cdn.shopify.com/s/files/1/0720/9893/8903/files/RMBS_Executive_Director_Job_Posting_10.9.2026_Final.pdf?v=1791576522",
@@ -7806,23 +7478,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119683",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119682",
-      "title": "Gulf Coastal Plains Regional Director",
-      "description": "About the OrganizationThe Amphibian and Reptile Conservancy (ARC) is a 501(c)(3) non-profit organization focused on the conservation and restoration of amphibian and reptile populations and their habitats across the United States. ARC focuses on implementing field programs in…",
-      "url": "https://arcprotects.org/gulfcoast",
-      "employer": "Amphibian and Reptile Conservancy",
-      "employer_type": "Private",
-      "location": "F2QP+9F Biloxi, MS, USA (Biloxi, Mississippi) | remote work allowed",
-      "salary": "starting at $70,000 per year",
-      "deadline": "2026-11-30",
-      "deadline_raw": "11/30/2026",
-      "published": "2026-10-23",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119682",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -8767,40 +8422,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119552",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119599",
-      "title": "Certified Conservation Planner",
-      "description": "Certified Conservation PlannerLocation: DelAtlantic Conservation District, Mays Landing, NJClassification: Full-timeQualifications: NRCS Level 3 Certified Conservation Planner status (Certified Crop Advisor or NRCS Level 2 Conservation Planner status will be considered) Submit…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119599",
-      "employer": "DelAtlantic Conservation District",
-      "employer_type": "State",
-      "location": "6260 Old Harding Highway (Mays Landing, New Jersey)",
-      "salary": "$50,000 to $60,000 per year",
-      "deadline": "2026-12-01",
-      "deadline_raw": "12/01/2026",
-      "published": "2026-10-20",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119599",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119605",
-      "title": "Civil Engineering Technician",
-      "description": "Civil Engineering TechnicianLocation: NRCS Field Office Woodstown, NJClassification: Full-time (35 hours/week)INTRODUCTIONNatural Resources Conservation Service (NRCS) and the DelAtlantic Conservation District have a shared and complimentary mission to assist land users to con…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119605",
-      "employer": "DelAtlantic Conservation District",
-      "employer_type": "State",
-      "location": "51 Cheney Rd (Woodstown, New Jersey)",
-      "salary": "$50,000 to $55,000 per year",
-      "deadline": "2026-12-01",
-      "deadline_raw": "12/01/2026",
-      "published": "2026-10-20",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119605",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -10057,6 +9678,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-119711",
+      "title": "Lemur Keeper (Keeper I or II)",
+      "description": "Lemur Keeper (Keeper I or Keeper II)Location: St. Catherines Island, GeorgiaJob category: Animal Keeper, Lemur ProgramStatus: Full-time, regular, non-exempt (hourly)Level and pay: This position will be filled at the Keeper I or Keeper II level based on the selected candidate's…",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119711",
+      "employer": "St Catherines Island Foundation",
+      "employer_type": "Private",
+      "location": "182 Camellia Rd (Midway, Georgia)",
+      "salary": "Commensurate / Negotiable",
+      "deadline": "2026-12-14",
+      "deadline_raw": "12/14/2026",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119711",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-112451",
       "title": "Deck Hand",
       "description": "Pay: $13.50 - $17.50 per hourJob description:Job OverviewThree Sisters Oyster Co is an 8-acre start up aquaculture business. The shore base is in Olivia, Texas and the 8-acre farm lease is nearby at the mouth of Keller Bay. We grow premium cultured oysters using a floating cag…",
@@ -10759,6 +10397,25 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-108506",
+      "title": "Research Associate",
+      "description": "The Environmental Psychology Innovation Center (EPIC) in the Biology Department at the University of Miami (Go Canes!) is recruiting a research associate to begin November 2026 (or sooner):Research Associate – Firefighter Health ProjectThis project explores the transgeneration…",
+      "url": "https://forms.gle/uD3UuxnhCWPiuK3ZA ",
+      "employer": "University of Miami",
+      "employer_type": "State",
+      "location": "1301 Memorial Dr #27 (Coral Gables, Florida)",
+      "salary": "starting at $45,000 per year",
+      "deadline": "2026-12-31",
+      "deadline_raw": "12/31/2026",
+      "published": "2026-10-26",
+      "tags": [
+        "Grant"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=108506",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-119442",
       "title": "Wildlife Care Specialists Internship- Very Hands ON (Alligators, Snakes, Venomous, Reptiles) Winter 2026",
       "description": "This internship revolves around gaining knowledge and hands-on experience with the American Alligator, venomous and non-venomous snakes, a variety of other reptiles, and several other animals. While much of the internship deals with animal care/husbandry and educating the publ…",
@@ -11324,6 +10981,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-117720",
+      "title": "Field Biologist",
+      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
+      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
+      "employer": "Spheros Environmental",
+      "employer_type": "Private",
+      "location": "Las Vegas, Nevada",
+      "salary": "$27 to $45 per hour",
+      "deadline": "2026-12-31",
+      "deadline_raw": "12/31/2026",
+      "published": "2026-07-30",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117720",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-117718",
       "title": "Temp Designated Field Biologist/Field Lead",
       "description": "Temp Designated Field Biologist/Field LeadLocation: Nevada Compensation: $40-60/hour Employee Type: Seasonal non-exemptSpheros Environmental is looking for a Designated Biologist/Field Lead to serve as rotating primary field contact for a development project near the Las Vegas…",
@@ -11677,6 +11351,23 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=112699",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-119712",
+      "title": "Jones Island Club Assistant Manager",
+      "description": "Jones Island Club is a private 5,000 acre duck hunting club on the coast of North Carolina. We manage farmed freshwater impoundments and brackish impoundments. We also have “outside blinds” that are built on the perimeter of our island to hunt diving ducks. Jones Island Club i…",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119712",
+      "employer": "Jones Island Club",
+      "employer_type": "Private",
+      "location": "469 Gale Creek Road (Bayboro, North Carolina)",
+      "salary": "Commensurate / Negotiable",
+      "deadline": "2027-01-01",
+      "deadline_raw": "01/01/2027",
+      "published": "2026-10-26",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119712",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -12317,6 +12008,25 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-119714",
+      "title": "Postdoctoral researcher position: Conservation scientist",
+      "description": "We are seeking applications for a Postdoctoral Researcher at the University of Massachusetts, Amherst to blend human dimensions and quantitative wildlife disease research: analyzing existing statewide stakeholder surveys to understand knowledge, attitudes, and regulation-relev…",
+      "url": "https://careers.umass.edu/jobs/post-doctoral-research-associate-conservation-scientist-amherst-massachusetts-united-states",
+      "employer": "U. S. Geological Survey",
+      "employer_type": "Federal",
+      "location": "Amherst, Massachusetts",
+      "salary": "$62,838 to $71,033 per year",
+      "deadline": "2027-01-24",
+      "deadline_raw": "01/24/2027",
+      "published": "2026-10-26",
+      "tags": [
+        "Faculty / Post-Doc Appointments"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119714",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-118163",
       "title": "Tropical Construction & Field Research Intern",
       "description": "OverviewJoin Chirripó Oasis, a 100-acre private reserve in Costa Rica's Talamanca Mountains dedicated to biodiversity conservation and sustainable land stewardship. We're looking for interns and volunteers to help establish our research foundation by constructing facilities us…",
@@ -12558,45 +12268,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119282",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119497",
-      "title": "Iowa Natural Heritage Foundation - Land Stewardship Intern",
-      "description": "Help restore Iowa’s natural beauty while learning about ecology, land management and wildlife as land stewardship intern! As an INHF intern, you’ll be part of one of the most respected internship programs in the state.Internship descriptionLand stewardship interns work hard to…",
-      "url": "https://www.inhf.org/about-us/internships/land-stewardship-internship",
-      "employer": "Iowa Natural Heritage Foundation",
-      "employer_type": "Private",
-      "location": "Iowa",
-      "salary": "$15 per hour",
-      "deadline": "2027-02-08",
-      "deadline_raw": "02/08/2027",
-      "published": "2026-10-14",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119497",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119610",
-      "title": "Spring Semester Experiential Education Course: Colorado Plateau – Desert Canyons & Cultures",
-      "description": "This 11-week, immersive field course takes students into the heart of the Colorado Plateau, a region defined by its striking red rock canyons, vast desert landscapes, and deep cultural history. Traveling through areas such as Grand Staircase-Escalante, Bears Ears National Monu…",
-      "url": "https://www.wrfi.net/course/colorado-plateau-desert-canyons-and-cultures/",
-      "employer": "Wild Rockies Field Institute",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "none",
-      "deadline": "2027-02-11",
-      "deadline_raw": "02/11/2027",
-      "published": "2026-10-20",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119610",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -13031,6 +12702,26 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-119716",
+      "title": "Trip Director (Camp Mishawaka)",
+      "description": "Camp Description:Camp Mishawaka is located in Grand Rapids, Minnesota and was founded in 1910. With more than 100 years in the business, Mishawaka is a traditional, overnight outdoor camp serving children ages 8-16. Located on Lake Pokegama, campers stay for 2, 4, 6, or 8 week…",
+      "url": "https://mishawaka.campintouch.com/ui/forms/application/staff/App",
+      "employer": "Camp Mishawaka",
+      "employer_type": "Private",
+      "location": "21525 Mishawaka Rd. (Grand Rapids, Minnesota)",
+      "salary": "$3,000 to $5,250 per month",
+      "deadline": "2027-04-01",
+      "deadline_raw": "04/01/2027",
+      "published": "2026-10-26",
+      "tags": [
+        "Undergraduate Opportunities",
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119716",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-114413",
       "title": "Experiential Education Course: Southwest Climate Studio Art - Change & Resilience in the American Southwest",
       "description": "This month-long field course integrates field studies, climate science, and studio art to examine the impacts of climate change through a creative lens. The course focuses on the theme of \"Community Resilience in a Changing Climate,\" providing students with both academic and e…",
@@ -13180,45 +12871,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-109170",
-      "title": "Cabin Counselor (Seasonal)",
-      "description": "Camp Description: Camp Mishawaka is located in Grand Rapids, Minnesota and was founded in 1910. With more than 100 years in the business, Mishawaka is a traditional, overnight outdoor camp serving children ages 8-16. Located on Lake Pokegama, campers stay for 2, 4, 6, or 8 wee…",
-      "url": "https://mishawaka.campintouch.com/ui/forms/application/staff/App",
-      "employer": "Camp Mishawaka",
-      "employer_type": "Private",
-      "location": "21525 Mishawaka Rd (Grand Rapids, Minnesota)",
-      "salary": "$1,450 to $3,000 per month",
-      "deadline": "2027-04-30",
-      "deadline_raw": "04/30/2027",
-      "published": "2026-09-22",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=109170",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119586",
-      "title": "Experiential Education Course: Restoration Ecology in Greater Yellowstone",
-      "description": "This three-week field course explores the iconic Greater Yellowstone Ecoregion, both in Yellowstone National Park and in surrounding landscapes, through two backpacking trips, field investigations, site visits, and meetings with guest speakers. Students on this course receive…",
-      "url": "https://www.wrfi.net/course/restoration-ecology-in-greater-yellowstone/",
-      "employer": "Wild Rockies Field Institute",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "none",
-      "deadline": "2027-05-02",
-      "deadline_raw": "05/02/2027",
-      "published": "2026-10-19",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119586",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-119325",
       "title": "Donor Relations Manager",
       "description": "Position: Donor Relations ManagerLocation: San Antonio (3-4 days a week) and Kendalia, TX (1-2 days a week)Website: www.wildlife-rescue.orgApply to: wrrapplication@wildlife-rescue.orgJob Type: Full-time, Monday through Friday (occasional evenings & weekends)History: Establishe…",
@@ -13232,25 +12884,6 @@
       "published": "2026-10-07",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119325",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-114422",
-      "title": "Experiential Education Course: Conservation Across Boundaries",
-      "description": "This six-week field course takes students through some of the most iconic and ecologically significant landscapes in the Northern Rockies, including the Bob Marshall Wilderness, Glacier National Park, the Canadian Rockies of British Columbia, and the Flathead River system on t…",
-      "url": "https://www.wrfi.net/course/wild-rockies-conservation-across-boundaries/",
-      "employer": "Wild Rockies Field Institute",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "none",
-      "deadline": "2027-05-04",
-      "deadline_raw": "05/04/2027",
-      "published": "2026-03-05",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114422",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -13290,25 +12923,6 @@
         "Faculty / Post-Doc Appointments"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119005",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-114412",
-      "title": "Experiential Education Course: Environmental Ethics - Climate Change & Visions of a Sustainable Future",
-      "description": "On this three-week field course, students get an introduction to contemporary approaches to environmental ethics, climate change science, and conservation biology. Students engage with climate scientists, environmental ethics scholars, federal land management agencies, conserv…",
-      "url": "https://www.wrfi.net/course/environmental-ethics-climate-change-and-visions-of-a-sustainable-future/",
-      "employer": "Wild Rockies Field Institute",
-      "employer_type": "Private",
-      "location": "multiple",
-      "salary": "none",
-      "deadline": "2027-05-25",
-      "deadline_raw": "05/25/2027",
-      "published": "2026-03-05",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114412",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -13409,21 +13023,21 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-114427",
-      "title": "Fall Semester Experiential Education Course: Montana Afoot & Afloat - Human/Land Relations",
-      "description": "This eleven-week immersive field course takes students deep into the heart of Montana’s landscapes, exploring the intersection of wild rivers, backcountry trails, and the people who depend on them. Traveling by foot and kayak, students traverse some of the region’s most ecolog…",
-      "url": "https://www.wrfi.net/course/montana-afoot-and-afloat-human-land-relations/",
+      "id": "tamu-114410",
+      "title": "Experiential Education Course: Restoration Ecology in Greater Yellowstone",
+      "description": "This three-week field course explores the iconic Greater Yellowstone Ecoregion, both in Yellowstone National Park and in surrounding landscapes, through two backpacking trips, field investigations, site visits, and meetings with guest speakers. Students on this course receive…",
+      "url": "https://www.wrfi.net/course/restoration-ecology-in-greater-yellowstone/",
       "employer": "Wild Rockies Field Institute",
       "employer_type": "Private",
       "location": "multiple",
       "salary": "none",
-      "deadline": "2027-07-13",
-      "deadline_raw": "07/13/2027",
-      "published": "2026-10-20",
+      "deadline": "2027-06-17",
+      "deadline_raw": "06/17/2027",
+      "published": "2026-03-05",
       "tags": [
         "Undergraduate Opportunities"
       ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114427",
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=114410",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -13488,8 +13102,8 @@
     {
       "id": "tamu-118195",
       "title": "Field Biologist",
-      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
+      "description": "PRINCIPAL FUNCTION: The Field Biologist will be part of the Conservation & Research Department team within the Southeastern Center for Conservation at the Atlanta Botanical Garden. They will work under the direction of the Field Botany Program Manager and assist with many of t…",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4400942",
       "employer": "Atlanta Botanical Garden",
       "employer_type": "Private",
       "location": "Atlanta Botanical Garden (Georgia)",
@@ -13616,23 +13230,6 @@
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=108080",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
-    },
-    {
-      "id": "parc-aedbc710d2",
-      "title": "Volunteer at the Dallas Zoo",
-      "description": null,
-      "url": "https://www.dallaszoo.com/support-the-zoo/volunteer/",
-      "employer": "Dallas Zoo",
-      "employer_type": null,
-      "location": "Dallas, TX",
-      "salary": "0",
-      "deadline": "2027-10-23",
-      "deadline_raw": "10-23-2027",
-      "published": null,
-      "tags": [],
-      "detail_url": null,
-      "source": "PARC (herpetology)",
-      "source_key": "parc"
     },
     {
       "id": "parc-7f7b5d9732",
