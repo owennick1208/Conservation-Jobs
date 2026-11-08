@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T17:56:22+00:00",
-  "count": 739,
+  "generated_at": "2026-11-08T18:12:33+00:00",
+  "count": 735,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 759,
+      "count": 754,
       "ok": true
     },
     "fws": {
@@ -46,61 +46,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-119788",
-      "title": "USDA Wildlife Services Wildlife Technician",
-      "description": "***APPLICANTS MUST APPLY THROUGH LINK ABOVE. IF ANY QUESTIONS PLEASE REACH OUT VIA EMAIL ASAP***The duties described are for the full-performance level. At developmental grade levels, assignments will be of more limited scope, performed with less independence and limited compl…",
-      "url": "https://www.usajobs.gov/job/887060800?_gl=1*1x4h6c7*_ga*MTI2Njc2NDE4OC4xNzU3MzQ2NzYy*_ga_5222X8D281*czE3OTA4NjI4NjEkbzgxNyRnMSR0MTc5MDg2Mzc2MCRqNTEkbDAkaDA.",
-      "employer": "United States Department of Agriculture",
-      "employer_type": "Federal",
-      "location": "ROMULUS, Michigan",
-      "salary": "$44,932 to $65,113 per year",
-      "deadline": "2026-11-07",
-      "deadline_raw": "11/07/2026",
-      "published": "2026-10-28",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119788",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119467",
-      "title": "Graduate Research Opportunity",
-      "description": "GRADUATE RESEARCH OPPORTUNITY (MS or PhD) to study the breeding ecology and nesting behavior of the Painted Bunting (Passerina ciris) in north Texas. The student along with faculty collaborators will continue a long-term study on a breeding population of Painted Buntings. Over…",
-      "url": "https://cos.unt.edu/biology/people/james-bednarz.html",
-      "employer": "University of North Texas, Department of Biological Sciences",
-      "employer_type": "State",
-      "location": "University of North Texas (Denton, Texas)",
-      "salary": "$24,200 to $28,000 per year",
-      "deadline": "2026-11-07",
-      "deadline_raw": "11/07/2026",
-      "published": "2026-10-14",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119467",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118803",
-      "title": "Assistant Teaching Professor, Applied Environmental Social Sciences",
-      "description": "The Department of Environmental Sciences (ENVS) at Emory University in Atlanta invites applications for an Assistant Teaching Professor in Applied Environmental Social Sciences, beginning August 1, 2027. For this teaching-track position, we seek a dynamic and collaborative tea…",
-      "url": "https://apply.interfolio.com/192159",
-      "employer": "Utah State University and Emory University",
-      "employer_type": "State",
-      "location": "Emory University (Alanta, Georgia)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-11-07",
-      "deadline_raw": "11/07/2026",
-      "published": "2026-09-15",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118803",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-119809",
@@ -5192,25 +5137,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119744",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118990",
-      "title": "Post-Doctoral Researcher (Predator-Prey and Life Cycle Modelling)",
-      "description": "Job description: A post-doctoral position is available immediately in the Lydy lab at Southern Illinois University (Carbondale, IL, USA). The successful candidate will work on several projects including determining the impacts of pesticide exposure on predator prey relationshi…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118990",
-      "employer": "SIUC",
-      "employer_type": "State",
-      "location": "1125 Lincoln Drive Southern Illinois University (Carbondale, Illinois)",
-      "salary": "up to $50,000 per year",
-      "deadline": "2026-11-30",
-      "deadline_raw": "11/30/2026",
-      "published": "2026-10-29",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118990",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
