@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T18:38:30+00:00",
-  "count": 765,
+  "generated_at": "2026-11-15T19:14:14+00:00",
+  "count": 755,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 804,
+      "count": 796,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 33,
+      "count": 32,
       "ok": true
     },
     "afwa": {
@@ -80,157 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-120010",
-      "title": "Traditional Trades Advancement Program - Stones River National Battlefield",
-      "description": "SummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with the National Park Service, is seeking TWO members to contribute to historic preservation projects alongside Stones River National Battlefield staff.The Traditional Trades Advancement P…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1339384",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "Stones River National Battlefield (Murfreesboro, Tennessee)",
-      "salary": "up to $800 per week",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-11-13",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120010",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119994",
-      "title": "Orchard Technician Members - Capitol Reef National Park",
-      "description": "Orchard Technician Members - Capitol Reef National ParkSummaryAmerican Conservation Experience, a nonprofit Conservation Corps, in partnership with Capitol Reef National Park, is seeking 2 Members to serve alongside the Resource Management & Science (RMS) division’s projects w…",
-      "url": "https://usaconservation.applicantpool.com/jobs/1338560",
-      "employer": "American Conservation Experience",
-      "employer_type": "Private",
-      "location": "Capitol Reef National Park (Torrey, Utah)",
-      "salary": "up to $800 per week",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-11-05",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119994",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119471",
-      "title": "Wild Turkey Predator Community Technicians (2)",
-      "description": "We are seeking two seasonal technicians to aid a wild turkey predator community research project based in Auburn, AL. Preferred qualifications include:- Passion for wildlife research and management with a strong work ethic- Completed or pursuing (at least junior standing) B.S.…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119471",
-      "employer": "AU",
-      "employer_type": "State",
-      "location": "602 Duncan Dr (Auburn University, Alabama)",
-      "salary": "starting at $15 per hour",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-10-14",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119471",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-117943",
-      "title": "Restoration Designer / Ecologist (Part Time, Flexible)",
-      "description": "Collaborative Earth is hiring an experienced Restoration Designer / Ecologist to lead preliminary site assessments, species identification, and site-specific restoration design and planning for an early-stage Payments for Ecosystem Services (PES) program focused on tributaries…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=117943",
-      "employer": "Collaborative Earth",
-      "employer_type": "Private",
-      "location": "3XQX+WQ Prairie View, TX, USA (Prairie View, Texas)",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-10-14",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117943",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119288",
-      "title": "Nursery Manager",
-      "description": "🌱 NURSERY MANAGER 🌱Cannabis for Conservation is seeking a Nursery Manager to lead the development and operation of a native plant nursery supporting the organization's restoration work across Humboldt, Trinity, and Mendocino Counties. This role sits at the intersection of hort…",
-      "url": "https://www.cannabisforconservation.org/careers",
-      "employer": "Cannabis for Conservation",
-      "employer_type": "Private",
-      "location": "1579 Glendale Dr (Mckinleyville, California)",
-      "salary": "$38 to $45 per hour",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-10-08",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119288",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118879",
-      "title": "Angelina-Sabine National Forest Prescribed Fire Corps Leader",
-      "description": "The 2027 USFS Region 8 Prescribed Fire Corps in Angelina-Sabine National Forest is a dynamic and exciting opportunity for those passionate about wildland firefighting. This SCA crew will consist of four crew members and one crew leader and will assist with prescribed burns and…",
-      "url": "https://myjobs.adp.com/scacareers/cx/job-details?__tx_annotation=false&_fromPublish=true&reqId=5001225124606",
-      "employer": "Student Conservation Association",
-      "employer_type": "Private",
-      "location": "Zavalla, Texas",
-      "salary": "$850 per week",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-09-18",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118879",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118878",
-      "title": "Sam Houston National Forest Prescribed Fire Corps Leader",
-      "description": "The 2027 USFS Region 8 Prescribed Fire Corps in Sam Houston National Forest is a dynamic and exciting opportunity for those passionate about wildland firefighting. This SCA crew will consist of four crew members and one crew leader and will assist with prescribed burns and oth…",
-      "url": "https://myjobs.adp.com/scacareers/cx/job-details?__tx_annotation=false&_fromPublish=true&reqId=5001225124506",
-      "employer": "Student Conservation Association",
-      "employer_type": "Private",
-      "location": "New Waverly, Texas",
-      "salary": "$850 per week",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-09-18",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118878",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118877",
-      "title": "Region 8 Prescribed Fire Corps Leader",
-      "description": "The 2027 USFS Region 8 Prescribed Fire Corps is a dynamic and exciting opportunity for those passionate about wildland firefighting. This SCA crew will consist of four crew members and one crew leader and will assist with prescribed burns and other projects alongside the U.S.…",
-      "url": "https://myjobs.adp.com/scacareers/cx/job-details?__tx_annotation=false&_fromPublish=true&reqId=5001224505506",
-      "employer": "Student Conservation Association",
-      "employer_type": "Private",
-      "location": "Atlanta, Georgia",
-      "salary": "$850 per week",
-      "deadline": "2026-11-14",
-      "deadline_raw": "11/14/2026",
-      "published": "2026-09-18",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118877",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-120024",
@@ -2544,23 +2393,6 @@
       "published": "2026-11-06",
       "tags": [],
       "detail_url": "https://www.usajobs.gov:443/job/891928100",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-CBYO-27-13106426-FUL-MER",
-      "title": "Biological Science Technician (Wildlife) (Temporary) (FUL)",
-      "description": "You will serve as a Biological Science Technician (Wildlife) (Temporary) (FUL) working in Vancouver WA for the Region 1, Branch of Refuge Biology Office. This is a temporary position expected to last 1 year but may be extended up to a maximum of two years based on agency needs…",
-      "url": "https://www.usajobs.gov:443/job/892593600",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Vancouver, Washington",
-      "salary": "$26.05 – $33.87 PH",
-      "deadline": "2026-11-20",
-      "deadline_raw": "2026-11-20T23:59:59.9970",
-      "published": "2026-11-12",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/892593600",
       "source": "USAJobs · Fish & Wildlife Service",
       "source_key": "fws"
     },
@@ -9541,23 +9373,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-117720",
-      "title": "Field Biologist",
-      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
-      "employer": "Spheros Environmental",
-      "employer_type": "Private",
-      "location": "Las Vegas, Nevada",
-      "salary": "$27 to $45 per hour",
-      "deadline": "2026-12-31",
-      "deadline_raw": "12/31/2026",
-      "published": "2026-07-30",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117720",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-117718",
       "title": "Temp Designated Field Biologist/Field Lead",
       "description": "Temp Designated Field Biologist/Field LeadLocation: Nevada Compensation: $40-60/hour Employee Type: Seasonal non-exemptSpheros Environmental is looking for a Designated Biologist/Field Lead to serve as rotating primary field contact for a development project near the Las Vegas…",
@@ -13482,8 +13297,8 @@
     {
       "id": "tamu-118195",
       "title": "Field Biologist",
-      "description": "PRINCIPAL FUNCTION: The Field Biologist will be part of the Conservation & Research Department team within the Southeastern Center for Conservation at the Atlanta Botanical Garden. They will work under the direction of the Field Botany Program Manager and assist with many of t…",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4400942",
+      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
+      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
       "employer": "Atlanta Botanical Garden",
       "employer_type": "Private",
       "location": "Atlanta Botanical Garden (Georgia)",
