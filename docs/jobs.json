@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T19:55:15+00:00",
-  "count": 788,
+  "generated_at": "2026-11-22T20:07:42+00:00",
+  "count": 787,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,7 +9,7 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 848,
+      "count": 846,
       "ok": true
     },
     "fws": {
@@ -80,25 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-119504",
-      "title": "Fish Technician",
-      "description": "This position will work with Tribal and U.S. Fish and Wildlife Service staff to assist with all aspects of the fish culture under the supervision of hatchery manager and BNR staff at Warm Springs National Fish Hatchery (NFH). The primary duty station will be the Warm Springs N…",
-      "url": "https://warmsprings-nsn.gov/tribal-programs/natural-resources/",
-      "employer": "Confederated Tribes of Warm Springs",
-      "employer_type": "Tribal Government",
-      "location": "Warm Springs, OR, Oregon",
-      "salary": "Commensurate / Negotiable",
-      "deadline": "2026-11-21",
-      "deadline_raw": "11/21/2026",
-      "published": "2026-10-15",
-      "tags": [
-        "Undergraduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119504",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-93714",
