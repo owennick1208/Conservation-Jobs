@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T22:07:30+00:00",
-  "count": 770,
+  "generated_at": "2026-11-26T22:06:16+00:00",
+  "count": 759,
   "sources": {
     "parc": {
       "name": "PARC (herpetology)",
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 827,
+      "count": 817,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 30,
+      "count": 28,
       "ok": true
     },
     "afwa": {
@@ -80,148 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-120264",
-      "title": "Biological Science Technician (Wildlife) (Seasonal)",
-      "description": "**** All applicants must apply on USA Jobs ****Biological Science Technicians perform field and technical work to monitor, manage, and protect natural resources, including plants, wildlife, aquatic resources, and their habitats. **** All applicants must apply on USA Jobs ****B…",
-      "url": "https://www.usajobs.gov/job/893373400",
-      "employer": "Bureau of Land Management",
-      "employer_type": "Federal",
-      "location": "Salt Lake City, Utah",
-      "salary": "$17.45 to $31.43 per hour",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-11-18",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120264",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119806",
-      "title": "AmeriCorps California Condor Monitoring Technician (Yurok Tribe, Orick, CA)",
-      "description": "The Research Associate Program at Great Basin Institute, in cooperation with Yurok Tribe, is recruiting two (2) California Condor Monitoring Technicians to participate in the Northern California Condor Restoration Program (NCCRP). Technicians will conduct California condor (Gy…",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A1ADEF5691B02D64E998539442696918/jobs/436651",
-      "employer": "Great Basin Institute",
-      "employer_type": "Private",
-      "location": "Orick, California",
-      "salary": "$255.33 per week",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-11-13",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119806",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119807",
-      "title": "AmeriCorps Education and Visitor Services Technician (BLM, Carrizo Plains National Monument)",
-      "description": "The Great Basin Institute Research Associate Program, in cooperation with the Bureau of Land Management (BLM), is recruiting (2) Education and Visitor Service AmeriCorps Volunteers to support Carrizo Plains National Monument, located outside of Bakersfield, CA. Under the direc…",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A1ADEF5691B02D64E998539442696918/jobs/436646",
-      "employer": "Great Basin Institute",
-      "employer_type": "Private",
-      "location": "Bakersfield, California",
-      "salary": "$700 per week",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-11-13",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119807",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-120130",
-      "title": "Forest Ungulate Research Biologist (moose, elk, and deer)",
-      "description": "Job Summary This position exists (1) to plan, conduct, analyze, and report on studies of forest wildlife species, both independently and under direction from Research Scientists, who provide overall direction for statewide research programs on forest game species; (2) to integ…",
-      "url": "http://www.mn.gov/careers",
-      "employer": "Minnesota Department of Natural Resources, Forest Wildlife Populations and Research Group",
-      "employer_type": "State",
-      "location": "1201 East Highway 2 (Grand Rapids, Minnesota)",
-      "salary": "$60,300 to $88,030 per year",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-11-13",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120130",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-119931",
-      "title": "South Carolina Department of Natural Resources, Population Genetics",
-      "description": "South Carolina Department of Natural Resources is looking to hire someone to contribute to our ongoing population genetic and molecular ecology research projects on marine and freshwater fishes and invertebrates. Work will include laboratory research (some field research), dat…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119931",
-      "employer": "South Carolina Department of Natural Resources",
-      "employer_type": "State",
-      "location": "multiple",
-      "salary": "starting at $52,345 per year",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-11-03",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119931",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-118860",
-      "title": "Wildlife Center Winter Internship",
-      "description": "We are actively seeking two (2) wildlife or education professionals to intern at The Wildlife Center at Legends Ranch in Bitely, Michigan. Legends Ranch is a world-renowned whitetail hunting destination. In addition to the top-notch whitetail hunting, we also have The Wildlife…",
-      "url": "https://wildlifecentermi.org/",
-      "employer": "Gutierrez Wildlife Center",
-      "employer_type": "Private",
-      "location": "2022 W. 14 Mile Rd. (BITELY, Michigan)",
-      "salary": "starting at $100 per day",
-      "deadline": "2026-11-25",
-      "deadline_raw": "11/25/2026",
-      "published": "2026-09-17",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118860",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "fws-CBYM-27-13103627-DE-MAB",
-      "title": "Maintenance Worker",
-      "description": "This Maintenance Worker, WG-4749-08, position is located within the Department of the Interior, U.S.Fish and Wildlife Service at the Abernathy Fish Technology Center, Longview, Washington. ** THIS ANNOUNCEMENT HAS BEEN EXTENDED AND WILL CLOSE ON 11/25/26. **",
-      "url": "https://www.usajobs.gov:443/job/891859600",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Longview, Washington",
-      "salary": "$29.08 – $33.92 PH",
-      "deadline": "2026-11-25",
-      "deadline_raw": "2026-11-25T23:59:59.9970",
-      "published": "2026-11-06",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/891859600",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
-    },
-    {
-      "id": "fws-CBYN-27-13086144-MP-ALM",
-      "title": "Park Ranger",
-      "description": "The Park Ranger position with the U.S. Fish and Wildlife Service at the Okefenokee National Wildlife Refuge in Folkston, Georgia, delivers visitor services, interpretation, environmental education, and outreach programs that promote stewardship of refuge resources. The positio…",
-      "url": "https://www.usajobs.gov:443/job/891869900",
-      "employer": "U.S. Fish and Wildlife Service",
-      "employer_type": "Federal",
-      "location": "Folkston, Georgia",
-      "salary": "$61722 – $80243 PA",
-      "deadline": "2026-11-25",
-      "deadline_raw": "2026-11-25T23:59:59.9970",
-      "published": "2026-11-05",
-      "tags": [],
-      "detail_url": "https://www.usajobs.gov:443/job/891869900",
-      "source": "USAJobs · Fish & Wildlife Service",
-      "source_key": "fws"
     },
     {
       "id": "tamu-120057",
@@ -2673,25 +2531,6 @@
       "published": "2026-11-11",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120105",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-120028",
-      "title": "M.S. Environmental Microbiology in Urban Streams - Antibiotic Resistant Genes",
-      "description": "The Wood Lab of Ecology and Ecosystems Studies at Tennessee Tech. University is looking for a Master of Science student to work on an environmental microbiology project, focusing on antibiotic-resistant genes in urban streams in the Cookeville, TN area. Institution: Tennessee…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120028",
-      "employer": "Tennessee Tech. University",
-      "employer_type": "State",
-      "location": "Cookeville, Tennessee",
-      "salary": "starting at $16,000 per year",
-      "deadline": "2026-12-01",
-      "deadline_raw": "12/01/2026",
-      "published": "2026-11-09",
-      "tags": [
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120028",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -6151,23 +5990,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-119636",
-      "title": "Wildlife Technician – Coyote Ecology and Sea Turtle Conservation: Sanibel Island, Florida",
-      "description": "DescriptionWe are seeking applicants for a wildlife technician to assist with a study of coyote population and spatial ecology on Sanibel Island, Florida. The project will examine coyote abundance, movement, habitat use, and family-group structure to inform wildlife management…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=119636",
-      "employer": "University of Florida",
-      "employer_type": "State",
-      "location": "3401 Experiment Station, Ona, FL 33865 (Florida)",
-      "salary": "$15 to $20 per hour",
-      "deadline": "2026-12-15",
-      "deadline_raw": "12/15/2026",
-      "published": "2026-10-21",
-      "tags": [],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=119636",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-119495",
       "title": "Research Technicians for Tutakoke River Brant Project, Summer 2027",
       "description": "Tentative project dates: 1 Position: early May – late July 2027; 2 Positions: early May – early July 2027 Location: Tutakoke River, Yukon-Kuskokwim Delta, Alaska Description: We are seeking 3 technicians for a long-term research project on the Yukon-Kuskokwim Delta of Alaska t…",
@@ -8615,7 +8437,7 @@
       "id": "tamu-116895",
       "title": "Field Assistant working with wild parrots and macaws in Tambopata PERU",
       "description": "Would you like to live in the middle of the Amazon rainforest as part of a fantastic multicultural team while helping to preserve wild macaws? Add to that learning a new set of skills and gaining great field experience at one of the longest-running parrot projects in the Ameri…",
-      "url": "https://dir.texas.gov/resource-library-item/state-website-linking-privacy-policy",
+      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=116895",
       "employer": "The Macaw Society",
       "employer_type": "Private",
       "location": "Tambopata National Reserve (Tambopata, Peru)",
@@ -12044,26 +11866,6 @@
         "Undergraduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=118788",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-120300",
-      "title": "Seasonal Forestry Technician (Fisheries & Stream Survey), GS-0462-04/05/06, Petersburg, Alaska",
-      "description": "Love salmon streams, wild rivers, and long days in the field? Spend your summer in the coastal temperate rainforest of Southeast Alaska. The Petersburg Ranger District of the Tongass National Forest, home to all five species of Pacific salmon plus steelhead, cutthroat trout, a…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120300",
-      "employer": "USDA Forest Service",
-      "employer_type": "Federal",
-      "location": "12 North Nordic Drive, Petersburg, AK 99833, USA (Petersburg, Alaska)",
-      "salary": "$19.73 to $31.98 per hour",
-      "deadline": "2027-02-14",
-      "deadline_raw": "02/14/2027",
-      "published": "2026-11-19",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120300",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
