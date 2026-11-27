@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:06:16+00:00",
+  "generated_at": "2026-11-27T21:48:08+00:00",
   "count": 759,
   "sources": {
     "parc": {
@@ -9,12 +9,12 @@
     },
     "tamu": {
       "name": "TAMU Natural Resources Board",
-      "count": 817,
+      "count": 814,
       "ok": true
     },
     "fws": {
       "name": "USAJobs · Fish & Wildlife Service",
-      "count": 28,
+      "count": 29,
       "ok": true
     },
     "afwa": {
@@ -80,25 +80,6 @@
       "detail_url": null,
       "source": "PARC (herpetology)",
       "source_key": "parc"
-    },
-    {
-      "id": "tamu-120057",
-      "title": "Seed Collection & Nursery Manager",
-      "description": "Help grow the next generation of Central Texas trees! TreeFolks is hiring a Seed Collection and Nursery Manager to lead our established native tree nursery and seed collection program. In addition to sourcing and germinating seed and raising healthy saplings for TreeFolks prog…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=120057",
-      "employer": "TreeFolks",
-      "employer_type": "Private",
-      "location": "10803 Platt Lane (Austin, Texas)",
-      "salary": "$67,000 to $71,000 per year",
-      "deadline": "2026-11-26",
-      "deadline_raw": "11/26/2026",
-      "published": "2026-11-11",
-      "tags": [
-        "Faculty / Post-Doc Appointments"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120057",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
     },
     {
       "id": "tamu-120116",
@@ -5155,6 +5136,23 @@
       "source_key": "tamu"
     },
     {
+      "id": "fws-CBYN-27-13121621-MP-AS",
+      "title": "Wildlife Refuge Manager",
+      "description": "This position is located within the U.S. Fish and Wildlife Service. You will serve as Wildlife Refuge Manager (Project Leader) for a National Wildlife Refuge Complex (Complex) at one of three refuge complexes with Region 8-Pacific Southwest.",
+      "url": "https://www.usajobs.gov:443/job/894208400",
+      "employer": "U.S. Fish and Wildlife Service",
+      "employer_type": "Federal",
+      "location": "Multiple Locations",
+      "salary": "$125776 – $163514 PA",
+      "deadline": "2026-12-10",
+      "deadline_raw": "2026-12-10T23:59:59.9970",
+      "published": "2026-11-27",
+      "tags": [],
+      "detail_url": "https://www.usajobs.gov:443/job/894208400",
+      "source": "USAJobs · Fish & Wildlife Service",
+      "source_key": "fws"
+    },
+    {
       "id": "tamu-120327",
       "title": "Conservation Forestry Technician 11-month Temporary",
       "description": "Agency: North Carolina Wildlife Resources CommissionPosition: Conservation Forestry Technician (11 month with possible option to renew) Location: Sandhills Wildlife Depot, Richmond County, North Carolina Position Duration: Temporary, 11 monthsCompensation: $16.00+/per hour/dep…",
@@ -7614,7 +7612,7 @@
     {
       "id": "tamu-118365",
       "title": "Natural Resource Monitors",
-      "description": "General DescriptionThe Natural Resource Monitor will be a full-time, hourly employee providing construction monitoring and natural resource survey support for projects in Texas near the US/Mexico border, proximate to Presidio, Texas. The Natural Resource Monitor must be knowle…",
+      "description": "General DescriptionThe Natural Resource Monitor will be a full-time, hourly employee providing construction monitoring and natural resource survey support for projects in Texas near the US/Mexico border, proximate to Sierra Blanca , Texas. The Natural Resource Monitor must be…",
       "url": "https://jobs.rwfm.tamu.edu/view-job/?id=118365",
       "employer": "Vernadero Group Incorporated",
       "employer_type": "Private",
@@ -8267,6 +8265,23 @@
       "published": "2026-07-30",
       "tags": [],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117811",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
+      "id": "tamu-117720",
+      "title": "Field Biologist",
+      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
+      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
+      "employer": "Spheros Environmental",
+      "employer_type": "Private",
+      "location": "Las Vegas, Nevada",
+      "salary": "$27 to $45 per hour",
+      "deadline": "2026-12-31",
+      "deadline_raw": "12/31/2026",
+      "published": "2026-07-30",
+      "tags": [],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=117720",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -9669,6 +9684,26 @@
       "source_key": "tamu"
     },
     {
+      "id": "tamu-120356",
+      "title": "Community Volunteer Ambassador - Joshua Tree National Park",
+      "description": "PLEASE NOTE: All applications must be submitted through this link - https://form.jotform.com/StewardsIPP/cva-member-application-2027 Position Title: Community Volunteer Ambassador – AmeriCorps Conservation Legacy Program: Stewards Individual Placements Site Location: Joshua Tr…",
+      "url": "https://form.jotform.com/StewardsIPP/cva-member-application-2027",
+      "employer": "Stewards Individual Placements",
+      "employer_type": "Private",
+      "location": "74485 National Park Drive, Twentynine Palms, CA 92277 (California)",
+      "salary": "starting at $700 per week",
+      "deadline": "2027-01-07",
+      "deadline_raw": "01/07/2027",
+      "published": "2026-11-20",
+      "tags": [
+        "Undergraduate Opportunities",
+        "Graduate Opportunities"
+      ],
+      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120356",
+      "source": "TAMU Natural Resources Board",
+      "source_key": "tamu"
+    },
+    {
       "id": "tamu-120316",
       "title": "Environmental Grants Administrator",
       "description": "The position will coordinate and administer all major grant functions for the Department of Environmental Protection (DEP) in managing over 30+ grants/accounts that provide funding for environmental data collection, monitoring, restoration, clean up, and resource management fo…",
@@ -9761,26 +9796,6 @@
         "Graduate Opportunities"
       ],
       "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120312",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
-      "id": "tamu-120357",
-      "title": "Community Volunteer Ambassador - Klondike Gold Rush National Historical Park",
-      "description": "PLEASE NOTE: All applications must be submitted through this link - https://form.jotform.com/StewardsIPP/cva-member-application-2027 Position Title: Community Volunteer Ambassador – AmeriCorps Conservation Legacy Program: Stewards Individual Placements Site Location: Klondike…",
-      "url": "https://form.jotform.com/StewardsIPP/cva-member-application-2027",
-      "employer": "Stewards Individual Placements",
-      "employer_type": "Private",
-      "location": "319 Second Avenue South, Seattle, WA 98104 (Washington)",
-      "salary": "starting at $700 per week",
-      "deadline": "2027-01-08",
-      "deadline_raw": "01/08/2027",
-      "published": "2026-11-20",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=120357",
       "source": "TAMU Natural Resources Board",
       "source_key": "tamu"
     },
@@ -13000,26 +13015,6 @@
       "source_key": "tamu"
     },
     {
-      "id": "tamu-96443",
-      "title": "Internship with Orphaned Rhino and Cheetah Conservation in South Africa",
-      "description": "We are looking for 4-6 interns that want to gain hands-on experience working at a South African wildlife sanctuary with a wide variety of endangered species and other exotic wildlife such as rhinos, cheetahs, hippos, lions, hyenas, leopards. Some of these animals will be rehab…",
-      "url": "https://jobs.rwfm.tamu.edu/view-job/?id=96443",
-      "employer": "Field Study Abroad",
-      "employer_type": "Private",
-      "location": "South Africa",
-      "salary": "none",
-      "deadline": "2027-05-01",
-      "deadline_raw": "05/01/2027",
-      "published": "2026-10-26",
-      "tags": [
-        "Undergraduate Opportunities",
-        "Graduate Opportunities"
-      ],
-      "detail_url": "https://jobs.rwfm.tamu.edu/view-job/?id=96443",
-      "source": "TAMU Natural Resources Board",
-      "source_key": "tamu"
-    },
-    {
       "id": "tamu-119586",
       "title": "Experiential Education Course: Restoration Ecology in Greater Yellowstone",
       "description": "This three-week field course explores the iconic Greater Yellowstone Ecoregion, both in Yellowstone National Park and in surrounding landscapes, through two backpacking trips, field investigations, site visits, and meetings with guest speakers. Students on this course receive…",
@@ -13382,8 +13377,8 @@
     {
       "id": "tamu-118195",
       "title": "Field Biologist",
-      "description": "Seasonal Field BiologistLocation: 100% Field Based (NV)Compensation: $27-45/hour (negotiable based on experience) Employee Type: Seasonal Non-exempt ScheduleThis position supports two primary types of field work, each with its own seasonal schedule and workload expectations. C…",
-      "url": "https://secure7.saashr.com/ta/6203043.careers?ShowJob=604480410",
+      "description": "PRINCIPAL FUNCTION: The Field Biologist will be part of the Conservation & Research Department team within the Southeastern Center for Conservation at the Atlanta Botanical Garden. They will work under the direction of the Field Botany Program Manager and assist with many of t…",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4400942",
       "employer": "Atlanta Botanical Garden",
       "employer_type": "Private",
       "location": "Atlanta Botanical Garden (Georgia)",
